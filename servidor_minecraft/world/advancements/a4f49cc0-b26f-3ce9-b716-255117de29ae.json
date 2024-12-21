@@ -2952,15 +2952,22 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
+  "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "has_salmon": "2024-12-21 19:08:07 +0000"
+      "pillager_outpost": "2024-12-21 19:04:36 +0000",
+      "illager_camp": "2024-12-21 18:59:27 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2024-12-21 19:04:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "has_flint": "2024-12-21 19:26:47 +0000"
+      "has_salmon": "2024-12-21 19:08:07 +0000"
     },
     "done": true
   },
@@ -2970,32 +2977,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-12-21 19:23:59 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 19:08:07 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "pillager_outpost": "2024-12-21 19:04:36 +0000",
-      "illager_camp": "2024-12-21 18:59:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2024-12-21 19:26:47 +0000"
+      "has_salmon": "2024-12-21 19:08:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-21 19:08:07 +0000"
     },
@@ -3007,15 +3001,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_salmon": "2024-12-21 19:08:07 +0000"
+      "has_water_bucket": "2024-12-21 19:23:59 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/find_pillager_outpost": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "minecraft:pillager_outpost": "2024-12-21 19:04:36 +0000"
+      "has_flint": "2024-12-21 19:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-21 19:26:47 +0000"
     },
     "done": true
   },
