@@ -589,3 +589,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [21Dec2024 16:53:57.079] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [21Dec2024 16:54:18.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Crops of the Wild]
 [21Dec2024 16:54:24.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo was blown up by CabezaCascoo
+[21Dec2024 16:55:06.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablitobanana07[/127.230.193.219:43795] logged in with entity id 7602 at (4.356999622074129, 64.0, 103.21402192585039)
+[21Dec2024 16:55:06.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 joined the game
+[21Dec2024 16:55:06.425] [Server thread/INFO] [Jade/]: Syncing config to pablitobanana07 (abb3857f-cdde-37ea-8850-a7df92aaa81e)
+[21Dec2024 16:55:14.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21Dec2024 16:55:34.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4447ms or 88 ticks behind
+[21Dec2024 16:58:06.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 lost connection: Timed out
+[21Dec2024 16:58:06.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 left the game
+[21Dec2024 16:58:17.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablitobanana07[/127.230.193.219:42487] logged in with entity id 10077 at (4.39054463038346, 62.30671189216461, 65.50983990285461)
+[21Dec2024 16:58:17.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 joined the game
+[21Dec2024 16:58:17.560] [Server thread/INFO] [Jade/]: Syncing config to pablitobanana07 (abb3857f-cdde-37ea-8850-a7df92aaa81e)
+[21Dec2024 16:58:21.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21Dec2024 16:59:05.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Dec2024 16:59:23.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[21Dec2024 16:59:40.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[21Dec2024 16:59:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Sweet Dreams]
+[21Dec2024 16:59:57.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Dec2024 17:00:55.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[21Dec2024 17:01:14.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[21Dec2024 17:01:59.670] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Dec2024 17:01:59.674] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Dec2024 17:03:01.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Take Aim]
+[21Dec2024 17:03:05.664] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[21Dec2024 17:03:08.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21Dec2024 17:03:44.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey lost connection: Disconnected
+[21Dec2024 17:03:44.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey left the game
+[21Dec2024 17:03:56.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigmayey[/127.235.116.149:58831] logged in with entity id 14481 at (-55.8846266798864, 65.0, 2976.3928518068424)
+[21Dec2024 17:03:56.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey joined the game
+[21Dec2024 17:03:56.333] [Server thread/INFO] [Jade/]: Syncing config to sigmayey (8d003b35-26b0-367a-8909-5a29ab1ec93c)
+[21Dec2024 17:04:04.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Not Today, Thank You]
+[21Dec2024 17:04:11.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[21Dec2024 17:04:17.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo lost connection: Disconnected
+[21Dec2024 17:04:17.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo left the game
+[21Dec2024 17:04:47.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey lost connection: Disconnected
+[21Dec2024 17:04:47.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey left the game
+[21Dec2024 17:05:21.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CabezaCascoo[/127.96.153.127:50727] logged in with entity id 15386 at (24.69999998807907, 102.0, -957.3000000119209)
+[21Dec2024 17:05:21.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo joined the game
+[21Dec2024 17:05:21.524] [Server thread/INFO] [Jade/]: Syncing config to CabezaCascoo (a4f49cc0-b26f-3ce9-b716-255117de29ae)
+[21Dec2024 17:05:25.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3722ms or 74 ticks behind

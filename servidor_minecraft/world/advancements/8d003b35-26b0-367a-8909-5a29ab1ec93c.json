@@ -25,14 +25,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2024-12-21 16:55:47 +0000",
       "minecraft:sunflower_plains": "2024-12-21 16:13:55 +0000",
       "minecraft:birch_forest": "2024-12-21 15:55:17 +0000",
       "minecraft:beach": "2024-12-21 16:20:57 +0000",
       "minecraft:dark_forest": "2024-12-21 15:51:34 +0000",
       "minecraft:river": "2024-12-21 15:55:13 +0000",
       "minecraft:stony_shore": "2024-12-21 16:48:49 +0000",
+      "minecraft:snowy_taiga": "2024-12-21 16:55:44 +0000",
+      "minecraft:cold_ocean": "2024-12-21 16:52:44 +0000",
       "minecraft:forest": "2024-12-21 15:55:53 +0000",
       "minecraft:ocean": "2024-12-21 16:27:39 +0000",
+      "minecraft:snowy_beach": "2024-12-21 16:56:35 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 16:10:55 +0000",
       "minecraft:meadow": "2024-12-21 16:09:10 +0000",
       "minecraft:plains": "2024-12-21 15:58:12 +0000"
@@ -1324,10 +1328,13 @@
     "criteria": {
       "biomeswevegone:temperate_grove": "2024-12-21 16:09:13 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-21 16:50:27 +0000",
+      "biomeswevegone:maple_taiga": "2024-12-21 16:55:26 +0000",
       "biomeswevegone:prairie": "2024-12-21 16:12:31 +0000",
       "biomeswevegone:rose_fields": "2024-12-21 16:09:29 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-21 16:10:11 +0000",
-      "biomeswevegone:allium_shrubland": "2024-12-21 16:11:59 +0000"
+      "biomeswevegone:frosted_coniferous_forest": "2024-12-21 16:55:48 +0000",
+      "biomeswevegone:allium_shrubland": "2024-12-21 16:11:59 +0000",
+      "biomeswevegone:crimson_tundra": "2024-12-21 16:56:04 +0000"
     },
     "done": false
   },
@@ -1757,7 +1764,31 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2024-12-21 16:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-21 16:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-21 16:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-21 16:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-21 16:50:34 +0000"
     },
@@ -1775,39 +1806,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-21 16:50:54 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/foragers_table": {
     "criteria": {
       "has_mushrooms": "2024-12-21 16:52:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+  "dungeons_arise:find_fishing_hut": {
     "criteria": {
-      "has_raw_iron": "2024-12-21 16:50:34 +0000"
+      "location0": "2024-12-21 16:53:48 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/coal": {
+  "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
-      "has_coal": "2024-12-21 16:49:07 +0000"
+      "has_any_ingredient": "2024-12-21 16:53:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
-      "has_coal": "2024-12-21 16:49:07 +0000"
+      "has_rotten_flesh": "2024-12-21 16:53:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_raw_iron": "2024-12-21 16:50:34 +0000"
+      "has_cod": "2024-12-21 16:54:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
-      "has_raw_copper": "2024-12-21 16:50:54 +0000"
+      "has_cod": "2024-12-21 16:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-21 16:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-21 16:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-21 16:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 16:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 16:57:06 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2024-12-21 16:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-21 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 17:01:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-21 17:03:20 +0000"
     },
     "done": true
   },

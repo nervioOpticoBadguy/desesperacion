@@ -30,6 +30,7 @@
       "minecraft:dark_forest": "2024-12-21 15:51:25 +0000",
       "minecraft:river": "2024-12-21 15:58:20 +0000",
       "minecraft:forest": "2024-12-21 16:00:08 +0000",
+      "minecraft:lush_caves": "2024-12-21 17:02:17 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 15:52:23 +0000"
     },
     "done": false
@@ -1048,6 +1049,18 @@
       "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2024-12-21 16:49:50 +0000"
     },
     "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:weeping_witch_forest": "2024-12-21 17:01:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:weeping_witch_forest": "2024-12-21 17:01:24 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
