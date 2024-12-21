@@ -2379,3 +2379,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [21Dec2024 19:00:20.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 6.272157079783028,2.249187078744683,7.546483404892456
 [21Dec2024 19:00:20.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
 [21Dec2024 19:01:24.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [Alex's Caves]
+[21Dec2024 19:01:56.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[21Dec2024 19:02:47.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Hot Stuff]
+[21Dec2024 19:04:36.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has made the advancement [Intruder Alert]
+[21Dec2024 19:04:40.752] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[21Dec2024 19:04:40.754] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[21Dec2024 19:04:40.770] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[21Dec2024 19:04:40.771] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[21Dec2024 19:04:40.771] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[21Dec2024 19:04:41.674] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[21Dec2024 19:04:41.675] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[21Dec2024 19:04:42.763] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[21Dec2024 19:04:42.763] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[21Dec2024 19:04:42.790] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[21Dec2024 19:04:43.076] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[21Dec2024 19:04:57.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 lost connection: Disconnected
+[21Dec2024 19:04:57.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 left the game
+[21Dec2024 19:05:19.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey was pierced by Necromancer's icicle
+[21Dec2024 19:05:19.730] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for sigmayey with unique ID travelersbackpack.standard_21.12.2024-19.05.19.dat
+[21Dec2024 19:05:58.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[21Dec2024 19:07:00.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21Dec2024 19:07:44.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Best Friends Forever]
+[21Dec2024 19:07:44.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm moved too quickly! 9.228603462970568,-4.0,1.759038492928994
+[21Dec2024 19:07:59.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Once Upon a Cave]
+[21Dec2024 19:08:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo was shot by Pillager
+[21Dec2024 19:08:18.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[21Dec2024 19:08:18.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 9.222415935773824,4.15233518685055,-0.6523762149986396
+[21Dec2024 19:08:18.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm moved too quickly! 9.59518138121257,-1.0,-2.811962207837496
+[21Dec2024 19:08:24.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 9.283601136320158,3.2538907259487644,3.0314948655216085
+[21Dec2024 19:10:53.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[21Dec2024 19:11:31.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[21Dec2024 19:11:43.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm moved too quickly! 7.277832739740461,0.0448124203990119,7.263718706994723
+[21Dec2024 19:11:43.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 9.83218136574942,-1.4235592945430398,1.9992618496703471
+[21Dec2024 19:11:57.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! -9.84278031784163,2.024424088213692,1.9061086612721283
+[21Dec2024 19:12:06.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm moved too quickly! 6.546103879983548,-0.12129684053920187,7.645016414704969
+[21Dec2024 19:12:19.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind

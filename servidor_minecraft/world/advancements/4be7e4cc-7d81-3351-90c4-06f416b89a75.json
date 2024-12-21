@@ -27,7 +27,9 @@
     "criteria": {
       "minecraft:mushroom_fields": "2024-12-21 18:56:38 +0000",
       "minecraft:deep_ocean": "2024-12-21 18:43:51 +0000",
+      "minecraft:cherry_grove": "2024-12-21 19:08:25 +0000",
       "minecraft:birch_forest": "2024-12-21 16:49:05 +0000",
+      "minecraft:beach": "2024-12-21 19:04:30 +0000",
       "minecraft:dark_forest": "2024-12-21 15:51:41 +0000",
       "minecraft:river": "2024-12-21 16:49:03 +0000",
       "minecraft:stony_shore": "2024-12-21 18:39:27 +0000",
@@ -37,7 +39,9 @@
       "minecraft:ocean": "2024-12-21 18:40:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 18:51:51 +0000",
       "minecraft:frozen_peaks": "2024-12-21 18:04:39 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-21 15:56:22 +0000"
+      "minecraft:old_growth_birch_forest": "2024-12-21 15:56:22 +0000",
+      "minecraft:meadow": "2024-12-21 19:05:54 +0000",
+      "minecraft:plains": "2024-12-21 19:07:54 +0000"
     },
     "done": false
   },
@@ -2483,6 +2487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-21 19:08:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-12-21 17:11:27 +0000"
@@ -2787,6 +2797,7 @@
     "criteria": {
       "biomeswevegone:lush_stacks": "2024-12-21 18:52:16 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-21 17:01:18 +0000",
+      "biomeswevegone:prairie": "2024-12-21 19:08:38 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-21 18:40:47 +0000"
     },
     "done": false
