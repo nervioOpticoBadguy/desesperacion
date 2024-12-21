@@ -2493,7 +2493,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-21 19:17:01 +0000",
       "minecraft:skeleton": "2024-12-21 18:04:40 +0000",
+      "minecraft:vindicator": "2024-12-21 19:18:33 +0000",
       "minecraft:creeper": "2024-12-21 18:00:54 +0000",
       "minecraft:zombie": "2024-12-21 18:04:46 +0000"
     },
@@ -2979,6 +2981,12 @@
       "has_salmon": "2024-12-21 19:08:07 +0000"
     },
     "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
+    "criteria": {
+      "prairie_house": "2024-12-21 19:18:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {

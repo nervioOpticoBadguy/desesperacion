@@ -29,6 +29,7 @@
       "minecraft:deep_ocean": "2024-12-21 18:43:50 +0000",
       "minecraft:cherry_grove": "2024-12-21 19:08:27 +0000",
       "minecraft:birch_forest": "2024-12-21 16:31:18 +0000",
+      "minecraft:windswept_hills": "2024-12-21 19:17:14 +0000",
       "minecraft:beach": "2024-12-21 16:54:22 +0000",
       "minecraft:dark_forest": "2024-12-21 11:39:37 +0000",
       "minecraft:river": "2024-12-21 12:53:21 +0000",
@@ -37,6 +38,7 @@
       "minecraft:forest": "2024-12-21 16:31:29 +0000",
       "minecraft:lush_caves": "2024-12-21 17:02:36 +0000",
       "minecraft:ocean": "2024-12-21 18:40:04 +0000",
+      "minecraft:windswept_savanna": "2024-12-21 19:16:37 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 18:52:22 +0000",
       "minecraft:frozen_peaks": "2024-12-21 18:04:32 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 15:54:02 +0000",
@@ -3706,6 +3708,12 @@
       "has_boat": "2024-12-21 18:56:32 +0000"
     },
     "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
+    "criteria": {
+      "prairie_house": "2024-12-21 19:11:10 +0000"
+    },
+    "done": false
   },
   "biomeswevegone:recipes/transportation/florus_chest_boat": {
     "criteria": {
