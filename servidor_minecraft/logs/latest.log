@@ -671,3 +671,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [21Dec2024 17:14:30.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7242ms or 144 ticks behind
 [21Dec2024 17:15:24.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [21Dec2024 17:15:41.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[21Dec2024 17:16:16.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[21Dec2024 17:16:32.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has reached the goal [Quaint Scribe]
+[21Dec2024 17:16:35.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4085ms or 81 ticks behind
+[21Dec2024 17:18:24.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has made the advancement [Diamonds!]
+[21Dec2024 17:18:29.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has made the advancement [Cover Me with Diamonds]
+[21Dec2024 17:19:08.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo was pierced by Cryomancer's icicle
+[21Dec2024 17:19:21.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Acquire Hardware]
+[21Dec2024 17:19:32.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [Acquire Hardware]
+[21Dec2024 17:20:26.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Suit Up]
+[21Dec2024 17:20:35.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Suit Up]
+[21Dec2024 17:20:43.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [Suit Up]
+[21Dec2024 17:21:02.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo was pierced by Cryomancer's icicle
+[21Dec2024 17:22:32.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [Berrily Alive]
+[21Dec2024 17:22:51.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[21Dec2024 17:22:51.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 moved too quickly! 9.613445531470404,-2.0,1.9806113297933585
+[21Dec2024 17:23:08.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 lost connection: Disconnected
+[21Dec2024 17:23:08.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 left the game
+[21Dec2024 17:23:12.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5704ms or 114 ticks behind
+[21Dec2024 17:23:28.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo was frozen solid by Cryomancer's
+[21Dec2024 17:23:32.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[21Dec2024 17:23:56.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Not Today, Thank You]
+[21Dec2024 17:24:14.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Forager]
+[21Dec2024 17:25:24.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm moved too quickly! -6.434765842805206,0.7521489003674589,-7.734297119331984
+[21Dec2024 17:25:24.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[21Dec2024 17:25:31.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has made the advancement [Into Fire]
