@@ -1105,6 +1105,7 @@
       "minecraft:spider": "2024-12-21 17:10:19 +0000",
       "minecraft:creeper": "2024-12-21 17:03:04 +0000",
       "minecraft:enderman": "2024-12-21 17:40:19 +0000",
+      "minecraft:stray": "2024-12-21 18:16:35 +0000",
       "minecraft:zombie": "2024-12-21 15:57:03 +0000"
     },
     "done": false
@@ -2765,6 +2766,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-21 18:24:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-21 17:54:54 +0000"
@@ -2843,6 +2850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-21 18:19:20 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-12-21 18:12:20 +0000"
@@ -2852,6 +2865,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-12-21 17:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-21 18:19:20 +0000"
     },
     "done": true
   },
@@ -2969,6 +2988,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-21 18:24:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
     "criteria": {
       "has_gray_wool": "2024-12-21 17:44:57 +0000"
@@ -3029,9 +3054,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-21 18:19:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-21 17:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-21 18:19:20 +0000"
     },
     "done": true
   },
@@ -3239,6 +3276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-21 18:24:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-21 17:54:54 +0000"
@@ -3260,6 +3303,12 @@
   "minecraft:recipes/building_blocks/dye_magenta_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-21 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-21 18:19:20 +0000"
     },
     "done": true
   },
@@ -3332,6 +3381,18 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-21 18:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-21 18:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-21 18:19:20 +0000"
     },
     "done": true
   },

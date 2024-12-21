@@ -878,3 +878,50 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [21Dec2024 18:18:31.580] [Server thread/INFO] [Jade/]: Syncing config to sigmayey (8d003b35-26b0-367a-8909-5a29ab1ec93c)
 [21Dec2024 18:18:36.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -2.895623594385256,0.2468000194787976,-9.667895208726804
 [21Dec2024 18:18:42.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -7.0514390780564895,0.42355929454303975,-7.27731664927569
+[21Dec2024 18:18:56.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 9.465039958086606,0.001335979112141672,3.4852663639812818
+[21Dec2024 18:18:56.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! 1.1723559677062667,0.0,-10.246813667207789
+[21Dec2024 18:19:05.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! 4.413274830684372,-0.25799910351527444,-9.308638796931518
+[21Dec2024 18:19:08.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> pero si estoy en mi aldea desgraciaso
+[21Dec2024 18:19:11.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! 5.753729488899751,2.750812921255317,-7.836023156532065
+[21Dec2024 18:19:13.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30608ms or 612 ticks behind
+[21Dec2024 18:19:24.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! 4.169653909132052,0.0,-9.262427914893124
+[21Dec2024 18:19:27.030] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player sigmayey just tried to change non-editable sign
+[21Dec2024 18:19:33.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5297ms or 105 ticks behind
+[21Dec2024 18:19:38.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! 7.085636444886774,-0.5040129017765196,-7.099579239338254
+[21Dec2024 18:19:48.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Light as a Rabbit]
+[21Dec2024 18:19:59.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[21Dec2024 18:20:20.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[21Dec2024 18:20:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Diamonds!]
+[21Dec2024 18:20:29.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 lost connection: Disconnected
+[21Dec2024 18:20:29.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 left the game
+[21Dec2024 18:21:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was crushed by Cryomancer's giant block of ice
+[21Dec2024 18:21:46.046] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_21.12.2024-18.21.46.dat
+[21Dec2024 18:22:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has completed the challenge [Premium!]
+[21Dec2024 18:24:00.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Chattering Teeth]
+[21Dec2024 18:24:30.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Skeleton
+[21Dec2024 18:24:30.874] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for pablitobanana07 with unique ID travelersbackpack.standard_21.12.2024-18.24.30.dat
+[21Dec2024 18:24:34.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3500ms or 70 ticks behind
+[21Dec2024 18:24:37.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Ice Bucket Challenge]
+[21Dec2024 18:24:57.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[21Dec2024 18:25:06.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm moved too quickly! -1.6614771093130258,-9.89044745325998,2.185712014743558
+[21Dec2024 18:25:06.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! -10.04260874802639,-1.5727162026004038,-1.4118137496895997
+[21Dec2024 18:25:20.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7813ms or 156 ticks behind
+[21Dec2024 18:25:38.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3771ms or 75 ticks behind
+[21Dec2024 18:25:56.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2608ms or 52 ticks behind
+[21Dec2024 18:26:15.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jkl72[/127.218.56.133:52507] logged in with entity id 69354 at (-56.73683430004872, 72.0, 2974.6813392843733)
+[21Dec2024 18:26:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 joined the game
+[21Dec2024 18:26:15.934] [Server thread/INFO] [Jade/]: Syncing config to Jkl72 (71584118-c77e-3d42-9f1b-d31950baa5a8)
+[21Dec2024 18:26:18.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6716ms or 134 ticks behind
+[21Dec2024 18:26:39.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5951ms or 119 ticks behind
+[21Dec2024 18:27:00.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6199ms or 123 ticks behind
+[21Dec2024 18:27:08.248] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[21Dec2024 18:27:08.254] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[21Dec2024 18:27:08.542] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[21Dec2024 18:27:08.543] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[21Dec2024 18:27:08.543] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[21Dec2024 18:27:08.544] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[21Dec2024 18:27:08.544] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[21Dec2024 18:27:19.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4525ms or 90 ticks behind
+[21Dec2024 18:27:44.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
+[21Dec2024 18:28:40.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[21Dec2024 18:29:02.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7630ms or 152 ticks behind
