@@ -1097,6 +1097,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-21 17:49:21 +0000",
       "minecraft:skeleton": "2024-12-21 16:51:25 +0000",
       "minecraft:spider": "2024-12-21 17:10:19 +0000",
       "minecraft:creeper": "2024-12-21 17:03:04 +0000",
@@ -2734,6 +2735,12 @@
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2024-12-21 17:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-21 17:48:44 +0000"
     },
     "done": true
   },

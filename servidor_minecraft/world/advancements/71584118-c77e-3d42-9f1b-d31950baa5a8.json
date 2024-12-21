@@ -1504,6 +1504,7 @@
       "biomeswevegone:rose_fields": "2024-12-21 16:09:34 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-21 16:10:10 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-21 16:49:30 +0000",
+      "biomeswevegone:shattered_glacier": "2024-12-21 17:46:48 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-21 16:11:49 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-21 16:56:13 +0000"
     },
@@ -1777,6 +1778,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-21 16:11:45 +0000",
       "minecraft:skeleton": "2024-12-21 17:12:44 +0000",
+      "minecraft:vindicator": "2024-12-21 17:48:28 +0000",
       "minecraft:spider": "2024-12-21 17:11:02 +0000",
       "minecraft:zombie": "2024-12-21 17:43:00 +0000"
     },
@@ -2592,15 +2594,51 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/food/blueberry_pie": {
+    "criteria": {
+      "has_blueberries": "2024-12-21 17:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-21 17:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-21 17:51:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 17:43:09 +0000"
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2024-12-21 17:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-21 17:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-21 17:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-21 17:51:45 +0000"
     },
     "done": true
   },
@@ -2619,6 +2657,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-21 17:43:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-12-21 17:51:45 +0000"
     },
     "done": true
   },
@@ -2652,6 +2696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-21 17:51:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-21 17:43:09 +0000"
@@ -2661,6 +2711,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-21 17:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-21 17:51:45 +0000"
     },
     "done": true
   },
