@@ -272,3 +272,86 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [21Dec2024 15:57:41.792] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
 [21Dec2024 15:57:49.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Guns and Roses]
 [21Dec2024 15:57:55.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was blown up by Creeper
+[21Dec2024 15:58:10.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[21Dec2024 15:58:17.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luc0090 has made the advancement [Guns and Roses]
+[21Dec2024 15:58:18.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack was slain by Skeleton
+[21Dec2024 15:58:30.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4728ms or 94 ticks behind
+[21Dec2024 15:58:32.707] [Worker-Main-1/ERROR] [net.minecraft.world.level.levelgen.feature.MonsterRoomFeature/]: Failed to fetch mob spawner entity at (-73, -37, 795)
+[21Dec2024 15:59:09.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [The Lighthouse]
+[21Dec2024 15:59:12.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [The Lighthouse]
+[21Dec2024 15:59:36.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Dec2024 15:59:48.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Acquire Hardware]
+[21Dec2024 15:59:50.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Acquire Hardware]
+[21Dec2024 15:59:55.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[21Dec2024 16:00:05.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico was slain by Skeleton
+[21Dec2024 16:00:13.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
+[21Dec2024 16:00:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 fell from a high place
+[21Dec2024 16:00:29.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico lost connection: Timed out
+[21Dec2024 16:00:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico left the game
+[21Dec2024 16:00:29.778] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 16:00:56.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Monster Hunter]
+[21Dec2024 16:01:18.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [Stone Age]
+[21Dec2024 16:01:22.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21Dec2024 16:01:40.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3320ms or 66 ticks behind
+[21Dec2024 16:02:02.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7105ms or 142 ticks behind
+[21Dec2024 16:02:28.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Sweet Dreams]
+[21Dec2024 16:02:31.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack lost connection: Disconnected
+[21Dec2024 16:02:31.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack left the game
+[21Dec2024 16:02:40.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23272ms or 465 ticks behind
+[21Dec2024 16:02:49.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: poppyattack[/127.228.152.72:46143] logged in with entity id 6372 at (448.40331793256826, 62.136588817457294, 58.019883161776704)
+[21Dec2024 16:02:49.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack joined the game
+[21Dec2024 16:02:49.772] [Server thread/INFO] [Jade/]: Syncing config to poppyattack (d44da0b5-41f1-327d-8d68-1a9c48098edb)
+[21Dec2024 16:02:53.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [Sweet Dreams]
+[21Dec2024 16:02:58.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jkl72> zzz
+[21Dec2024 16:02:59.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3675ms or 73 ticks behind
+[21Dec2024 16:03:20.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5491ms or 109 ticks behind
+[21Dec2024 16:03:27.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [Guns and Roses]
+[21Dec2024 16:03:38.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was slain by Zombie
+[21Dec2024 16:03:39.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luc0090 lost connection: Disconnected
+[21Dec2024 16:03:39.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luc0090 left the game
+[21Dec2024 16:03:39.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4539ms or 90 ticks behind
+[21Dec2024 16:04:06.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm lost connection: Disconnected
+[21Dec2024 16:04:06.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm left the game
+[21Dec2024 16:04:10.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 lost connection: Disconnected
+[21Dec2024 16:04:10.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 left the game
+[21Dec2024 16:04:18.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christorm[/127.205.204.177:56555] logged in with entity id 7663 at (101.45764720697069, 115.0, 76.4902075935647)
+[21Dec2024 16:04:18.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm joined the game
+[21Dec2024 16:04:18.741] [Server thread/INFO] [Jade/]: Syncing config to christorm (4be7e4cc-7d81-3351-90c4-06f416b89a75)
+[21Dec2024 16:04:19.856] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5bf463f3[id=<null>,name=pablitobanana07,properties={},legacy=false] (/127.230.193.219:57195) lost connection: Disconnected
+[21Dec2024 16:04:21.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[21Dec2024 16:04:34.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jkl72> c.S>2H>214S>c.S>HVV>wallstick>j.D
+[21Dec2024 16:04:40.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Dec2024 16:04:42.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablitobanana07[/127.230.193.219:59417] logged in with entity id 8171 at (26.97148192364102, 74.0, 25.357058826369443)
+[21Dec2024 16:04:42.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 joined the game
+[21Dec2024 16:04:42.780] [Server thread/INFO] [Jade/]: Syncing config to pablitobanana07 (abb3857f-cdde-37ea-8850-a7df92aaa81e)
+[21Dec2024 16:04:58.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[21Dec2024 16:04:58.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule playerSleepingPercentage 33<--[HERE]
+[21Dec2024 16:04:59.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3688ms or 73 ticks behind
+[21Dec2024 16:05:09.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[21Dec2024 16:05:09.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule playerSleepingPercentage 33%<--[HERE]
+[21Dec2024 16:05:16.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack was shot by Skeleton
+[21Dec2024 16:05:30.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[21Dec2024 16:05:32.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Nervio_optico a server operator
+[21Dec2024 16:05:48.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Isn't It Iron Pick]
+[21Dec2024 16:06:00.005] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76720df1[id=<null>,name=Luc0090,properties={},legacy=false] (/127.247.6.202:35067) lost connection: Disconnected
+[21Dec2024 16:06:04.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack has made the advancement [Monster Hunter]
+[21Dec2024 16:06:11.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has made the advancement [Crops of the Wild]
+[21Dec2024 16:06:17.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nervio_optico[/127.70.204.6:38897] logged in with entity id 9306 at (98.30000001192093, 127.0, 65.98195743544088)
+[21Dec2024 16:06:17.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico joined the game
+[21Dec2024 16:06:17.744] [Server thread/INFO] [Jade/]: Syncing config to Nervio_optico (023320a3-72d6-3ba1-b2e9-42052eb0b771)
+[21Dec2024 16:06:34.562] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3897a95c[id=<null>,name=Luc0090,properties={},legacy=false] (/127.247.6.202:36951) lost connection: Disconnected
+[21Dec2024 16:06:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nervio_optico: Gamerule playersSleepingPercentage is now set to: 3]
+[21Dec2024 16:06:42.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jkl72> c.S>6P>j.D>j.D
+[21Dec2024 16:06:58.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nervio_optico: Created new objective [vida]]
+[21Dec2024 16:07:00.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo was slain by Zombie
+[21Dec2024 16:07:05.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[21Dec2024 16:07:21.635] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42b852ee[id=<null>,name=Luc0090,properties={},legacy=false] (/127.247.6.202:49525) lost connection: Disconnected
+[21Dec2024 16:07:24.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4118ms or 82 ticks behind
+[21Dec2024 16:07:34.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luc0090[/127.247.6.202:37239] logged in with entity id 10447 at (155.58129658746083, 72.0, 166.11434097932653)
+[21Dec2024 16:07:34.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luc0090 joined the game
+[21Dec2024 16:07:35.066] [Server thread/INFO] [Jade/]: Syncing config to Luc0090 (6d4cebde-ec16-392f-b4b9-7f54e333e049)
+[21Dec2024 16:07:38.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [Monster Hunter]
+[21Dec2024 16:07:43.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4333ms or 86 ticks behind
+[21Dec2024 16:07:44.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nervio_optico: Set display slot list to show objective vida]
+[21Dec2024 16:08:05.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7103ms or 142 ticks behind
+[21Dec2024 16:08:07.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nervio_optico: Made Nervio_optico no longer a server operator]
