@@ -25,7 +25,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dark_forest": "2024-12-21 11:41:10 +0000"
+      "minecraft:dark_forest": "2024-12-21 11:41:10 +0000",
+      "minecraft:river": "2024-12-21 15:52:37 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-21 15:52:50 +0000"
     },
     "done": false
   },
