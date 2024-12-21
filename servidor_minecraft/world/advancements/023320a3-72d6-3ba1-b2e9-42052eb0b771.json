@@ -40,6 +40,7 @@
       "minecraft:ocean": "2024-12-21 18:40:04 +0000",
       "minecraft:windswept_savanna": "2024-12-21 19:16:37 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 18:52:22 +0000",
+      "minecraft:flower_forest": "2024-12-21 19:29:55 +0000",
       "minecraft:frozen_peaks": "2024-12-21 18:04:32 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 15:54:02 +0000",
       "minecraft:meadow": "2024-12-21 19:05:52 +0000",
@@ -1863,7 +1864,8 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:weeping_witch_forest": "2024-12-21 17:01:21 +0000",
-      "biomeswevegone:prairie": "2024-12-21 19:08:39 +0000"
+      "biomeswevegone:prairie": "2024-12-21 19:08:39 +0000",
+      "biomeswevegone:basalt_barrera": "2024-12-21 19:21:50 +0000"
     },
     "done": false
   },
@@ -3601,6 +3603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-21 19:24:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 18:56:32 +0000"
@@ -3610,6 +3618,12 @@
   "create:recipes/building_blocks/crimson_window": {
     "criteria": {
       "has_ingredient": "2024-12-21 18:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-21 19:24:31 +0000"
     },
     "done": true
   },
@@ -3658,6 +3672,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2024-12-21 18:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-21 19:24:31 +0000"
     },
     "done": true
   },
@@ -3802,6 +3822,12 @@
   "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 18:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-21 19:24:31 +0000"
     },
     "done": true
   },
