@@ -11013,3 +11013,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [21Dec2024 18:28:46.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 18:28:46.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Dec2024 18:29:02.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7630ms or 152 ticks behind
+[21Dec2024 18:29:24.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6719ms or 134 ticks behind
+[21Dec2024 18:29:52.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13018ms or 260 ticks behind
+[21Dec2024 18:30:05.000] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Dec2024 18:30:13.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5525ms or 110 ticks behind
+[21Dec2024 18:30:31.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -9.999864450922985,-2.0554624345250403,-0.26439578513327433
+[21Dec2024 18:30:36.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8156ms or 163 ticks behind
+[21Dec2024 18:30:57.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5874ms or 117 ticks behind
+[21Dec2024 18:31:14.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[21Dec2024 18:31:32.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2779ms or 55 ticks behind
+[21Dec2024 18:31:44.254] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Dec2024 18:31:57.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[21Dec2024 18:32:36.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Ol' Betsy]
+[21Dec2024 18:32:36.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Take Aim]
+[21Dec2024 18:32:44.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [8d003b35-26b0-367a-8909-5a29ab1ec93c]
+[21Dec2024 18:34:05.839] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [8d003b35-26b0-367a-8909-5a29ab1ec93c]
+[21Dec2024 18:34:12.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Magery]
+[21Dec2024 18:34:40.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 18:34:40.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 18:34:40.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[21Dec2024 18:34:48.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [No Longer Short-Staffed]
+[21Dec2024 18:34:49.823] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[21Dec2024 18:35:07.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[21Dec2024 18:35:12.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [No Longer Short-Staffed]
+[21Dec2024 18:35:31.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has made the advancement [Safe Haven]
+[21Dec2024 18:35:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [No Longer Short-Staffed]
+[21Dec2024 18:35:34.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [No Longer Short-Staffed]
+[21Dec2024 18:35:39.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[21Dec2024 18:35:59.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Dec2024 18:36:00.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has made the advancement [Call For Adventure]
+[21Dec2024 18:36:10.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 9.426600150228595,-1.1767592750642422,3.5206319727221853
+[21Dec2024 18:36:11.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -9.904688933317132,1.243240711822736,1.5362754921270607
+[21Dec2024 18:36:15.250] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [8d003b35-26b0-367a-8909-5a29ab1ec93c]
+[21Dec2024 18:36:19.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo lost connection: Disconnected
+[21Dec2024 18:36:19.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo left the game
+[21Dec2024 18:36:25.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11315ms or 226 ticks behind
+[21Dec2024 18:36:46.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[21Dec2024 18:36:57.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -3.619339192281366,0.872109761794519,9.467369707526359
+[21Dec2024 18:36:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Magery]
+[21Dec2024 18:37:34.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2821ms or 56 ticks behind
+[21Dec2024 18:37:34.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! 8.849425074868194,0.0,-5.523157406896644
+[21Dec2024 18:37:34.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -0.5907090181963213,0.6095525467400336,-10.133004837134024
+[21Dec2024 18:37:43.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! 9.311187280975247,-0.001335979112141672,-4.104299742036801
+[21Dec2024 18:37:50.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! 9.940201706204078,1.4554677395850177,0.2429548617974433
+[21Dec2024 18:37:51.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[21Dec2024 18:37:54.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -4.020453659073041,-2.464159374955443,-9.018439069579642
+[21Dec2024 18:38:07.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! 10.059670571860892,0.0,-0.6055334597504043
+[21Dec2024 18:38:12.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[21Dec2024 18:38:13.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! 7.50499816425048,0.08307781780646906,-6.77621492196522
+[21Dec2024 18:38:25.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 was caught by Archevoker's fangs
+[21Dec2024 18:38:25.651] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jkl72 with unique ID travelersbackpack.iron_21.12.2024-18.38.25.dat
+[21Dec2024 18:38:36.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[21Dec2024 18:39:37.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
