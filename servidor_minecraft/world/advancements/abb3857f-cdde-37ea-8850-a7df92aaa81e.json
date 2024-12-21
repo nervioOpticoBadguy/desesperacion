@@ -895,6 +895,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-21 17:12:56 +0000",
       "porkchop": "2024-12-21 16:10:03 +0000",
       "mutton": "2024-12-21 16:10:24 +0000"
     },
@@ -1061,6 +1062,12 @@
       "biomeswevegone:weeping_witch_forest": "2024-12-21 17:01:24 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/misc/blue_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_blue_dye]": "2024-12-21 17:15:18 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
