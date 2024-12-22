@@ -1889,6 +1889,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2024-12-22 15:03:07 +0000",
       "biomeswevegone:cika_woods": "2024-12-21 20:36:52 +0000",
       "biomeswevegone:sakura_grove": "2024-12-21 19:58:40 +0000",
       "biomeswevegone:temperate_grove": "2024-12-21 22:00:19 +0000",
@@ -1898,6 +1899,8 @@
       "biomeswevegone:maple_taiga": "2024-12-21 20:07:40 +0000",
       "biomeswevegone:cypress_swamplands": "2024-12-22 11:11:47 +0000",
       "biomeswevegone:orchard": "2024-12-21 20:00:12 +0000",
+      "biomeswevegone:ironwood_gour": "2024-12-22 15:04:12 +0000",
+      "biomeswevegone:amaranth_grassland": "2024-12-22 15:00:50 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-21 17:01:21 +0000",
       "biomeswevegone:prairie": "2024-12-21 19:08:39 +0000",
       "biomeswevegone:rose_fields": "2024-12-21 22:00:23 +0000",
@@ -1909,7 +1912,9 @@
       "biomeswevegone:skyrise_vale": "2024-12-21 21:04:39 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-21 20:00:08 +0000",
       "biomeswevegone:pumpkin_valley": "2024-12-22 13:38:09 +0000",
+      "biomeswevegone:baobab_savanna": "2024-12-22 15:03:26 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-21 21:05:27 +0000",
+      "biomeswevegone:overgrowth_woodlands": "2024-12-22 14:45:30 +0000",
       "biomeswevegone:coniferous_forest": "2024-12-21 21:32:26 +0000"
     },
     "done": false
@@ -5532,21 +5537,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-22 13:35:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2024-12-22 13:20:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-22 13:35:01 +0000"
     },
     "done": true
   },
@@ -5556,9 +5549,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-22 13:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-22 13:35:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-22 13:35:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-12-22 14:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-22 14:31:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-22 14:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-22 14:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-22 14:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-22 14:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-22 14:33:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_villager": {
+    "criteria": {
+      "requirement": "2024-12-22 14:47:18 +0000"
     },
     "done": true
   },

@@ -1,125 +1,125 @@
-[22Dec2024 13:12:45.270] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[22Dec2024 13:12:45.275] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[22Dec2024 13:12:46.085] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[22Dec2024 13:12:46.174] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/desesperacion/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[22Dec2024 13:12:46.812] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/desesperacion/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 13:12:46.813] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/desesperacion/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 13:12:46.815] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/desesperacion/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 13:12:46.816] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/desesperacion/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 13:12:47.214] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
-[22Dec2024 13:12:50.682] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22Dec2024 13:12:50.922] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[22Dec2024 13:12:51.293] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
-[22Dec2024 13:12:51.299] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Dec2024 13:12:51.549] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
-[22Dec2024 13:12:52.846] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
-[22Dec2024 13:12:52.848] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
-[22Dec2024 13:12:53.076] [main/WARN] [mixin/]: Error loading class: me/desht/pneumaticcraft/common/upgrades/PNCUpgradeImpl (java.lang.ClassNotFoundException: me.desht.pneumaticcraft.common.upgrades.PNCUpgradeImpl)
-[22Dec2024 13:12:53.078] [main/WARN] [mixin/]: @Mixin target me.desht.pneumaticcraft.common.upgrades.PNCUpgradeImpl was not found ad_astra_giselle_addon.mixin.forge.common.json:pneumaticcraft.PNCUpgradeImplInject
-[22Dec2024 13:12:53.752] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
-[22Dec2024 13:13:04.717] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[22Dec2024 13:13:04.718] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[22Dec2024 13:13:06.099] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[22Dec2024 14:12:54.073] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[22Dec2024 14:12:54.078] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[22Dec2024 14:12:55.495] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Dec2024 14:12:55.589] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/desesperacion/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22Dec2024 14:12:56.210] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/desesperacion/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 14:12:56.212] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/desesperacion/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 14:12:56.214] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/desesperacion/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 14:12:56.216] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/desesperacion/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 14:12:56.660] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[22Dec2024 14:13:00.675] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Dec2024 14:13:00.898] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[22Dec2024 14:13:01.272] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 14:13:01.277] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 14:13:01.584] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[22Dec2024 14:13:02.634] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[22Dec2024 14:13:02.637] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
+[22Dec2024 14:13:02.733] [main/WARN] [mixin/]: Error loading class: me/desht/pneumaticcraft/common/upgrades/PNCUpgradeImpl (java.lang.ClassNotFoundException: me.desht.pneumaticcraft.common.upgrades.PNCUpgradeImpl)
+[22Dec2024 14:13:02.734] [main/WARN] [mixin/]: @Mixin target me.desht.pneumaticcraft.common.upgrades.PNCUpgradeImpl was not found ad_astra_giselle_addon.mixin.forge.common.json:pneumaticcraft.PNCUpgradeImplInject
+[22Dec2024 14:13:03.710] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[22Dec2024 14:13:13.356] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[22Dec2024 14:13:13.357] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[22Dec2024 14:13:14.887] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[22Dec2024 13:13:07.110] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[22Dec2024 13:13:07.111] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[22Dec2024 13:13:07.693] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '21.0.5, Microsoft'
-[22Dec2024 13:13:07.697] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
-[22Dec2024 13:13:08.791] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
-[22Dec2024 13:13:08.988] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
-[22Dec2024 13:13:08.989] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
-[22Dec2024 13:13:08.989] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[22Dec2024 13:13:08.990] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
-[22Dec2024 13:13:08.995] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
-[22Dec2024 13:13:09.068] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
-[22Dec2024 13:13:09.075] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
-[22Dec2024 13:13:09.077] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
-[22Dec2024 13:13:09.080] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
-[22Dec2024 13:13:09.082] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
-[22Dec2024 13:13:09.087] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
-[22Dec2024 13:13:09.097] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
-[22Dec2024 13:13:09.099] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
-[22Dec2024 13:13:09.117] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
-[22Dec2024 13:13:09.119] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
-[22Dec2024 13:13:09.123] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
-[22Dec2024 13:13:09.134] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
-[22Dec2024 13:13:09.148] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
-[22Dec2024 13:13:09.265] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
-[22Dec2024 13:13:09.267] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
-[22Dec2024 13:13:09.280] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[22Dec2024 13:13:09.294] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
-[22Dec2024 13:13:09.316] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
-[22Dec2024 13:13:09.333] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
-[22Dec2024 13:13:09.338] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
-[22Dec2024 13:13:09.339] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[22Dec2024 13:13:09.358] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
-[22Dec2024 13:13:09.376] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
-[22Dec2024 13:13:09.383] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
-[22Dec2024 13:13:09.388] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
-[22Dec2024 13:13:09.391] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[22Dec2024 13:13:09.834] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[22Dec2024 13:13:10.789] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[22Dec2024 13:13:10.877] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
-[22Dec2024 13:13:10.881] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[22Dec2024 13:13:10.882] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
-[22Dec2024 13:13:10.910] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
-[22Dec2024 13:13:10.911] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[22Dec2024 13:13:10.915] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
-[22Dec2024 13:13:22.348] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[22Dec2024 13:13:22.360] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[22Dec2024 13:13:22.363] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[22Dec2024 13:13:22.366] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[22Dec2024 13:13:22.463] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[22Dec2024 13:13:22.595] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
-[22Dec2024 13:13:22.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[22Dec2024 13:13:22.846] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[22Dec2024 13:13:22.876] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[22Dec2024 13:13:22.896] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
-[22Dec2024 13:13:23.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[22Dec2024 13:13:23.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[22Dec2024 13:13:23.008] [main/INFO] [journeymap/]: Initializing Packet Registries
-[22Dec2024 13:13:23.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
-[22Dec2024 13:13:23.060] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[22Dec2024 13:13:23.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Dec2024 13:13:23.063] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[22Dec2024 13:13:23.064] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[22Dec2024 13:13:23.064] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[22Dec2024 13:13:23.209] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[22Dec2024 13:13:23.210] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[22Dec2024 13:13:23.211] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
-[22Dec2024 13:13:23.211] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
-[22Dec2024 13:13:23.212] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
-[22Dec2024 13:13:23.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[22Dec2024 13:13:23.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[22Dec2024 13:13:23.325] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[22Dec2024 13:13:23.411] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[22Dec2024 13:13:23.437] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[22Dec2024 13:13:23.505] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[22Dec2024 13:13:23.533] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[22Dec2024 13:13:24.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[22Dec2024 13:13:24.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[22Dec2024 13:13:24.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
-[22Dec2024 13:13:24.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
-[22Dec2024 13:13:24.397] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
-[22Dec2024 13:13:24.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[22Dec2024 13:13:24.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[22Dec2024 13:13:24.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[22Dec2024 13:13:24.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[22Dec2024 13:13:24.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
-[22Dec2024 13:13:24.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
-[22Dec2024 13:13:24.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
-[22Dec2024 13:13:25.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 9.0.0 Target: null
-[22Dec2024 13:13:25.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
-[22Dec2024 13:13:25.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[22Dec2024 13:13:25.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
-[22Dec2024 13:13:25.378] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: UP_TO_DATE Current: 1.15.19 Target: null
-[22Dec2024 13:13:34.512] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Dec2024 13:13:41.831] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/desesperacion/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
-[22Dec2024 13:13:41.832] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/desesperacion/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
-[22Dec2024 13:13:44.771] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag create:crushed_ores as it is missing following references: minecraft:crushed_calorite_ore (from create_ad_astra_compat-forge-1.20.1-1.0.0.jar), 
+[22Dec2024 14:13:15.859] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Dec2024 14:13:15.860] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Dec2024 14:13:16.407] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '21.0.5, Microsoft'
+[22Dec2024 14:13:16.421] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[22Dec2024 14:13:17.421] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[22Dec2024 14:13:17.440] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[22Dec2024 14:13:17.440] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[22Dec2024 14:13:17.441] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[22Dec2024 14:13:17.442] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[22Dec2024 14:13:17.551] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[22Dec2024 14:13:17.695] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[22Dec2024 14:13:17.705] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[22Dec2024 14:13:17.712] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[22Dec2024 14:13:17.725] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[22Dec2024 14:13:17.726] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[22Dec2024 14:13:17.730] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[22Dec2024 14:13:17.739] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[22Dec2024 14:13:17.742] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[22Dec2024 14:13:17.764] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[22Dec2024 14:13:17.779] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[22Dec2024 14:13:17.797] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[22Dec2024 14:13:17.800] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[22Dec2024 14:13:17.838] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[22Dec2024 14:13:18.008] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[22Dec2024 14:13:18.028] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[22Dec2024 14:13:18.035] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[22Dec2024 14:13:18.055] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[22Dec2024 14:13:18.090] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[22Dec2024 14:13:18.109] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[22Dec2024 14:13:18.125] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[22Dec2024 14:13:18.127] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[22Dec2024 14:13:18.145] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[22Dec2024 14:13:18.203] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[22Dec2024 14:13:18.213] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[22Dec2024 14:13:18.214] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[22Dec2024 14:13:18.219] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[22Dec2024 14:13:18.434] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[22Dec2024 14:13:19.358] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[22Dec2024 14:13:19.379] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[22Dec2024 14:13:19.382] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[22Dec2024 14:13:19.382] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[22Dec2024 14:13:19.399] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[22Dec2024 14:13:19.402] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[22Dec2024 14:13:19.402] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+[22Dec2024 14:13:31.202] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[22Dec2024 14:13:31.215] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[22Dec2024 14:13:31.219] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[22Dec2024 14:13:31.222] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[22Dec2024 14:13:31.328] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[22Dec2024 14:13:31.523] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
+[22Dec2024 14:13:31.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22Dec2024 14:13:31.768] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[22Dec2024 14:13:31.789] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[22Dec2024 14:13:31.794] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
+[22Dec2024 14:13:31.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[22Dec2024 14:13:31.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[22Dec2024 14:13:31.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
+[22Dec2024 14:13:31.969] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Dec2024 14:13:31.994] [main/INFO] [journeymap/]: Initializing Packet Registries
+[22Dec2024 14:13:32.087] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[22Dec2024 14:13:32.088] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[22Dec2024 14:13:32.089] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[22Dec2024 14:13:32.090] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[22Dec2024 14:13:32.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[22Dec2024 14:13:32.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[22Dec2024 14:13:32.234] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22Dec2024 14:13:32.234] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[22Dec2024 14:13:32.234] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[22Dec2024 14:13:32.234] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[22Dec2024 14:13:32.234] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[22Dec2024 14:13:32.405] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[22Dec2024 14:13:32.507] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[22Dec2024 14:13:32.544] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[22Dec2024 14:13:32.584] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[22Dec2024 14:13:32.597] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[22Dec2024 14:13:32.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[22Dec2024 14:13:32.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[22Dec2024 14:13:33.029] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
+[22Dec2024 14:13:33.029] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[22Dec2024 14:13:33.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
+[22Dec2024 14:13:33.235] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[22Dec2024 14:13:33.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[22Dec2024 14:13:33.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[22Dec2024 14:13:33.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[22Dec2024 14:13:33.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[22Dec2024 14:13:33.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
+[22Dec2024 14:13:33.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
+[22Dec2024 14:13:33.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 9.0.0 Target: null
+[22Dec2024 14:13:33.945] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[22Dec2024 14:13:34.124] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[22Dec2024 14:13:34.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
+[22Dec2024 14:13:34.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: UP_TO_DATE Current: 1.15.19 Target: null
+[22Dec2024 14:13:43.042] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Dec2024 14:13:50.905] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/desesperacion/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
+[22Dec2024 14:13:50.906] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/desesperacion/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
+[22Dec2024 14:13:53.993] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag create:crushed_ores as it is missing following references: minecraft:crushed_calorite_ore (from create_ad_astra_compat-forge-1.20.1-1.0.0.jar), 
 	minecraft:crushed_desh_ore (from create_ad_astra_compat-forge-1.20.1-1.0.0.jar), 
 	minecraft:crushed_ostrum_ore (from create_ad_astra_compat-forge-1.20.1-1.0.0.jar)
-[22Dec2024 13:13:47.573] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[22Dec2024 14:13:56.298] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -155,234 +155,342 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Dec2024 13:13:48.021] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
-[22Dec2024 13:13:48.027] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
-[22Dec2024 13:13:48.564] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4061 advancements
-[22Dec2024 13:13:48.626] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[22Dec2024 13:13:48.634] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[22Dec2024 13:13:54.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[22Dec2024 13:13:54.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Dec2024 13:13:54.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Dec2024 13:13:54.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Dec2024 13:13:54.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Dec2024 13:13:54.955] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[22Dec2024 13:13:55.071] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Dec2024 13:13:55.072] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Dec2024 13:13:55.073] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Dec2024 13:13:55.074] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Dec2024 13:13:55.103] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Dec2024 13:13:55.105] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Dec2024 13:13:56.040] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[22Dec2024 13:13:56.041] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[22Dec2024 13:13:56.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Dec2024 13:14:06.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Dec2024 13:14:17.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.285] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.286] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.287] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.288] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.290] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.290] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.292] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.294] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.295] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.297] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.299] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.301] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.302] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.304] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.306] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.308] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.310] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.311] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.314] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.315] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:17.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:18.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:18.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 13:14:19.402] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12621 ms
-[22Dec2024 13:14:19.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.304s)! For help, type "help"
-[22Dec2024 13:14:19.500] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[22Dec2024 13:14:38.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigmayey[/127.235.116.149:51179] logged in with entity id 98 at (-340.4864181598894, 56.0, 4361.577327526231)
-[22Dec2024 13:14:38.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey joined the game
-[22Dec2024 13:14:38.573] [Server thread/INFO] [Jade/]: Syncing config to sigmayey (8d003b35-26b0-367a-8909-5a29ab1ec93c)
-[22Dec2024 13:14:42.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3912ms or 78 ticks behind
-[22Dec2024 13:14:59.797] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b2a5606[id=<null>,name=Nervio_optico,properties={},legacy=false] (/127.70.204.6:56701) lost connection: Disconnected
-[22Dec2024 13:15:06.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9830ms or 196 ticks behind
-[22Dec2024 13:15:07.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nervio_optico[/127.70.204.6:53695] logged in with entity id 442 at (-481.6749484556553, 81.25220334025373, 6513.978113354551)
-[22Dec2024 13:15:07.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico joined the game
-[22Dec2024 13:15:07.999] [Server thread/INFO] [Jade/]: Syncing config to Nervio_optico (023320a3-72d6-3ba1-b2e9-42052eb0b771)
-[22Dec2024 13:15:34.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12810ms or 256 ticks behind
-[22Dec2024 13:15:48.464] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
-[22Dec2024 13:15:48.471] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
-[22Dec2024 13:15:48.473] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
-[22Dec2024 13:15:50.323] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
-[22Dec2024 13:15:54.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4808ms or 96 ticks behind
-[22Dec2024 13:15:54.483] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
-[22Dec2024 13:15:54.484] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
-[22Dec2024 13:15:54.942] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
-[22Dec2024 13:15:54.949] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
-[22Dec2024 13:15:54.949] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
-[22Dec2024 13:16:13.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[22Dec2024 13:17:37.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5327ms or 106 ticks behind
-[22Dec2024 13:19:33.488] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[22Dec2024 13:19:33.493] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[22Dec2024 13:24:55.007] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
-[22Dec2024 13:25:15.158] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
-[22Dec2024 13:25:39.763] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
-[22Dec2024 13:25:39.764] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
-[22Dec2024 13:25:39.765] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
-[22Dec2024 13:25:39.766] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
-[22Dec2024 13:25:39.767] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
-[22Dec2024 13:25:40.041] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[22Dec2024 13:25:40.045] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[22Dec2024 13:26:35.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Surge Protector]
-[22Dec2024 13:30:53.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8968ms or 179 ticks behind
-[22Dec2024 13:32:35.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey was slain by Vindicator
-[22Dec2024 13:32:35.305] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for sigmayey with unique ID travelersbackpack.standard_22.12.2024-13.32.35.dat
-[22Dec2024 13:32:39.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
-[22Dec2024 13:32:47.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -3.109616337096668,-0.4959870982234804,9.53348085199832
-[22Dec2024 13:33:01.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6735ms or 134 ticks behind
-[22Dec2024 13:33:04.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -8.55797071833963,1.0013359791121417,-5.150930754029105
-[22Dec2024 13:33:16.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -10.13573229450391,0.14168517272452164,0.6952356548763419
-[22Dec2024 13:33:18.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
-[22Dec2024 13:34:01.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 8.305178473847945,1.1767592750642422,-5.929127905563291
-[22Dec2024 13:34:01.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
-[22Dec2024 13:34:06.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -9.65699262448598,-3.121296840539202,0.17692365659877396
-[22Dec2024 13:34:06.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 9.062652735230813,1.044812420399012,-4.7785111328930725
-[22Dec2024 13:34:20.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -9.754336628862859,-0.8787031594607981,2.373502046770227
-[22Dec2024 13:34:23.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6986ms or 139 ticks behind
-[22Dec2024 13:34:26.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -9.124734400789123,0.5813359922251635,-4.728740977707275
-[22Dec2024 13:34:28.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey was shot by Skeleton
-[22Dec2024 13:34:39.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/11618, l='ServerLevel[world]', x=-999.70, y=63.00, z=7219.62] died, message: 'Butcher cooked in Nervio_optico's fiery field'
-[22Dec2024 13:34:41.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3435ms or 68 ticks behind
-[22Dec2024 13:34:49.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -9.80803494088164,-1.9375,0.6227894515959633
-[22Dec2024 13:34:56.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -9.989176262999706,-1.0013359791121417,-0.08242880288707966
-[22Dec2024 13:35:03.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/11623, l='ServerLevel[world]', x=-951.74, y=63.00, z=7228.22] died, message: 'Fletcher was poked to death by a sweet berry bush'
-[22Dec2024 13:35:23.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
-[22Dec2024 13:35:23.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -9.126454031000094,-1.6815583980583142,-4.008024223870962
-[22Dec2024 13:35:37.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -4.202360745412079,-1.4235592945430398,9.265824356198209
-[22Dec2024 13:35:46.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -6.775300700296384,7.779924260375992E-9,7.889999656803411
-[22Dec2024 13:35:46.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -7.035759193440981,7.846587379845005E-9,8.19357904872868
-[22Dec2024 13:35:46.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -7.296214432155011,7.878604435518355E-9,8.497161371737093
-[22Dec2024 13:35:46.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -7.5566667418816,7.882007935222646E-9,8.800746332720337
-[22Dec2024 13:35:46.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -7.817116415519422,7.863675932640035E-9,9.104333667881292
-[22Dec2024 13:35:46.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -8.07756371667756,7.830543324871542E-9,9.407923139801824
-[22Dec2024 13:35:46.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -8.338008882604072,7.789033418248437E-9,9.711514534806156
-[22Dec2024 13:35:46.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -8.59845212682194,7.744638708118146E-9,10.015107660586182
-[22Dec2024 13:35:46.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -8.858893641502391,7.701729032305593E-9,10.31870234406324
-[22Dec2024 13:35:46.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -9.119333599599031,7.663452095130197E-9,10.622298429468174
-[22Dec2024 13:35:46.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -9.379772156770287,7.631790310824726E-9,10.92589577660874
-[22Dec2024 13:35:46.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -9.689389377992654,0.41999998688697815,3.4217462082469865
-[22Dec2024 13:35:46.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -9.640209453108582,7.607688701227744E-9,11.22949425931074
-[22Dec2024 13:35:46.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3650ms or 73 ticks behind
-[22Dec2024 13:36:29.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -10.047972124760406,1.747796659746271,0.6551579337647127
-[22Dec2024 13:36:30.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -1.3509098310003083,-4.455467739585018,9.249921234466456
-[22Dec2024 13:36:30.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
-[22Dec2024 13:36:40.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -7.589603887337944,-6.205494564426317E-6,7.097540035474594
-[22Dec2024 13:36:40.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -7.90309978891014,-6.250548530317701E-6,7.342326606223651
-[22Dec2024 13:36:40.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -8.221024928266615,-6.28470079533372E-6,7.580519558278866
-[22Dec2024 13:36:40.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -8.54333185834139,-6.30787454269921E-6,7.811964205093318
-[22Dec2024 13:36:40.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -8.869923442834533,-6.320912973478698E-6,8.036593150513
-[22Dec2024 13:36:40.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -9.200664087349423,-6.325280089924945E-6,8.254416598610078
-[22Dec2024 13:36:40.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -9.535392067689372,-6.322785395695973E-6,8.46550601897161
-[22Dec2024 13:36:40.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -9.873668119018475,-6.3153490401646195E-6,8.670634250912371
-[22Dec2024 13:36:40.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -10.214831066278975,-6.304816601243601E-6,8.871125573558857
-[22Dec2024 13:36:40.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -10.558303290018785,-6.292826292053633E-6,9.068095832859399
-[22Dec2024 13:36:40.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -10.903584576200274,-6.280726410068382E-6,9.262478198562349
-[22Dec2024 13:36:40.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -11.250242550265284,-6.269537152547855E-6,9.455053080823745
-[22Dec2024 13:36:40.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nervio_optico) moved too quickly! -11.59790834442606,-6.259948960973816E-6,9.646464452979671
-[22Dec2024 13:38:15.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
-[22Dec2024 13:38:37.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
-[22Dec2024 13:39:23.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! -10.177157860029752,-3.464431324360362E-4,0.745685172044432
-[22Dec2024 13:39:23.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! -10.567579114464479,-3.471441976543588E-4,0.7550520900658739
-[22Dec2024 13:39:23.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! -10.958507100598126,-3.4736729305961944E-4,0.7694728976493934
-[22Dec2024 13:39:23.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! -11.34982883604323,-3.4721360584200056E-4,0.788840023415105
-[22Dec2024 13:39:23.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! -11.741445769622828,-3.4678994188652723E-4,0.8130144297520019
-[22Dec2024 13:39:23.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! -12.133272114731767,-3.4619855754414175E-4,0.841836465671804
-[22Dec2024 13:39:23.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! -12.525233703264348,-3.455299067596229E-4,0.8751318215399806
-[22Dec2024 13:39:23.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! -12.917268220747928,-3.4485816979668016E-4,0.912709337169872
-[22Dec2024 13:39:23.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! -13.309322437730998,-3.442392350763157E-4,0.954374082078175
-[22Dec2024 13:39:23.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! -13.701351696161737,-3.437106864225825E-4,0.9999278065542967
-[22Dec2024 13:39:23.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
-[22Dec2024 13:39:40.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -10.206737150633217,0.7012968536522237,-0.6447701254965068
-[22Dec2024 13:39:41.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3370ms or 67 ticks behind
-[22Dec2024 13:40:24.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico lost connection: Disconnected
-[22Dec2024 13:40:24.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico left the game
-[22Dec2024 13:40:30.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
-[22Dec2024 13:40:44.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 2.6239014793515025,-2.5044260528293805,9.360618258300747
-[22Dec2024 13:41:36.887] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 62.42 seconds (should be max 0.05)
-[22Dec2024 13:41:36.889] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[22Dec2024 13:42:24.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey lost connection: Disconnected
-[22Dec2024 13:42:24.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey left the game
-[22Dec2024 13:43:45.589] [Worker-Main-9/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeons_arise:keep_kayra/keep_kayra_main_0
+[22Dec2024 14:13:56.694] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
+[22Dec2024 14:13:56.698] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[22Dec2024 14:13:57.110] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4061 advancements
+[22Dec2024 14:13:57.171] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[22Dec2024 14:13:57.185] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[22Dec2024 14:14:03.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Dec2024 14:14:03.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Dec2024 14:14:03.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Dec2024 14:14:03.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Dec2024 14:14:03.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Dec2024 14:14:03.333] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Dec2024 14:14:03.598] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Dec2024 14:14:03.599] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Dec2024 14:14:03.600] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Dec2024 14:14:03.601] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Dec2024 14:14:03.629] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Dec2024 14:14:03.633] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Dec2024 14:14:05.133] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22Dec2024 14:14:05.135] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22Dec2024 14:14:05.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Dec2024 14:14:14.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Dec2024 14:14:24.901] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.906] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.908] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.909] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.914] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.915] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.920] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.921] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.923] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.923] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.927] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.927] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.928] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.929] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.930] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.931] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.934] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.936] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:24.937] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:25.122] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:25.622] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 14:14:26.232] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[22Dec2024 14:14:26.682] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12561 ms
+[22Dec2024 14:14:26.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.060s)! For help, type "help"
+[22Dec2024 14:14:26.761] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Dec2024 14:17:10.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigmayey[/127.235.116.149:39393] logged in with entity id 99 at (-794.5761047653085, 63.0, 4324.659583301262)
+[22Dec2024 14:17:10.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey joined the game
+[22Dec2024 14:17:10.613] [Server thread/INFO] [Jade/]: Syncing config to sigmayey (8d003b35-26b0-367a-8909-5a29ab1ec93c)
+[22Dec2024 14:17:13.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2936ms or 58 ticks behind
+[22Dec2024 14:17:30.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
+[22Dec2024 14:17:54.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Fishy Business]
+[22Dec2024 14:20:37.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to sigmayey: Somos los chinos, vamos a por ti.
+[22Dec2024 14:20:46.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sigmayey> que miedo
+[22Dec2024 14:22:45.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nervio_optico[/127.70.204.6:39943] logged in with entity id 2089 at (-1585.3372621736078, 63.0, 7851.648028319815)
+[22Dec2024 14:22:45.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico joined the game
+[22Dec2024 14:22:45.682] [Server thread/INFO] [Jade/]: Syncing config to Nervio_optico (023320a3-72d6-3ba1-b2e9-42052eb0b771)
+[22Dec2024 14:22:50.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5222ms or 104 ticks behind
+[22Dec2024 14:25:26.417] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[22Dec2024 14:26:48.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[22Dec2024 14:26:48.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 4.597981977507516,8.96085695461069,1.4589185604108934
+[22Dec2024 14:29:46.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -9.71519741349448,2.2463498616473814,1.6799391467602618
+[22Dec2024 14:29:46.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -9.386940952597342,-1.0,3.6792496320158534
+[22Dec2024 14:29:46.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12021ms or 240 ticks behind
+[22Dec2024 14:29:51.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -8.865904785437124,-0.41999998688697815,5.180266450698582
+[22Dec2024 14:29:51.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -10.062979727131733,0.0,-1.6244279261663905
+[22Dec2024 14:29:59.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -7.059281346773787,0.9986640208878583,7.520171627655145
+[22Dec2024 14:29:59.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -8.767393669843841,4.753199980521202,1.9254654294909415
+[22Dec2024 14:30:01.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -1.988389143828499,-0.504799122994072,9.999852955777897
+[22Dec2024 14:30:01.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -9.133132945377838,1.5800000131130219,4.42874170651703
+[22Dec2024 14:30:11.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9886ms or 197 ticks behind
+[22Dec2024 14:30:27.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 0.8816768352849067,-1.747796659746271,9.968199198812727
+[22Dec2024 14:30:27.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -5.214586997843526,-5.0,-6.917693972458437
+[22Dec2024 14:30:35.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9181ms or 183 ticks behind
+[22Dec2024 14:33:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [What a Deal!]
+[22Dec2024 14:34:36.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CabezaCascoo[/127.96.153.127:53091] logged in with entity id 12073 at (-290.16694548726355, 70.0, 4368.5281923499215)
+[22Dec2024 14:34:36.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo joined the game
+[22Dec2024 14:34:36.898] [Server thread/INFO] [Jade/]: Syncing config to CabezaCascoo (a4f49cc0-b26f-3ce9-b716-255117de29ae)
+[22Dec2024 14:34:40.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
+[22Dec2024 14:34:40.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -10.254009184839106,-0.003016261509046103,1.2367362062677785
+[22Dec2024 14:34:57.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[22Dec2024 14:35:17.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 4.394899462384274,0.0,10.009101156048018
+[22Dec2024 14:35:25.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[22Dec2024 14:36:08.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [You Are A Pirate]
+[22Dec2024 14:36:19.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[22Dec2024 14:36:36.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[22Dec2024 14:36:54.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Dec2024 14:37:12.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3208ms or 64 ticks behind
+[22Dec2024 14:37:31.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3905ms or 78 ticks behind
+[22Dec2024 14:37:44.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 2.5755592922139385,-2.0013359791121417,9.773563579863549
+[22Dec2024 14:37:53.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6304ms or 126 ticks behind
+[22Dec2024 14:37:55.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! -9.70262151219083,-1.1918406381575721,2.555540646722875
+[22Dec2024 14:38:07.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! -0.05964920345252267,0.7784980537656025,9.999184755556598
+[22Dec2024 14:38:07.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -5.516175968408788,-0.7531999805212024,-8.39294825363595
+[22Dec2024 14:38:11.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo lost connection: Disconnected
+[22Dec2024 14:38:11.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo left the game
+[22Dec2024 14:38:14.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6227ms or 124 ticks behind
+[22Dec2024 14:38:38.209] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[22Dec2024 14:41:59.764] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Dec2024 14:42:34.985] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[22Dec2024 14:43:06.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Super Creeps]
+[22Dec2024 14:43:51.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 9.693724516564998,1.4199999868869781,-3.8406564993583743
+[22Dec2024 14:43:51.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[22Dec2024 14:44:42.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 7.780101799117801,2.176759275064242,-6.025396651477422
+[22Dec2024 14:44:52.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 9.84227778228842,-1.7521489003674589,-1.4995121638839919
+[22Dec2024 14:45:04.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 9.513931862496975,-1.9139059206844848,-2.9719657158511836
+[22Dec2024 14:45:04.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -6.964942044394775,0.12129684053920187,7.254828027134863
+[22Dec2024 14:46:32.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 8.153088146959135,-3.7531999805212024,-4.655766185649554
+[22Dec2024 14:46:32.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[22Dec2024 14:46:42.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 6.469828874162886,-3.0,-7.180570393586095
+[22Dec2024 14:46:56.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 6.806148974910229,-0.36809686001799946,-7.391912464529014
+[22Dec2024 14:47:07.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[22Dec2024 14:47:18.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Enlightenment]
+[22Dec2024 14:51:52.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[22Dec2024 14:52:19.557] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Dec2024 14:52:23.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 0.9455065117754202,1.443251324958311,9.997221256062403
+[22Dec2024 14:52:23.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[22Dec2024 15:02:39.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[22Dec2024 15:06:44.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5395ms or 107 ticks behind
+[22Dec2024 15:07:22.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3446ms or 68 ticks behind
+[22Dec2024 15:07:26.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 9.623202110375132,0.0,-2.7986621529134936
+[22Dec2024 15:07:26.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.009407032701347,0.0,-2.7963338485133136
+[22Dec2024 15:07:26.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.39543526482521,0.0,-2.7831933852685324
+[22Dec2024 15:07:26.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.781565979973493,0.0,-2.7612762115004443
+[22Dec2024 15:07:26.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.168159011355783,0.0,-2.733003863078011
+[22Dec2024 15:07:26.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.555567586491634,0.0,-2.701102217190055
+[22Dec2024 15:07:26.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.944047539352141,0.0,-2.668523485552214
+[22Dec2024 15:07:26.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.333670989382881,0.0,-2.638382005715357
+[22Dec2024 15:07:26.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.724285950232115,0.0,-2.613175246713581
+[22Dec2024 15:07:26.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 13.115598631827197,0.0,-2.5948713703401154
+[22Dec2024 15:07:26.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 13.507234253933348,0.0,-2.5849830590741476
+[22Dec2024 15:07:26.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.067877614483223,0.0,-0.6562981768156533
+[22Dec2024 15:07:26.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.450394591181976,0.0,-0.7549329247040077
+[22Dec2024 15:07:26.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.83266138723775,0.0,-0.8561895440716398
+[22Dec2024 15:07:26.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.214704216539758,0.0,-0.9598022053050954
+[22Dec2024 15:07:26.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.596546675311401,0.0,-1.0655316598968056
+[22Dec2024 15:07:26.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.978209992704251,0.0,-1.1731625851261924
+[22Dec2024 15:07:30.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 9.89982113777205,0.0,-2.840695703829624
+[22Dec2024 15:07:30.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.27997549905922,0.0,-2.962733023011424
+[22Dec2024 15:07:30.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.660117137119414,0.0,-3.085048313581865
+[22Dec2024 15:07:30.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.040247324275697,0.0,-3.2076137783960803
+[22Dec2024 15:07:30.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.420367205618277,0.0,-3.330404400023326
+[22Dec2024 15:07:30.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.800477811729252,0.0,-3.4533976627772063
+[22Dec2024 15:07:30.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.180580070132237,0.0,-3.5765733025409645
+[22Dec2024 15:07:30.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.56067481559785,0.0,-3.699913081608429
+[22Dec2024 15:07:30.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.940762799419645,0.0,-3.8234005860449543
+[22Dec2024 15:07:30.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 13.320844697762368,0.0,-3.947021043310997
+[22Dec2024 15:07:30.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 13.700921119174382,0.0,-4.070761158120149
+[22Dec2024 15:07:33.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 9.882027706801637,0.0,-3.2163526954118424
+[22Dec2024 15:07:33.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.262063969819792,0.0,-3.340970172901507
+[22Dec2024 15:07:33.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.642099319440604,0.0,-3.465607605888181
+[22Dec2024 15:07:33.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.022133847004625,0.0,-3.590262998821345
+[22Dec2024 15:07:33.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.402167634716534,0.0,-3.71493455570635
+[22Dec2024 15:07:33.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.782200756561906,0.0,-3.839620660147375
+[22Dec2024 15:07:33.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.162233279127577,0.0,-3.9643198573885456
+[22Dec2024 15:07:33.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.542265262341061,0.0,-4.089030838149483
+[22Dec2024 15:07:33.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.922296760138124,0.0,-4.2137524240779385
+[22Dec2024 15:07:33.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 13.302327821059407,0.0,-4.338483554656705
+[22Dec2024 15:07:33.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 13.682358488793398,0.0,-4.463223275420205
+[22Dec2024 15:07:33.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 14.062388802658461,0.0,-4.587970727350694
+[22Dec2024 15:07:33.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 14.442418798042127,0.0,-4.712725137330381
+[22Dec2024 15:07:33.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 14.82244850679217,0.0,-4.837485809554892
+[22Dec2024 15:07:33.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 15.202477957572228,0.0,-4.962252117799835
+[22Dec2024 15:07:33.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 15.582507176178297,0.0,-5.087023498462258
+[22Dec2024 15:07:33.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 15.962536185828867,0.0,-5.2117994443005955
+[22Dec2024 15:07:50.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 9.880705390361982,0.0,-3.2452420753170372
+[22Dec2024 15:07:50.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.260732519652265,0.0,-3.370059102427149
+[22Dec2024 15:07:50.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 10.640759648917992,0.0,-3.494876130067496
+[22Dec2024 15:07:50.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.020786778161892,0.0,-3.6196931581844183
+[22Dec2024 15:07:50.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.400813907386691,0.0,-3.744510186730622
+[22Dec2024 15:07:50.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.780841036593301,0.0,-3.869327215663361
+[22Dec2024 15:07:50.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.16086816578445,0.0,-3.9941442449444367
+[22Dec2024 15:07:50.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.540895294961047,0.0,-4.118961274538378
+[22Dec2024 15:07:50.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.92092242412491,0.0,-4.243778304413354
+[22Dec2024 15:07:50.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 13.30094955327695,0.0,-4.3685953345420785
+[22Dec2024 15:07:50.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 13.680976682418986,0.0,-4.493412364899086
+[22Dec2024 15:07:50.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 14.061003811551018,0.0,-4.61822939546164
+[22Dec2024 15:07:50.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 14.441030940674864,0.0,-4.743046426208821
+[22Dec2024 15:07:50.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 14.821058069791434,0.0,-4.867863457122439
+[22Dec2024 15:07:50.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 15.201085198900728,0.0,-4.992680488186124
+[22Dec2024 15:07:50.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 15.581112328003655,0.0,-5.117497519384415
+[22Dec2024 15:07:50.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 15.961139457101126,0.0,-5.242314550703668
+[22Dec2024 15:07:50.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 16.34116658619405,0.0,-5.36713158213206
+[22Dec2024 15:07:50.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 16.721193715282425,0.0,-5.491948613658678
+[22Dec2024 15:07:50.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 17.101220844366253,0.0,-5.616765645273517
+[22Dec2024 15:07:50.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 17.481247973446443,0.0,-5.741582676968392
+[22Dec2024 15:07:50.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 17.861275102523905,0.0,-5.866399708734207
+[22Dec2024 15:07:50.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 18.24130223159773,0.0,-5.991216740564596
+[22Dec2024 15:07:50.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 18.621329360668824,0.0,-6.116033772453193
+[22Dec2024 15:07:50.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 19.0013564897381,0.0,-6.240850804393631
+[22Dec2024 15:07:50.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 19.381383618804648,0.0,-6.365667836381363
+[22Dec2024 15:07:50.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 19.761410747869377,0.0,-6.490484868411841
+[22Dec2024 15:07:50.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 20.141437876932287,0.0,-6.615301900479608
+[22Dec2024 15:07:56.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.020786744949874,0.0,-3.6196938837865673
+[22Dec2024 15:07:56.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.400813874010055,0.0,-3.744510915919818
+[22Dec2024 15:07:56.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 11.780841003069327,0.0,-3.869327948080354
+[22Dec2024 15:07:56.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.16086813212678,0.0,-3.9941449802663556
+[22Dec2024 15:07:56.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.540895261183323,0.0,-4.1189620124750945
+[22Dec2024 15:07:56.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 12.920922390238957,0.0,-4.243779044703842
+[22Dec2024 15:07:56.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 13.300949519293681,0.0,-4.36859607695078
+[22Dec2024 15:07:56.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 13.680976648348405,0.0,-4.493413109214089
+[22Dec2024 15:07:56.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 14.06100377740222,0.0,-4.618230141491949
+[22Dec2024 15:07:59.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 14.441030906455126,0.0,-4.743047173783452
+[22Dec2024 15:07:59.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 14.821058035508031,0.0,-4.867864206086779
+[22Dec2024 15:07:59.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 15.201085164560027,0.0,-4.992681238401019
+[22Dec2024 15:07:59.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 15.581112293612023,0.0,-5.117498270724354
+[22Dec2024 15:07:59.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 15.96113942266311,0.0,-5.242315303056785
+[22Dec2024 15:07:59.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 16.341166551714196,0.0,-5.367132335396491
+[22Dec2024 15:07:59.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 16.721193680764372,0.0,-5.491949367743473
+[22Dec2024 15:07:59.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 17.10122080981455,0.0,-5.616766400096822
+[22Dec2024 15:07:59.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 17.481247938864726,0.0,-5.741583432455627
+[22Dec2024 15:08:02.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 17.861275067913994,0.0,-5.86640046481989
+[22Dec2024 15:08:02.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 18.24130219696326,0.0,-5.9912174971887
+[22Dec2024 15:08:02.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 18.62132932601253,0.0,-6.116034529562057
+[22Dec2024 15:08:02.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 19.001356455061796,0.0,-6.240851561939053
+[22Dec2024 15:08:02.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 19.381383584111063,0.0,-6.365668594319686
+[22Dec2024 15:08:02.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 19.76141071316033,0.0,-6.490485626703048
+[22Dec2024 15:08:02.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 20.14143784220869,0.0,-6.615302659089139
+[22Dec2024 15:08:02.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 20.521464971257046,0.0,-6.7401196914779575
+[22Dec2024 15:08:02.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 20.901492100305404,0.0,-6.864936723868595
+[22Dec2024 15:08:05.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 21.281519229353762,0.0,-6.989753756261052
+[22Dec2024 15:08:05.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 21.66154635840212,0.0,-7.114570788655328
+[22Dec2024 15:08:05.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 22.041573487450478,0.0,-7.239387821051423
+[22Dec2024 15:08:05.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 22.421600616498836,0.0,-7.364204853449337
+[22Dec2024 15:08:05.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 22.801627745547194,0.0,-7.48902188584816
+[22Dec2024 15:08:05.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 23.18165487459555,0.0,-7.613838918247893
+[22Dec2024 15:08:05.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 23.56168200364391,0.0,-7.7386559506485355
+[22Dec2024 15:08:05.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 23.941709132692267,0.0,-7.863472983050997
+[22Dec2024 15:08:05.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 24.321736261740625,0.0,-7.988290015453458
+[22Dec2024 15:08:05.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 24.701763390788983,0.0,-8.113107047856829
+[22Dec2024 15:08:05.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 25.08179051983643,0.0,-8.23792408026111
+[22Dec2024 15:08:05.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 25.46181764888388,0.0,-8.3627411126663
+[22Dec2024 15:08:05.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 25.84184477793133,0.0,-8.487558145071489
+[22Dec2024 15:08:05.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 26.221871906978777,0.0,-8.612375177477588
+[22Dec2024 15:08:05.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 26.601899036026225,0.0,-8.737192209883688
+[22Dec2024 15:08:05.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 26.981926165073673,0.0,-8.862009242290696
+[22Dec2024 15:08:05.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 27.361953294121122,0.0,-8.986826274697705
+[22Dec2024 15:08:05.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 27.74198042316857,0.0,-9.111643307105624
+[22Dec2024 15:08:05.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 28.12200755221602,0.0,-9.236460339513542
+[22Dec2024 15:08:05.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 28.502034681263467,0.0,-9.36127737192146
+[22Dec2024 15:08:05.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 28.882061810310915,0.0,-9.486094404330288
+[22Dec2024 15:08:05.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 29.262088939358364,0.0,-9.610911436739116
+[22Dec2024 15:08:05.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 29.642116068405812,0.0,-9.735728469147944
+[22Dec2024 15:08:05.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 30.02214319745326,0.0,-9.860545501556771
+[22Dec2024 15:08:05.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 30.40217032650071,0.0,-9.9853625339656
+[22Dec2024 15:08:05.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 30.782197455548157,0.0,-10.110179566375336
+[22Dec2024 15:08:05.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 31.162224584595606,0.0,-10.234996598785074
+[22Dec2024 15:08:05.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 31.542251713643054,0.0,-10.359813631194811
+[22Dec2024 15:08:05.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 31.922278842690503,0.0,-10.484630663604548
+[22Dec2024 15:08:05.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 32.30230597173795,0.0,-10.609447696014286
+[22Dec2024 15:08:05.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 32.6823331007854,0.0,-10.734264728424023
+[22Dec2024 15:08:05.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 33.06236022983285,0.0,-10.85908176083376
+[22Dec2024 15:08:20.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 33.442387358880296,0.0,-10.983898793243497
+[22Dec2024 15:08:26.520] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 62.21 seconds (should be max 0.05)
+[22Dec2024 15:08:26.522] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[22Dec2024 15:08:39.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 33.822414487927745,0.0,-11.108715825653235
+[22Dec2024 15:08:48.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 34.20244161697519,0.0,-11.233532858062972
+[22Dec2024 15:08:48.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 34.58246874602264,0.0,-11.35834989047271
+[22Dec2024 15:09:33.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 34.96249587507009,0.0,-11.483166922883356
+[22Dec2024 15:09:33.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 35.34252300411754,0.0,-11.607983955294003
+[22Dec2024 15:09:33.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 35.72255013316499,0.0,-11.73280098770465
+[22Dec2024 15:09:33.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 36.102577262212435,0.0,-11.857618020115297
+[22Dec2024 15:09:33.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 36.48260439125988,0.0,-11.982435052525943
+[22Dec2024 15:09:36.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 36.86263152030733,0.0,-12.10725208493659
+[22Dec2024 15:09:36.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigmayey) moved too quickly! 37.24265864935478,0.0,-12.232069117347237
+[22Dec2024 15:10:52.874] [Worker-Main-16/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeons_arise:keep_kayra/keep_kayra_main_0
 java.lang.OutOfMemoryError: Java heap space
-	at java.util.Arrays.copyOf(Arrays.java:3482) ~[?:?]
-	at com.google.common.collect.ImmutableList$Builder.getReadyToExpandTo(ImmutableList.java:795) ~[guava-31.1-jre.jar%2374!/:?]
-	at com.google.common.collect.ImmutableList$Builder.add(ImmutableList.java:814) ~[guava-31.1-jre.jar%2374!/:?]
-	at com.mojang.serialization.ListBuilder$Builder$$Lambda/0x00007b8fc198a238.apply(Unknown Source) ~[?:?]
-	at com.mojang.serialization.DataResult$Instance.ap2(DataResult.java:318) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.DataResult.apply2stable(DataResult.java:179) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.ListBuilder$Builder.add(ListBuilder.java:56) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:31) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:19) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.codecs.EitherCodec.lambda$encode$2(EitherCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.codecs.EitherCodec$$Lambda/0x00007b8fc18cfc60.apply(Unknown Source) ~[?:?]
+	at java.util.Collections$UnmodifiableMap$UnmodifiableEntrySet$1.next(Collections.java:1864) ~[?:?]
+	at java.util.Collections$UnmodifiableMap$UnmodifiableEntrySet$1.next(Collections.java:1857) ~[?:?]
+	at java.util.HashMap.putMapEntries(HashMap.java:519) ~[?:?]
+	at java.util.HashMap.<init>(HashMap.java:492) ~[?:?]
+	at com.google.common.collect.Maps.newHashMap(Maps.java:258) ~[guava-31.1-jre.jar%2374!/:?]
+	at net.minecraft.nbt.NbtOps$NbtRecordBuilder.build(NbtOps.java:378) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.nbt.NbtOps$NbtRecordBuilder.build(NbtOps.java:356) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at com.mojang.serialization.RecordBuilder$AbstractBuilder.lambda$build$0(RecordBuilder.java:61) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.RecordBuilder$AbstractBuilder$$Lambda/0x00007325c0db22d8.apply(Unknown Source) ~[?:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult$$Lambda/0x00007325c0738238.apply(Unknown Source) ~[?:?]
 	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.RecordBuilder$AbstractBuilder.build(RecordBuilder.java:61) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.EitherCodec.lambda$encode$3(EitherCodec.java:35) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.EitherCodec$$Lambda/0x00007325c19929a0.apply(Unknown Source) ~[?:?]
+	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-6.0.8.jar%2377!/:?]
 	at com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:33) ~[datafixerupper-6.0.8.jar%2377!/:?]
 	at com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:13) ~[datafixerupper-6.0.8.jar%2377!/:?]
 	at com.mojang.serialization.codecs.PairCodec.lambda$encode$2(PairCodec.java:32) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.codecs.PairCodec$$Lambda/0x00007b8fc1ac0238.apply(Unknown Source) ~[?:?]
+	at com.mojang.serialization.codecs.PairCodec$$Lambda/0x00007325c1ac28d0.apply(Unknown Source) ~[?:?]
 	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.DataResult$$Lambda/0x00007b8fc075b3b8.apply(Unknown Source) ~[?:?]
+	at com.mojang.serialization.DataResult$$Lambda/0x00007325c0738238.apply(Unknown Source) ~[?:?]
 	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
 	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
 	at com.mojang.serialization.codecs.PairCodec.encode(PairCodec.java:32) ~[datafixerupper-6.0.8.jar%2377!/:?]
 	at com.mojang.serialization.codecs.PairCodec.encode(PairCodec.java:12) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.codecs.PairCodec.encode(PairCodec.java:32) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.serialization.codecs.PairCodec.encode(PairCodec.java:12) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.datafixers.types.templates.Named$NamedType$1.encode(Named.java:126) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.datafixers.types.templates.Named$NamedType$1.encode(Named.java:115) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.datafixers.types.Type.capWrite(Type.java:165) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at com.mojang.datafixers.types.Type.lambda$readAndWrite$10(Type.java:157) ~[datafixerupper-6.0.8.jar%2377!/:?]
-[22Dec2024 13:43:47.470] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 08a32a28-3826-4bda-9116-4b9626023bf7
-[22Dec2024 13:43:47.519] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 409bfb1d-733b-400c-b3e9-1f6daa4f8920
-[22Dec2024 13:43:47.524] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/desesperacion/servidor_minecraft/./crash-reports/crash-2024-12-22_13.43.47-server.txt
-[22Dec2024 13:43:47.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[22Dec2024 13:43:47.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[22Dec2024 13:43:47.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[22Dec2024 13:43:54.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22Dec2024 13:43:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
-[22Dec2024 13:43:54.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
-[22Dec2024 13:43:54.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
-[22Dec2024 13:43:54.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
-[22Dec2024 13:43:54.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
-[22Dec2024 13:43:54.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22Dec2024 13:43:54.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
-[22Dec2024 13:43:54.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
-[22Dec2024 13:43:54.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
-[22Dec2024 13:43:54.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
-[22Dec2024 13:43:54.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
-[22Dec2024 13:43:54.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22Dec2024 13:43:54.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
-[22Dec2024 13:43:54.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22Dec2024 13:43:54.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
-[22Dec2024 13:43:54.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[22Dec2024 13:43:54.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
-[22Dec2024 13:43:54.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
-[22Dec2024 13:43:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
-[22Dec2024 13:43:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22Dec2024 13:43:54.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
-[22Dec2024 13:43:54.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
-[22Dec2024 13:43:54.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
-[22Dec2024 13:43:54.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[22Dec2024 13:43:54.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[22Dec2024 13:43:54.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22Dec2024 13:43:54.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
-[22Dec2024 13:43:54.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22Dec2024 13:43:55.234] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:31) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:19) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[datafixerupper-6.0.8.jar%2377!/:?]
+[22Dec2024 15:10:52.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey lost connection: Disconnected
+[22Dec2024 15:10:52.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey left the game
+[22Dec2024 15:10:52.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico lost connection: Disconnected
+[22Dec2024 15:10:52.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico left the game
+[22Dec2024 15:10:53.055] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ab06864[id=<null>,name=sigmayey,properties={},legacy=false] (/127.235.116.149:60875) lost connection: Disconnected
+[22Dec2024 15:10:53.056] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@579517e2[id=<null>,name=sigmayey,properties={},legacy=false] (/127.235.116.149:55059) lost connection: Disconnected
+[22Dec2024 15:10:53.202] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 9ac4ca4a-bc4b-46cb-ad63-6fc2b9463dc6
+[22Dec2024 15:10:53.274] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 6e91ddf8-36d9-41bf-8ae5-86bf4255ddff
+[22Dec2024 15:10:53.278] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/desesperacion/servidor_minecraft/./crash-reports/crash-2024-12-22_15.10.53-server.txt
+[22Dec2024 15:10:53.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Dec2024 15:10:53.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Dec2024 15:10:53.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Dec2024 15:10:56.173] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.shorts.ShortArrayList.getShort(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.shorts.Short2ObjectOpenHashMap$MapIterator.nextEntry(Short2ObjectOpenHashMap.java:657) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.shorts.Short2ObjectOpenHashMap$ValueIterator.next(Short2ObjectOpenHashMap.java:1164) ~[fastutil-8.5.9.jar%2390!/:?]
+	at java.util.AbstractCollection.finishToArray(AbstractCollection.java:231) ~[?:?]
+	at java.util.AbstractCollection.toArray(AbstractCollection.java:150) ~[?:?]
+	at com.google.common.collect.ImmutableList.copyOf(ImmutableList.java:265) ~[guava-31.1-jre.jar%2374!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiSection.m_148674_(PoiSection.java:38) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance.lambda$ap3$6(RecordCodecBuilder.java:290) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Codec$4.encode(Codec.java:212) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63798_(SectionStorage.java:183) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63825_(SectionStorage.java:165) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_6202_(SectionStorage.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_6202_(PoiManager.java:190) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.level.ChunkMap.m_140280_(ChunkMap.java:451) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_201698_(ServerChunkCache.java:316) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:576) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22Dec2024 15:10:56.182] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
