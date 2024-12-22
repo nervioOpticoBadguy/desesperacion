@@ -589,6 +589,7 @@
       "glow_berries": "2024-12-21 17:09:05 +0000",
       "beetroot": "2024-12-22 11:04:37 +0000",
       "cooked_chicken": "2024-12-21 18:14:23 +0000",
+      "mushroom_stew": "2024-12-22 13:21:32 +0000",
       "cooked_salmon": "2024-12-21 22:11:26 +0000",
       "carrot": "2024-12-21 22:14:03 +0000"
     },
@@ -1891,6 +1892,7 @@
       "biomeswevegone:cika_woods": "2024-12-21 20:36:52 +0000",
       "biomeswevegone:sakura_grove": "2024-12-21 19:58:40 +0000",
       "biomeswevegone:temperate_grove": "2024-12-21 22:00:19 +0000",
+      "biomeswevegone:zelkova_forest": "2024-12-22 13:15:33 +0000",
       "biomeswevegone:forgotten_forest": "2024-12-22 11:42:40 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-21 22:04:31 +0000",
       "biomeswevegone:maple_taiga": "2024-12-21 20:07:40 +0000",
@@ -1906,6 +1908,7 @@
       "biomeswevegone:howling_peaks": "2024-12-21 19:59:03 +0000",
       "biomeswevegone:skyrise_vale": "2024-12-21 21:04:39 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-21 20:00:08 +0000",
+      "biomeswevegone:pumpkin_valley": "2024-12-22 13:38:09 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-21 21:05:27 +0000",
       "biomeswevegone:coniferous_forest": "2024-12-21 21:32:26 +0000"
     },
@@ -5526,6 +5529,36 @@
   "biomeswevegone:recipes/decorations/maple_crafting_table": {
     "criteria": {
       "has_maple_planks": "2024-12-22 13:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-22 13:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-22 13:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-22 13:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-22 13:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-22 13:35:01 +0000"
     },
     "done": true
   },
