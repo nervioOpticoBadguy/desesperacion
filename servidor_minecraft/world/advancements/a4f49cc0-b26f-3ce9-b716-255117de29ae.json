@@ -318,6 +318,7 @@
       "cooked_mutton": "2024-12-21 16:30:21 +0000",
       "cooked_beef": "2024-12-21 22:29:07 +0000",
       "beef": "2024-12-21 17:07:38 +0000",
+      "baked_potato": "2024-12-22 11:17:58 +0000",
       "apple": "2024-12-21 20:42:15 +0000",
       "mutton": "2024-12-21 16:03:56 +0000",
       "bread": "2024-12-21 17:18:45 +0000",
@@ -4168,6 +4169,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-22 11:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-22 11:08:44 +0000"
@@ -4219,6 +4226,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-22 11:08:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-22 11:11:20 +0000"
     },
     "done": true
   },
