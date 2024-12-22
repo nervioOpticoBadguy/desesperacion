@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-22 10:36:22 +0000",
       "minecraft:deep_ocean": "2024-12-21 21:18:32 +0000",
       "minecraft:frozen_river": "2024-12-21 16:55:47 +0000",
       "minecraft:sunflower_plains": "2024-12-21 16:13:55 +0000",
@@ -850,7 +851,9 @@
     "criteria": {
       "cooked_porkchop": "2024-12-21 19:42:33 +0000",
       "cooked_mutton": "2024-12-21 16:01:23 +0000",
+      "sweet_berries": "2024-12-22 10:38:00 +0000",
       "cooked_beef": "2024-12-21 16:06:51 +0000",
+      "beef": "2024-12-22 10:38:37 +0000",
       "porkchop": "2024-12-21 20:01:09 +0000",
       "cooked_cod": "2024-12-21 20:42:27 +0000",
       "poisonous_potato": "2024-12-21 20:29:52 +0000",
@@ -1981,6 +1984,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "brown_mushroom": "2024-12-22 10:38:19 +0000",
       "sugar_cane": "2024-12-21 22:21:57 +0000",
       "potato": "2024-12-21 17:39:39 +0000",
       "wheat": "2024-12-21 17:39:45 +0000",
@@ -3581,6 +3585,60 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2024-12-21 22:43:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-22 10:38:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2024-12-22 10:42:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2024-12-22 10:44:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-22 10:38:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2024-12-22 10:43:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-22 10:37:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-22 10:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-22 10:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-22 10:38:18 +0000"
     },
     "done": true
   },

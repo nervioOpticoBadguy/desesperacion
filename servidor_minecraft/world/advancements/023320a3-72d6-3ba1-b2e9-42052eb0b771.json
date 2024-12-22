@@ -5088,5 +5088,11 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2024-12-22 10:36:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

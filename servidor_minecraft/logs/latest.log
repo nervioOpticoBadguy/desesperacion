@@ -216,3 +216,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [22Dec2024 10:34:55.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [22Dec2024 10:35:12.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
 [22Dec2024 10:35:42.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1260, l='ServerLevel[world]', x=57.40, y=75.50, z=4221.66] died, message: 'Unemployed tried to swim in lava'
+[22Dec2024 10:39:01.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sigmayey> [name:"sacerdote", x:46, y:77, z:4187, dim:minecraft:overworld]
+[22Dec2024 10:39:28.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22Dec2024 10:39:47.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4016ms or 80 ticks behind
+[22Dec2024 10:42:14.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElZipote69[/127.72.41.132:46275] logged in with entity id 3899 at (-0.5, 67.0, 7.5)
+[22Dec2024 10:42:14.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElZipote69 joined the game
+[22Dec2024 10:42:15.084] [Server thread/INFO] [Jade/]: Syncing config to ElZipote69 (83056aca-0c8d-3908-971c-32689b2b7ba8)
+[22Dec2024 10:42:18.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[22Dec2024 10:42:26.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has reached the goal [Pure Imagination]
+[22Dec2024 10:43:21.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Yellow Brick Road]
+[22Dec2024 10:44:24.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nervio_optico> [name:"Casa Dani", x:-61, y:72, z:2979, dim:minecraft:overworld]
+[22Dec2024 10:44:25.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Caniac No More]
+[22Dec2024 10:46:12.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [I Found the Coin Slot]
+[22Dec2024 10:46:55.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Unwrapped Candy]
+[22Dec2024 10:47:19.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElZipote69) moved too quickly! -4.06224929926395,-6.250434836374552E-8,9.572393135742914
+[22Dec2024 10:47:19.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElZipote69) moved too quickly! -4.2191430363257325,-6.294187215871716E-8,9.940329122339563
+[22Dec2024 10:47:19.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElZipote69) moved too quickly! -4.376054190277134,-6.330314050728703E-8,10.308258679871642
+[22Dec2024 10:47:19.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElZipote69) moved too quickly! -4.532981019428782,-6.357758053354701E-8,10.676182451245722
+[22Dec2024 10:47:19.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElZipote69) moved too quickly! -4.6899219562602745,-6.376437511335098E-8,11.044101015077786
+[22Dec2024 10:47:19.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElZipote69) moved too quickly! -4.846875590003293,-6.387011097785944E-8,11.412014892122215
+[22Dec2024 10:47:19.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElZipote69) moved too quickly! -5.0038406509663815,-6.390637707909264E-8,11.779924551057775
+[22Dec2024 10:47:19.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElZipote69) moved too quickly! -5.16081599642726,-6.388756190744971E-8,12.147830413695488
+[22Dec2024 10:47:19.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[22Dec2024 10:47:52.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! 9.540295239179244,1.1661092609382138,3.3884627565745404
+[22Dec2024 10:47:52.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[22Dec2024 10:47:55.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElZipote69 has made the advancement [The Lighthouse]
+[22Dec2024 10:48:27.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico was toasted by Pyromancer's flaming breath
+[22Dec2024 10:48:27.336] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Nervio_optico with unique ID travelersbackpack.standard_22.12.2024-10.48.27.dat
+[22Dec2024 10:49:16.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[22Dec2024 10:49:39.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico couldn't take Pyromancer's heat
+[22Dec2024 10:49:39.362] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Nervio_optico with unique ID travelersbackpack.standard_22.12.2024-10.49.39.dat
+[22Dec2024 10:49:59.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico was engulfed by Pyromancer's blazing fires
+[22Dec2024 10:50:05.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -4.775568207545916,-0.8291870918577047,-9.304690103522262
+[22Dec2024 10:50:05.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! 0.5037058473832801,1.1212968405392019,9.997815397023487
+[22Dec2024 10:50:13.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! -1.7414523695868738,0.08307781780646906,9.8795557084361
+[22Dec2024 10:50:13.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22Dec2024 10:50:24.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico couldn't take Pyromancer's heat
