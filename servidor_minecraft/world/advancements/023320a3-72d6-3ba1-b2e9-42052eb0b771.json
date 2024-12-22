@@ -5379,6 +5379,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-22 11:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-22 11:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-22 11:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-22 11:57:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2024-12-22 11:57:28 +0000"
@@ -5397,12 +5421,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2024-12-22 11:57:19 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/acacia_window": {
     "criteria": {
       "has_ingredient": "2024-12-22 11:57:28 +0000"
@@ -5412,12 +5430,6 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-12-22 11:57:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2024-12-22 11:57:19 +0000"
     },
     "done": true
   },
@@ -5439,18 +5451,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2024-12-22 11:57:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
-    "criteria": {
-      "has_dark_prismarine": "2024-12-22 11:57:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-22 11:57:28 +0000"
@@ -5460,6 +5460,72 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-22 11:57:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_maple_planks": "2024-12-22 13:04:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2024-12-22 13:04:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2024-12-22 13:04:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-22 13:04:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-22 13:04:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2024-12-22 13:04:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2024-12-22 13:04:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2024-12-22 13:04:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-22 13:04:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-22 13:04:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/maple_crafting_table": {
+    "criteria": {
+      "has_maple_planks": "2024-12-22 13:04:21 +0000"
     },
     "done": true
   },

@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-22 12:24:22 +0000",
       "minecraft:frozen_river": "2024-12-21 20:14:33 +0000",
       "minecraft:cherry_grove": "2024-12-21 18:29:43 +0000",
       "minecraft:sunflower_plains": "2024-12-21 18:29:20 +0000",
@@ -316,6 +317,7 @@
     "criteria": {
       "chicken": "2024-12-21 17:06:43 +0000",
       "cooked_mutton": "2024-12-21 16:30:21 +0000",
+      "sweet_berries": "2024-12-22 12:58:06 +0000",
       "cooked_beef": "2024-12-21 22:29:07 +0000",
       "beef": "2024-12-21 17:07:38 +0000",
       "baked_potato": "2024-12-22 11:17:58 +0000",
@@ -4352,6 +4354,72 @@
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 11:23:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-22 12:17:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2024-12-22 12:28:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2024-12-22 12:28:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2024-12-22 12:31:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2024-12-22 12:31:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2024-12-22 12:33:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2024-12-22 12:45:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-22 12:57:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-22 12:57:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2024-12-22 12:59:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-22 13:04:44 +0000"
     },
     "done": true
   },
