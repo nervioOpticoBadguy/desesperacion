@@ -575,6 +575,7 @@
       "cooked_mutton": "2024-12-21 17:16:37 +0000",
       "cooked_beef": "2024-12-21 17:40:25 +0000",
       "baked_potato": "2024-12-21 21:06:23 +0000",
+      "beetroot_soup": "2024-12-22 11:07:51 +0000",
       "apple": "2024-12-21 16:53:31 +0000",
       "rabbit": "2024-12-21 19:06:42 +0000",
       "pumpkin_pie": "2024-12-21 20:45:47 +0000",
@@ -582,6 +583,7 @@
       "bread": "2024-12-21 15:54:51 +0000",
       "golden_apple": "2024-12-21 20:59:54 +0000",
       "glow_berries": "2024-12-21 17:09:05 +0000",
+      "beetroot": "2024-12-22 11:04:37 +0000",
       "cooked_chicken": "2024-12-21 18:14:23 +0000",
       "cooked_salmon": "2024-12-21 22:11:26 +0000",
       "carrot": "2024-12-21 22:14:03 +0000"
@@ -5106,6 +5108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-22 11:04:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 10:47:47 +0000"
@@ -5130,6 +5138,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-22 11:07:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 10:47:47 +0000"
@@ -5142,15 +5156,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-22 11:04:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 10:47:47 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-22 11:04:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2024-12-22 10:36:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-22 11:09:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-22 11:07:51 +0000"
     },
     "done": true
   },
@@ -5196,6 +5234,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-22 11:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-22 11:04:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-22 11:07:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 10:47:47 +0000"
@@ -5205,6 +5261,12 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 10:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-22 11:07:51 +0000"
     },
     "done": true
   },
