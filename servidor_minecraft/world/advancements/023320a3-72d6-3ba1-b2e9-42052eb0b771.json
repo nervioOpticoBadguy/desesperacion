@@ -1891,6 +1891,7 @@
       "biomeswevegone:cika_woods": "2024-12-21 20:36:52 +0000",
       "biomeswevegone:sakura_grove": "2024-12-21 19:58:40 +0000",
       "biomeswevegone:temperate_grove": "2024-12-21 22:00:19 +0000",
+      "biomeswevegone:forgotten_forest": "2024-12-22 11:42:40 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-21 22:04:31 +0000",
       "biomeswevegone:maple_taiga": "2024-12-21 20:07:40 +0000",
       "biomeswevegone:cypress_swamplands": "2024-12-22 11:11:47 +0000",
@@ -5095,6 +5096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-22 11:40:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 10:47:47 +0000"
@@ -5161,6 +5168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-22 11:40:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 10:47:47 +0000"
@@ -5197,6 +5210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-22 11:40:50 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2024-12-22 10:36:47 +0000"
@@ -5224,6 +5243,12 @@
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 10:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-22 11:40:50 +0000"
     },
     "done": true
   },
@@ -5275,6 +5300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-22 11:40:50 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2024-12-22 10:51:32 +0000"
@@ -5296,6 +5327,12 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-22 11:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-22 11:40:50 +0000"
     },
     "done": true
   },
