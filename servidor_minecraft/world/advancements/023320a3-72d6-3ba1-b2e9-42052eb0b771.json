@@ -6117,11 +6117,12 @@
   "alexscaves:alexscaves/gummy_rings": {
     "criteria": {
       "red": "2024-12-23 11:39:14 +0000",
+      "pink": "2024-12-23 12:39:00 +0000",
       "green": "2024-12-23 12:07:06 +0000",
       "blue": "2024-12-23 12:06:59 +0000",
       "yellow": "2024-12-23 12:06:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexscaves:alexscaves/eat_block_of_chocolate": {
     "criteria": {
@@ -6183,9 +6184,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sundae": {
+    "criteria": {
+      "mussel": "2024-12-23 12:26:57 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/sweetish_fish_bucket": {
     "criteria": {
       "bucket": "2024-12-23 11:39:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/rainbounce_boots": {
+    "criteria": {
+      "limestone": "2024-12-23 12:37:19 +0000"
     },
     "done": true
   },

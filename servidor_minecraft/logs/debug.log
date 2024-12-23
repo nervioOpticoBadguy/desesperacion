@@ -8814,3 +8814,86 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [23Dec2024 12:28:15.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4850ms or 97 ticks behind
 [23Dec2024 12:28:17.277] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [19103bd7-4b78-458b-becc-21d582975995]
 [23Dec2024 12:28:35.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4567ms or 91 ticks behind
+[23Dec2024 12:28:40.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack has made the advancement [Hooked on a Feeling]
+[23Dec2024 12:28:58.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 12:28:58.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 12:29:00.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 0.047151568897049856,2.0,-9.831686896411156
+[23Dec2024 12:29:15.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25844ms or 516 ticks behind
+[23Dec2024 12:29:38.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7121ms or 142 ticks behind
+[23Dec2024 12:29:55.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[23Dec2024 12:30:13.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
+[23Dec2024 12:30:30.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2957ms or 59 ticks behind
+[23Dec2024 12:30:49.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3845ms or 76 ticks behind
+[23Dec2024 12:31:10.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6065ms or 121 ticks behind
+[23Dec2024 12:31:28.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[23Dec2024 12:31:32.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! 1.108621228102578,-0.3693736602695221,-10.047204556923134
+[23Dec2024 12:31:32.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -6.157833333003495,1.753986201738769,-7.923156565713725
+[23Dec2024 12:31:45.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[23Dec2024 12:31:49.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -10.073765597072594,-0.956464379852509,-0.5122415477580944
+[23Dec2024 12:31:49.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! -9.096306860009207,0.8800391385729576,-4.236334459893442
+[23Dec2024 12:31:57.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -1.095253903794287,-5.307480045628207,-8.674505392375977
+[23Dec2024 12:32:02.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -5.098171803753047,0.38617045683677276,-8.85550715314821
+[23Dec2024 12:32:02.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! -5.700820043411142,2.0013359791121488,-8.427045605759304
+[23Dec2024 12:32:11.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -4.720961901726923,-0.756759288177264,-9.040168671117499
+[23Dec2024 12:32:15.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15043ms or 300 ticks behind
+[23Dec2024 12:32:26.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 3.3447989446778763,-1.1416851727245358,-9.49394890572512
+[23Dec2024 12:32:26.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! 8.779594747667801,1.2491870787446828,-5.114135517524119
+[23Dec2024 12:32:35.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey fell from a high place
+[23Dec2024 12:32:35.607] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for sigmayey with unique ID travelersbackpack.standard_23.12.2024-12.32.35.dat
+[23Dec2024 12:32:40.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10416ms or 208 ticks behind
+[23Dec2024 12:32:45.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 5.349527283710302,1.1661092609382155,8.42962051442737
+[23Dec2024 12:32:52.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -0.12461852102348203,-10.206177458677317,0.5511906696638107
+[23Dec2024 12:33:00.455] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [d44da0b5-41f1-327d-8d68-1a9c48098edb]
+[23Dec2024 12:33:01.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5628ms or 112 ticks behind
+[23Dec2024 12:33:03.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -4.514848900857006,-9.0,-1.7676032892131843
+[23Dec2024 12:33:12.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -0.8577830357065839,0.2468000194787976,10.192755843566374
+[23Dec2024 12:33:12.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -3.231421561891473,-1.2522033402537254,9.651425680442117
+[23Dec2024 12:33:19.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -0.4393978597201169,-0.8741870787446793,-10.06013711178366
+[23Dec2024 12:33:21.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5483ms or 109 ticks behind
+[23Dec2024 12:33:31.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -10.020523920963342,1.176759275064235,1.6312406373899648
+[23Dec2024 12:33:40.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3117ms or 62 ticks behind
+[23Dec2024 12:33:45.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 0.7548151876767974,-0.16779664663325278,10.003763271087337
+[23Dec2024 12:33:45.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! -8.769687791936576,0.27122410769247907,5.2694721406151075
+[23Dec2024 12:33:53.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! 3.8663477457766646,1.2522033402537254,9.190726258137147
+[23Dec2024 12:33:58.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3554ms or 71 ticks behind
+[23Dec2024 12:34:15.277] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:slow 1: [e5d21b12-42fa-4c6e-addc-2eea48afb13d]
+[23Dec2024 12:34:20.923] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [2a6ad3e8-be12-42e4-89c5-4a43a8448e59]
+[23Dec2024 12:34:47.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -7.4026660322700195,0.2046003784434589,-6.9139165796477755
+[23Dec2024 12:34:47.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3074ms or 61 ticks behind
+[23Dec2024 12:34:47.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! 9.866507581002743,2.0244240882136815,0.041676873279357096
+[23Dec2024 12:35:21.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! -1.0642601030356147,0.6044241013267069,-10.218608681926526
+[23Dec2024 12:35:21.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 1.9243353091824815,-0.5061351021062386,10.141945305172158
+[23Dec2024 12:35:21.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[23Dec2024 12:35:26.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 12:35:26.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 12:35:27.266] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [1e9b86b5-4a7c-4369-a488-9f8b6e14e26a]
+[23Dec2024 12:35:28.170] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [1e9b86b5-4a7c-4369-a488-9f8b6e14e26a]
+[23Dec2024 12:35:44.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -10.123878811700422,1.5061351021062386,0.5359764196064134
+[23Dec2024 12:35:44.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! 4.054327064163047,-1.6815583980583284,9.26754162286852
+[23Dec2024 12:35:45.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9007ms or 180 ticks behind
+[23Dec2024 12:35:53.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -8.594594384008673,-1.7461092740512356,5.719239012228172
+[23Dec2024 12:36:00.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -10.007289198757633,-0.8322033533667437,2.519744189989069
+[23Dec2024 12:36:00.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -8.062162886196049,1.1767592750642422,-6.056978135076861
+[23Dec2024 12:36:07.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7119ms or 142 ticks behind
+[23Dec2024 12:36:17.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -8.987812476808472,-0.5009966402674806,4.662089095258125
+[23Dec2024 12:36:28.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5967ms or 119 ticks behind
+[23Dec2024 12:36:42.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [Where's Goopy?]
+[23Dec2024 12:36:48.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[23Dec2024 12:37:05.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[23Dec2024 12:37:19.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [No Slime No Service]
+[23Dec2024 12:37:23.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2964ms or 59 ticks behind
+[23Dec2024 12:37:33.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! -7.5613105782264824,-1.455467739585032,-6.467066300735496
+[23Dec2024 12:37:33.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 9.283082790482268,1.252203340253729,3.892441762834096
+[23Dec2024 12:37:45.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7547ms or 150 ticks behind
+[23Dec2024 12:38:05.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 7.254807636794851,1.0,-7.173123991069588
+[23Dec2024 12:38:05.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 10.048527599830937,0.32459432078877626,2.0562055452392087
+[23Dec2024 12:38:07.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7007ms or 140 ticks behind
+[23Dec2024 12:38:12.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 8.772118214395892,5.114230701660594,-0.9301283167960719
+[23Dec2024 12:38:12.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 9.816487025116771,1.0830778178064655,2.8528263408416024
+[23Dec2024 12:38:26.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4153ms or 83 ticks behind
+[23Dec2024 12:38:44.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[23Dec2024 12:39:00.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Life Saving Collection]
+[23Dec2024 12:39:02.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[23Dec2024 12:39:06.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [Life Saving Collection]
+[23Dec2024 12:39:15.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico lost connection: Disconnected
+[23Dec2024 12:39:15.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico left the game

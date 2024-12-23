@@ -424,6 +424,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2024-12-21 22:32:33 +0000",
+      "cooked_mutton": "2024-12-23 12:24:54 +0000",
       "cooked_beef": "2024-12-23 12:09:37 +0000",
       "beef": "2024-12-21 22:38:00 +0000",
       "apple": "2024-12-21 16:25:41 +0000",
@@ -4489,6 +4490,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2024-12-23 12:22:21 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gummy_rings": {
     "criteria": {
       "red": "2024-12-23 12:19:13 +0000",
@@ -4678,6 +4685,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2024-12-23 12:26:37 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/sweetish_fish_bucket": {
     "criteria": {
       "bucket": "2024-12-23 12:19:43 +0000"
@@ -4747,6 +4760,12 @@
   "minecraft:recipes/decorations/allium": {
     "criteria": {
       "has_allium_petal_block": "2024-12-23 11:35:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2024-12-23 12:28:40 +0000"
     },
     "done": true
   },
