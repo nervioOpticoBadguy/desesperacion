@@ -3912,6 +3912,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2024-12-23 12:16:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2024-12-23 12:36:42 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gummy_rings": {
     "criteria": {
       "red": "2024-12-23 12:39:06 +0000",
@@ -3922,27 +3934,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-23 12:46:58 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gelatin": {
-    "criteria": {
-      "gelatin": "2024-12-23 12:36:42 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2024-12-23 12:45:37 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/gingerbread_town": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "gingerbread_town": "2024-12-23 12:16:09 +0000"
+      "has_spider_eye": "2024-12-23 12:46:58 +0000"
     },
     "done": true
   },

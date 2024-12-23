@@ -2258,3 +2258,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [23Dec2024 12:48:19.552] [Server thread/INFO] [Jade/]: Syncing config to Jkl72 (71584118-c77e-3d42-9f1b-d31950baa5a8)
 [23Dec2024 12:49:19.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has reached the goal [Freaky Item]
 [23Dec2024 12:49:48.885] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@743cfca4[id=<null>,name=Nervio_optico,properties={},legacy=false] (/127.70.204.6:48669) lost connection: Disconnected
+[23Dec2024 12:50:30.505] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3326ff26[id=<null>,name=Nervio_optico,properties={},legacy=false] (/127.70.204.6:39253) lost connection: Disconnected
+[23Dec2024 12:50:37.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nervio_optico[/127.70.204.6:42629] logged in with entity id 80808 at (20.7671248047894, 29.0, 4468.4856153014225)
+[23Dec2024 12:50:37.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico joined the game
+[23Dec2024 12:50:37.628] [Server thread/INFO] [Jade/]: Syncing config to Nervio_optico (023320a3-72d6-3ba1-b2e9-42052eb0b771)
+[23Dec2024 12:50:44.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[23Dec2024 12:51:20.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sigmayey> [name:"Casa", x:-61, y:72, z:2979, dim:minecraft:overworld]
+[23Dec2024 12:52:00.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack has made the advancement [Lorem Ipsum]
+[23Dec2024 12:52:30.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Tis the Season]
+[23Dec2024 12:53:02.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack has made the advancement [Once Upon a Cave]
+[23Dec2024 12:53:06.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 3.536301752410438,0.7531999805212024,-9.462349571748291
+[23Dec2024 12:53:12.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 3.4913352057218248,0.8800391385729398,-9.516230865477155
+[23Dec2024 12:53:12.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 lost connection: Disconnected
+[23Dec2024 12:53:12.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 left the game
+[23Dec2024 12:53:21.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Biome Reactors]
+[23Dec2024 12:53:34.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -5.109928494971259,-1.130906499714527,-8.78295534872268
+[23Dec2024 12:53:59.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -0.04870059971587537,-2.0013359791121417,-9.821098631092354
+[23Dec2024 12:53:59.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[23Dec2024 12:54:14.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -5.9180443672055745,-0.4959870982234804,-9.111823314741287
+[23Dec2024 12:54:20.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -7.137246187833938,1.0013359791121417,-19.20104918178049
+[23Dec2024 12:54:23.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[23Dec2024 12:54:23.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -3.554584951029554,-0.42355929454303975,-10.377429649082842
+[23Dec2024 12:54:23.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 5.0538442728675435,0.25799910351527444,-8.68212685890694
+[23Dec2024 12:54:30.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 7.304868367277319,-0.1199608614270602,-7.020838848759013
+[23Dec2024 12:54:45.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 0.11642051644278695,0.3445599763903573,-17.587518321582138
+[23Dec2024 12:55:55.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [No Slime No Service]
+[23Dec2024 12:56:04.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Life Saving Collection]
+[23Dec2024 12:57:34.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack has made the advancement [Easy like a Sundae Morning]
+[23Dec2024 12:57:39.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Easy like a Sundae Morning]
+[23Dec2024 12:58:33.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Biome Reactors]

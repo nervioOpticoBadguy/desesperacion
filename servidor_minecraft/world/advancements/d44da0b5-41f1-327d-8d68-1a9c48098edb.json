@@ -4492,6 +4492,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-23 12:52:00 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/caramel": {
     "criteria": {
       "mussel": "2024-12-23 12:22:21 +0000"
@@ -4690,6 +4696,12 @@
   "alexscaves:alexscaves/gelatin": {
     "criteria": {
       "gelatin": "2024-12-23 12:26:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-23 12:53:02 +0000"
     },
     "done": true
   },
