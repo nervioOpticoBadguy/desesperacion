@@ -35,6 +35,7 @@
       "minecraft:snowy_plains": "2024-12-21 18:14:26 +0000",
       "minecraft:stony_shore": "2024-12-21 18:48:14 +0000",
       "minecraft:snowy_taiga": "2024-12-21 16:49:03 +0000",
+      "minecraft:dripstone_caves": "2024-12-23 11:21:54 +0000",
       "minecraft:cold_ocean": "2024-12-21 18:49:56 +0000",
       "minecraft:forest": "2024-12-21 15:55:55 +0000",
       "minecraft:frozen_ocean": "2024-12-21 18:17:31 +0000",
@@ -3804,6 +3805,42 @@
   "immersive_paintings:misc/glow_graffiti": {
     "criteria": {
       "has_item": "2024-12-22 20:35:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2024-12-23 11:21:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2024-12-23 11:23:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2024-12-23 11:22:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2024-12-23 11:27:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2024-12-23 11:23:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2024-12-23 11:33:10 +0000"
     },
     "done": true
   },

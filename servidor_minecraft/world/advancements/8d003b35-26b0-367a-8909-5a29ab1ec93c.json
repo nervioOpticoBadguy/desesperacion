@@ -1344,6 +1344,7 @@
       "minecraft:vindicator": "2024-12-22 14:32:56 +0000",
       "minecraft:spider": "2024-12-21 19:44:45 +0000",
       "minecraft:creeper": "2024-12-21 18:45:04 +0000",
+      "minecraft:witch": "2024-12-23 11:26:41 +0000",
       "minecraft:husk": "2024-12-22 13:31:23 +0000",
       "minecraft:stray": "2024-12-22 20:48:28 +0000",
       "minecraft:zombie": "2024-12-21 16:09:01 +0000",
@@ -5203,6 +5204,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2024-12-22 20:44:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2024-12-23 11:27:09 +0000"
     },
     "done": true
   },
