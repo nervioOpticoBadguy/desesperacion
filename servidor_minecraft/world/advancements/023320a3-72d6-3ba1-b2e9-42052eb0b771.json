@@ -6108,9 +6108,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2024-12-23 12:11:06 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gummy_rings": {
     "criteria": {
-      "red": "2024-12-23 11:39:14 +0000"
+      "red": "2024-12-23 11:39:14 +0000",
+      "green": "2024-12-23 12:07:06 +0000",
+      "blue": "2024-12-23 12:06:59 +0000",
+      "yellow": "2024-12-23 12:06:19 +0000"
     },
     "done": false
   },
@@ -6141,6 +6150,12 @@
   "alexscaves:alexscaves/frostmint_spear": {
     "criteria": {
       "deep_sea_sushi_roll": "2024-12-23 11:49:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shot_gum": {
+    "criteria": {
+      "shot_gum": "2024-12-23 12:13:03 +0000"
     },
     "done": true
   },

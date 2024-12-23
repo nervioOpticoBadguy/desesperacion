@@ -3808,21 +3808,15 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-23 11:10:16 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2024-12-23 11:21:59 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_purple_soda": {
-    "criteria": {
-      "in_purple_soda": "2024-12-23 11:23:00 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_caniac": {
-    "criteria": {
-      "killed": "2024-12-23 11:47:46 +0000"
     },
     "done": true
   },
@@ -3832,15 +3826,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/licowitch_tower": {
+  "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
-      "licowitch_tower": "2024-12-23 11:27:48 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/caramel_apple": {
-    "criteria": {
-      "mussel": "2024-12-23 11:48:43 +0000"
+      "in_purple_soda": "2024-12-23 11:23:00 +0000"
     },
     "done": true
   },
@@ -3850,9 +3838,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/conversion_crucible": {
+  "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
-      "mussel": "2024-12-23 11:48:56 +0000"
+      "licowitch_tower": "2024-12-23 11:27:48 +0000"
     },
     "done": true
   },
@@ -3862,9 +3850,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2024-12-23 11:40:50 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/radiant_essence": {
     "criteria": {
       "mussel": "2024-12-23 11:47:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2024-12-23 11:47:46 +0000"
     },
     "done": true
   },
@@ -3874,9 +3874,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/eat_candy_cane": {
+  "alexscaves:alexscaves/caramel_apple": {
     "criteria": {
-      "eat_candy_cane": "2024-12-23 11:40:50 +0000"
+      "mussel": "2024-12-23 11:48:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/conversion_crucible": {
+    "criteria": {
+      "mussel": "2024-12-23 11:48:56 +0000"
     },
     "done": true
   },
@@ -3886,9 +3892,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/gingerbread_crumbs": {
+  "alexscaves:alexscaves/candy_cane_hook": {
     "criteria": {
-      "crumbs": "2024-12-23 11:53:17 +0000"
+      "candy_cane_hook": "2024-12-23 11:51:35 +0000"
     },
     "done": true
   },
@@ -3898,15 +3904,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
-      "wheat": "2024-12-23 11:10:16 +0000"
+      "crumbs": "2024-12-23 11:53:17 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/candy_cane_hook": {
+  "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
-      "candy_cane_hook": "2024-12-23 11:51:35 +0000"
+      "gingerbread_town": "2024-12-23 12:16:09 +0000"
     },
     "done": true
   },

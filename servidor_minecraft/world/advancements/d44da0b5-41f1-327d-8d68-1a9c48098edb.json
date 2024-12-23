@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-23 12:11:38 +0000",
       "minecraft:frozen_river": "2024-12-22 21:26:01 +0000",
       "minecraft:sunflower_plains": "2024-12-21 22:40:53 +0000",
       "minecraft:birch_forest": "2024-12-21 22:31:48 +0000",
@@ -32,7 +33,9 @@
       "minecraft:dark_forest": "2024-12-21 15:51:35 +0000",
       "minecraft:river": "2024-12-21 16:22:47 +0000",
       "minecraft:stony_shore": "2024-12-21 16:04:35 +0000",
+      "minecraft:snowy_plains": "2024-12-23 12:09:19 +0000",
       "minecraft:snowy_taiga": "2024-12-22 21:25:20 +0000",
+      "minecraft:dripstone_caves": "2024-12-23 12:13:26 +0000",
       "minecraft:grove": "2024-12-21 16:27:03 +0000",
       "minecraft:cold_ocean": "2024-12-21 22:44:37 +0000",
       "minecraft:forest": "2024-12-21 15:59:37 +0000",
@@ -421,6 +424,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2024-12-21 22:32:33 +0000",
+      "cooked_beef": "2024-12-23 12:09:37 +0000",
       "beef": "2024-12-21 22:38:00 +0000",
       "apple": "2024-12-21 16:25:41 +0000",
       "mutton": "2024-12-21 22:42:33 +0000",
@@ -4305,6 +4309,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2024-12-23 12:13:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2024-12-23 12:18:56 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_campfire": {
     "criteria": {
       "has_white_puffball_cap": "2024-12-23 11:23:16 +0000"
@@ -4320,6 +4336,12 @@
   "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2024-12-23 12:15:09 +0000"
     },
     "done": true
   },
@@ -4407,6 +4429,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2024-12-23 12:14:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pumpkin": {
     "criteria": {
       "has_pumpkin": "2024-12-23 11:23:41 +0000"
@@ -4443,6 +4471,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-23 12:08:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
@@ -4452,6 +4486,27 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-23 11:52:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "red": "2024-12-23 12:19:13 +0000",
+      "green": "2024-12-23 12:19:54 +0000",
+      "blue": "2024-12-23 12:19:05 +0000",
+      "yellow": "2024-12-23 12:19:26 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2024-12-23 12:14:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-23 12:08:42 +0000"
     },
     "done": true
   },
@@ -4569,6 +4624,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2024-12-23 12:15:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
       "has_cod": "2024-12-23 11:47:22 +0000"
@@ -4578,6 +4639,12 @@
   "travelersbackpack:recipes/decorations/black_sleeping_bag": {
     "criteria": {
       "has_black_wool": "2024-12-23 11:37:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2024-12-23 12:15:53 +0000"
     },
     "done": true
   },
@@ -4611,6 +4678,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sweetish_fish_bucket": {
+    "criteria": {
+      "bucket": "2024-12-23 12:19:43 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/black_flag": {
     "criteria": {
       "has_black_flag": "2024-12-23 11:37:31 +0000"
@@ -4629,6 +4702,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-23 12:08:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
@@ -4644,6 +4723,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-23 11:47:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2024-12-23 12:16:05 +0000"
     },
     "done": true
   },
