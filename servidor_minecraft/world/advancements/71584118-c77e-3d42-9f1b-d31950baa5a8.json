@@ -1793,6 +1793,7 @@
       "minecraft:creeper": "2024-12-21 19:01:12 +0000",
       "minecraft:cave_spider": "2024-12-23 12:28:29 +0000",
       "minecraft:stray": "2024-12-22 20:26:35 +0000",
+      "minecraft:enderman": "2024-12-23 12:45:34 +0000",
       "minecraft:zombie": "2024-12-21 17:43:00 +0000"
     },
     "done": false
@@ -3908,6 +3909,34 @@
   "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
       "crumbs": "2024-12-23 11:53:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "red": "2024-12-23 12:39:06 +0000",
+      "pink": "2024-12-23 12:39:05 +0000",
+      "green": "2024-12-23 12:39:06 +0000",
+      "blue": "2024-12-23 12:39:06 +0000",
+      "yellow": "2024-12-23 12:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-23 12:46:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2024-12-23 12:36:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-23 12:45:37 +0000"
     },
     "done": true
   },
