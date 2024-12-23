@@ -2449,3 +2449,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [23Dec2024 16:56:27.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque joined the game
 [23Dec2024 16:56:27.131] [Server thread/INFO] [Jade/]: Syncing config to henryque (38ec914f-9611-3edf-994c-0f1a7a047ce4)
 [23Dec2024 17:02:59.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque has made the advancement [Guns and Roses]
+[23Dec2024 17:05:55.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was slain by Skeleton
+[23Dec2024 17:09:29.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was slain by Skeleton

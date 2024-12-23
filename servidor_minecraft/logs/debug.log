@@ -11856,3 +11856,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [23Dec2024 17:02:59.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque has made the advancement [Guns and Roses]
 [23Dec2024 17:03:12.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 17:03:12.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 17:05:55.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was slain by Skeleton
+[23Dec2024 17:08:12.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 17:08:12.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 17:09:29.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was slain by Skeleton
+[23Dec2024 17:13:12.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 17:13:12.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
