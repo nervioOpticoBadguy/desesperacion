@@ -39,6 +39,7 @@
       "minecraft:lush_caves": "2024-12-21 16:24:24 +0000",
       "minecraft:frozen_ocean": "2024-12-21 22:47:16 +0000",
       "minecraft:ocean": "2024-12-21 16:01:06 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-23 11:41:04 +0000",
       "minecraft:snowy_beach": "2024-12-21 22:46:55 +0000",
       "minecraft:frozen_peaks": "2024-12-21 16:27:10 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 15:53:52 +0000"
@@ -425,6 +426,8 @@
       "mutton": "2024-12-21 22:42:33 +0000",
       "bread": "2024-12-21 15:55:13 +0000",
       "rotten_flesh": "2024-12-21 16:04:10 +0000",
+      "salmon": "2024-12-23 11:52:26 +0000",
+      "cod": "2024-12-23 11:47:24 +0000",
       "carrot": "2024-12-22 20:32:53 +0000"
     },
     "done": false
@@ -1619,6 +1622,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cika_woods": "2024-12-23 11:41:11 +0000",
       "biomeswevegone:temperate_grove": "2024-12-21 22:36:54 +0000",
       "biomeswevegone:zelkova_forest": "2024-12-22 21:27:18 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-21 22:41:03 +0000",
@@ -1626,9 +1630,11 @@
       "biomeswevegone:orchard": "2024-12-21 22:39:08 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-21 16:04:13 +0000",
       "biomeswevegone:prairie": "2024-12-21 22:39:50 +0000",
+      "biomeswevegone:basalt_barrera": "2024-12-23 11:46:05 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-21 22:37:00 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-22 21:26:16 +0000",
       "biomeswevegone:skyrise_vale": "2024-12-22 21:26:17 +0000",
+      "biomeswevegone:allium_shrubland": "2024-12-23 11:35:11 +0000",
       "biomeswevegone:pumpkin_valley": "2024-12-22 21:43:51 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-21 22:47:48 +0000"
     },
@@ -4292,6 +4298,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-23 11:52:23 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_campfire": {
     "criteria": {
       "has_white_puffball_cap": "2024-12-23 11:23:16 +0000"
@@ -4310,9 +4322,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-23 11:47:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-23 11:37:31 +0000"
     },
     "done": true
   },
@@ -4331,6 +4355,18 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-23 11:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-23 11:49:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/purple_wool_from_allium_petal_block": {
+    "criteria": {
+      "has_allium_petal_block": "2024-12-23 11:35:13 +0000"
     },
     "done": true
   },
@@ -4394,6 +4430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-23 11:37:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-23 11:17:57 +0000"
@@ -4403,6 +4445,12 @@
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-23 11:52:23 +0000"
     },
     "done": true
   },
@@ -4421,6 +4469,12 @@
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 11:47:22 +0000"
     },
     "done": true
   },
@@ -4466,6 +4520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-23 11:52:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-23 11:27:48 +0000"
@@ -4496,9 +4556,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-23 11:37:31 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_white_puffball_cap": {
     "criteria": {
       "has_white_puffball_cap": "2024-12-23 11:23:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2024-12-23 11:47:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2024-12-23 11:37:31 +0000"
     },
     "done": true
   },
@@ -4508,9 +4586,39 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-12-23 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-23 11:52:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-23 11:49:24 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_smoker": {
     "criteria": {
       "has_white_puffball_cap": "2024-12-23 11:23:16 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2024-12-23 11:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-23 11:47:22 +0000"
     },
     "done": true
   },
@@ -4532,6 +4640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-23 11:47:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2024-12-23 11:21:18 +0000"
@@ -4541,6 +4655,12 @@
   "biomeswevegone:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_log": "2024-12-23 11:21:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/allium": {
+    "criteria": {
+      "has_allium_petal_block": "2024-12-23 11:35:13 +0000"
     },
     "done": true
   },

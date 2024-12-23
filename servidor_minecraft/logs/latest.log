@@ -344,3 +344,90 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [23Dec2024 11:35:04.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! 1.6849689701689456,1.5040129017765196,10.02256144479361
 [23Dec2024 11:35:21.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Choc-o-Block]
 [23Dec2024 11:35:25.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Choc-o-Block]
+[23Dec2024 11:35:55.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [I Found the Coin Slot]
+[23Dec2024 11:36:01.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Yellow Brick Road]
+[23Dec2024 11:36:07.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[23Dec2024 11:36:56.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack has made the advancement [Super Creeps]
+[23Dec2024 11:36:57.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[23Dec2024 11:37:19.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23Dec2024 11:37:40.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[23Dec2024 11:38:02.334] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[23Dec2024 11:38:47.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Carbonated Swim]
+[23Dec2024 11:39:30.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Gummy Gumbo]
+[23Dec2024 11:39:45.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[23Dec2024 11:40:00.779] [Worker-Main-36/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-967, y=8, z=2527}
+[23Dec2024 11:40:03.980] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[23Dec2024 11:40:50.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [Tis the Season]
+[23Dec2024 11:41:04.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[23Dec2024 11:41:06.938] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[23Dec2024 11:41:34.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack was slain by Vindicator
+[23Dec2024 11:41:34.809] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for poppyattack with unique ID travelersbackpack.standard_23.12.2024-11.41.34.dat
+[23Dec2024 11:41:38.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[23Dec2024 11:41:40.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 1.619011426047706,-5.564159611113883,-8.235796414997822
+[23Dec2024 11:41:40.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -5.049517848094538,-0.24324071182273954,8.915399864981737
+[23Dec2024 11:41:45.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -0.08538308475836232,-10.317643338597748,-1.2588571355836393
+[23Dec2024 11:41:53.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! 3.5570704033516343,2.0013359791121417,9.416248684386339
+[23Dec2024 11:41:56.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3155ms or 63 ticks behind
+[23Dec2024 11:42:27.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [The Secret Ingredient]
+[23Dec2024 11:42:43.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[23Dec2024 11:43:00.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [The Dark (Chocolate) Tower]
+[23Dec2024 11:43:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [The Secret Ingredient]
+[23Dec2024 11:44:26.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[23Dec2024 11:45:18.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2640ms or 52 ticks behind
+[23Dec2024 11:45:18.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! -2.3731375854711985,2.7800000607967377,9.55860694324349
+[23Dec2024 11:46:10.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3357ms or 67 ticks behind
+[23Dec2024 11:46:30.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4286ms or 85 ticks behind
+[23Dec2024 11:46:45.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! -5.537424231022726,0.14168517272452164,8.60211948461631
+[23Dec2024 11:46:47.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2668ms or 53 ticks behind
+[23Dec2024 11:47:23.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [The Secret Ingredient]
+[23Dec2024 11:47:30.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [The (Cinnamon) Spice Must Flow]
+[23Dec2024 11:47:46.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [Caniac No More]
+[23Dec2024 11:48:36.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! -1.8031159328590434,0.4890119726404123,10.059215562183226
+[23Dec2024 11:48:36.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [Spear Mint]
+[23Dec2024 11:48:36.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[23Dec2024 11:48:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [A Day at the Fair]
+[23Dec2024 11:48:56.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [Biome Reactors]
+[23Dec2024 11:49:05.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[23Dec2024 11:49:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Spear Mint]
+[23Dec2024 11:49:15.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [It Belongs in a Museum]
+[23Dec2024 11:49:23.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! -8.993628569761825,0.0,4.552224818927698
+[23Dec2024 11:49:24.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack has made the advancement [The Lighthouse]
+[23Dec2024 11:49:28.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8167ms or 163 ticks behind
+[23Dec2024 11:49:37.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack has made the advancement [Sweet Dreams]
+[23Dec2024 11:49:49.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Hooked on a Feeling]
+[23Dec2024 11:50:11.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack fell from a high place
+[23Dec2024 11:50:28.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: henryque[/127.32.226.92:41429] logged in with entity id 34876 at (-9.5, 74.0, -3.5)
+[23Dec2024 11:50:28.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque joined the game
+[23Dec2024 11:50:28.391] [Server thread/INFO] [Jade/]: Syncing config to henryque (38ec914f-9611-3edf-994c-0f1a7a047ce4)
+[23Dec2024 11:50:30.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[23Dec2024 11:50:37.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nervio_optico> enrique joputa
+[23Dec2024 11:50:44.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Caniac No More]
+[23Dec2024 11:50:47.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <henryque> tus muertos
+[23Dec2024 11:50:50.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4939ms or 98 ticks behind
+[23Dec2024 11:51:01.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <henryque> alguien discord?
+[23Dec2024 11:51:16.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11051ms or 221 ticks behind
+[23Dec2024 11:51:35.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [Hooked on a Feeling]
+[23Dec2024 11:51:37.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6073ms or 121 ticks behind
+[23Dec2024 11:51:59.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6429ms or 128 ticks behind
+[23Dec2024 11:52:16.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Oh Little Town of Gingerbread]
+[23Dec2024 11:52:18.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4484ms or 89 ticks behind
+[23Dec2024 11:52:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [I Found the Coin Slot]
+[23Dec2024 11:52:38.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5226ms or 104 ticks behind
+[23Dec2024 11:52:58.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4780ms or 95 ticks behind
+[23Dec2024 11:53:08.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <henryque> ande la ciudad
+[23Dec2024 11:53:16.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[23Dec2024 11:53:17.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 has made the advancement [You're a Monster]
+[23Dec2024 11:53:35.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4882ms or 97 ticks behind
+[23Dec2024 11:53:40.101] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[23Dec2024 11:53:43.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Dungeon Delving]
+[23Dec2024 11:53:57.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6145ms or 122 ticks behind
+[23Dec2024 11:54:17.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5702ms or 114 ticks behind
+[23Dec2024 11:54:27.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack moved too quickly! -10.04189487830854,0.9275721963195593,1.620848531386855
+[23Dec2024 11:54:32.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque has made the advancement [Stone Age]
+[23Dec2024 11:54:42.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9763ms or 195 ticks behind
+[23Dec2024 11:55:06.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8525ms or 170 ticks behind
+[23Dec2024 11:55:12.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 moved too quickly! -5.143934283049248,-0.8291870918577047,8.692329217580664
+[23Dec2024 11:55:36.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15776ms or 315 ticks behind
+[23Dec2024 11:55:43.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jkl72 lost connection: Disconnected
+[23Dec2024 11:55:43.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jkl72 left the game
+[23Dec2024 11:56:11.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20025ms or 400 ticks behind
