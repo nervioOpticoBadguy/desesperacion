@@ -2307,3 +2307,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [23Dec2024 13:25:48.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [A Day at the Fair]
 [23Dec2024 13:26:10.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico lost connection: Disconnected
 [23Dec2024 13:26:10.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico left the game
+[23Dec2024 13:55:50.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nervio_optico[/127.70.204.6:50239] logged in with entity id 95325 at (-61.7692550127784, 65.0, 2974.093510963065)
+[23Dec2024 13:55:51.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico joined the game
+[23Dec2024 13:55:51.048] [Server thread/INFO] [Jade/]: Syncing config to Nervio_optico (023320a3-72d6-3ba1-b2e9-42052eb0b771)
+[23Dec2024 13:55:55.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4170ms or 83 ticks behind
+[23Dec2024 13:58:41.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey lost connection: Disconnected
+[23Dec2024 13:58:41.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey left the game
+[23Dec2024 13:59:48.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigmayey[/127.235.116.149:59139] logged in with entity id 96567 at (-53.305121816395996, 65.0, 2974.9679104693937)
+[23Dec2024 13:59:48.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey joined the game
+[23Dec2024 13:59:48.338] [Server thread/INFO] [Jade/]: Syncing config to sigmayey (8d003b35-26b0-367a-8909-5a29ab1ec93c)
+[23Dec2024 14:01:14.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christorm[/127.205.204.177:43039] logged in with entity id 96865 at (3966.5137009427463, 120.0, 4661.308497550951)
+[23Dec2024 14:01:14.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm joined the game
+[23Dec2024 14:01:14.031] [Server thread/INFO] [Jade/]: Syncing config to christorm (4be7e4cc-7d81-3351-90c4-06f416b89a75)
+[23Dec2024 14:01:19.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! 6.868987916722311,-0.2538907259487644,-7.655700655936471
+[23Dec2024 14:01:19.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Dec2024 14:03:01.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico lost connection: Disconnected
+[23Dec2024 14:03:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico left the game
+[23Dec2024 14:04:21.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm moved too quickly! 1.7122701188591236,-0.5800000131130219,-10.387305842083151
+[23Dec2024 14:05:16.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 4.024475908294335,0.0,-9.589244554988909
+[23Dec2024 14:05:16.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 4.179509760060682,0.0,-9.957974507477957
+[23Dec2024 14:05:16.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 4.334549283538308,0.0,-10.326702434698745
+[23Dec2024 14:05:16.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 4.489593911555858,0.0,-10.695428539179375
+[23Dec2024 14:05:16.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 4.644643133658974,0.0,-11.064153003193496
+[23Dec2024 14:05:16.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 4.799696490439146,0.0,-11.43287599078758
+[23Dec2024 14:05:16.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 4.954753568428714,0.0,-11.801597649603536
+[23Dec2024 14:05:16.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 5.1098139955061015,0.0,-12.170318112519453
+[23Dec2024 14:05:16.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 5.264877436763072,0.0,-12.539037499125698
+[23Dec2024 14:09:10.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 7.330593438137306,-3.88003913857294,-6.280213371035188
+[23Dec2024 14:09:10.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[23Dec2024 14:09:42.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 9.841011456282274,2.2522033402537254,0.33637247587830643
+[23Dec2024 14:09:50.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! -0.1703041046005609,-0.3693736602695239,-10.061181025100268
+[23Dec2024 14:10:34.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 3.9568706398299582,0.0,9.394033574793866
+[23Dec2024 14:10:34.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 4.159637804083104,0.0,9.722793788427225
+[23Dec2024 14:10:34.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 4.369239697286957,0.0,10.04808832951494
+[23Dec2024 14:10:34.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 4.585426887406356,0.0,10.36985764542078
+[23Dec2024 14:10:34.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 4.80792491084685,0.0,10.688084609367252
+[23Dec2024 14:10:34.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 5.03644654890968,0.0,11.002783985831229
+[23Dec2024 14:10:34.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 5.270694315884157,0.0,11.314000569484051
+[23Dec2024 14:10:34.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 5.510365261331572,0.0,11.621804604510544
+[23Dec2024 14:10:34.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
