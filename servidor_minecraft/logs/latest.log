@@ -2287,3 +2287,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [23Dec2024 12:57:34.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack has made the advancement [Easy like a Sundae Morning]
 [23Dec2024 12:57:39.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Easy like a Sundae Morning]
 [23Dec2024 12:58:33.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Biome Reactors]
+[23Dec2024 13:04:45.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack has made the advancement [The Secret Ingredient]
+[23Dec2024 13:05:02.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey lost connection: Disconnected
+[23Dec2024 13:05:02.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey left the game
+[23Dec2024 13:09:22.352] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at -432 -56 4901 in 1s
+[23Dec2024 13:10:07.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigmayey[/127.235.116.149:35647] logged in with entity id 87046 at (-56.489502023683244, 65.5625, 2971.300000011921)
+[23Dec2024 13:10:07.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey joined the game
+[23Dec2024 13:10:07.506] [Server thread/INFO] [Jade/]: Syncing config to sigmayey (8d003b35-26b0-367a-8909-5a29ab1ec93c)
+[23Dec2024 13:12:26.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey lost connection: Disconnected
+[23Dec2024 13:12:26.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey left the game
+[23Dec2024 13:12:42.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigmayey[/127.235.116.149:47359] logged in with entity id 87317 at (-56.489502023683244, 65.5625, 2971.300000011921)
+[23Dec2024 13:12:42.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey joined the game
+[23Dec2024 13:12:43.049] [Server thread/INFO] [Jade/]: Syncing config to sigmayey (8d003b35-26b0-367a-8909-5a29ab1ec93c)
+[23Dec2024 13:19:49.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poppyattack lost connection: Disconnected
+[23Dec2024 13:19:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poppyattack left the game
+[23Dec2024 13:21:00.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has reached the goal [Workout Session]
+[23Dec2024 13:23:47.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has reached the goal [Look Mom, No World Edit!]
+[23Dec2024 13:23:47.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has reached the goal [Look Mom, No World Edit!]
+[23Dec2024 13:25:48.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [A Day at the Fair]
+[23Dec2024 13:26:10.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico lost connection: Disconnected
+[23Dec2024 13:26:10.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico left the game
