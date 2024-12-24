@@ -5719,9 +5719,45 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/florus_slab": {
+    "criteria": {
+      "has_planks": "2024-12-24 16:09:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/florus_button": {
+    "criteria": {
+      "has_planks": "2024-12-24 16:09:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_campfire": {
+    "criteria": {
+      "has_oddion_bulb": "2024-12-24 16:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_allium_petal_block": {
     "criteria": {
       "has_white_allium": "2024-12-24 15:54:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smelting": {
+    "criteria": {
+      "has_oddion_bulb": "2024-12-24 16:11:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-24 16:09:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 16:09:08 +0000"
     },
     "done": true
   },
@@ -5731,15 +5767,45 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/florus_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-24 16:09:18 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2024-12-24 16:04:32 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/florus_fence": {
+    "criteria": {
+      "has_planks": "2024-12-24 16:09:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smoker": {
+    "criteria": {
+      "has_oddion_bulb": "2024-12-24 16:11:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2024-12-24 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/florus_crafting_table": {
+    "criteria": {
+      "has_florus_planks": "2024-12-24 16:09:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/florus_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-24 16:09:18 +0000"
     },
     "done": true
   },
@@ -5767,15 +5833,45 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/florus_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-24 16:09:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_planks": {
+    "criteria": {
+      "has_log": "2024-12-24 16:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2024-12-24 15:53:32 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/florus_sign": {
+    "criteria": {
+      "has_planks": "2024-12-24 16:09:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/florus_door": {
+    "criteria": {
+      "has_planks": "2024-12-24 16:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/allium_petal_block": {
     "criteria": {
       "has_allium": "2024-12-24 15:53:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_bookshelf": {
+    "criteria": {
+      "has_florus_planks": "2024-12-24 16:09:18 +0000"
     },
     "done": true
   },
