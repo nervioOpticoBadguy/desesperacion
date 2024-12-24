@@ -5731,6 +5731,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2024-12-24 16:04:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2024-12-24 15:33:29 +0000"
