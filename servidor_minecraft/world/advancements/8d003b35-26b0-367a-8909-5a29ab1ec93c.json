@@ -28,6 +28,7 @@
       "minecraft:snowy_slopes": "2024-12-22 15:21:31 +0000",
       "minecraft:taiga": "2024-12-22 10:36:22 +0000",
       "minecraft:deep_ocean": "2024-12-21 21:18:32 +0000",
+      "minecraft:eroded_badlands": "2024-12-24 15:28:46 +0000",
       "minecraft:frozen_river": "2024-12-21 16:55:47 +0000",
       "minecraft:sunflower_plains": "2024-12-21 16:13:55 +0000",
       "minecraft:birch_forest": "2024-12-21 15:55:17 +0000",
@@ -53,6 +54,7 @@
       "minecraft:ocean": "2024-12-21 16:27:39 +0000",
       "minecraft:snowy_beach": "2024-12-21 16:56:35 +0000",
       "minecraft:windswept_savanna": "2024-12-22 15:35:17 +0000",
+      "minecraft:warm_ocean": "2024-12-24 15:27:44 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-24 13:38:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 16:10:55 +0000",
       "minecraft:meadow": "2024-12-21 16:09:10 +0000",
@@ -1372,8 +1374,11 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:atacama_outback": "2024-12-24 15:25:14 +0000",
       "biomeswevegone:cika_woods": "2024-12-22 18:41:47 +0000",
       "biomeswevegone:windswept_desert": "2024-12-24 15:20:57 +0000",
+      "biomeswevegone:crag_gardens": "2024-12-24 15:34:29 +0000",
+      "biomeswevegone:rugged_badlands": "2024-12-24 15:28:42 +0000",
       "biomeswevegone:temperate_grove": "2024-12-21 16:09:13 +0000",
       "biomeswevegone:zelkova_forest": "2024-12-22 15:56:53 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-21 16:50:27 +0000",
@@ -1381,8 +1386,10 @@
       "biomeswevegone:maple_taiga": "2024-12-21 16:55:26 +0000",
       "biomeswevegone:orchard": "2024-12-21 21:02:22 +0000",
       "biomeswevegone:ironwood_gour": "2024-12-22 15:37:14 +0000",
+      "biomeswevegone:amaranth_grassland": "2024-12-24 15:34:22 +0000",
       "biomeswevegone:prairie": "2024-12-21 16:12:31 +0000",
       "biomeswevegone:rose_fields": "2024-12-21 16:09:29 +0000",
+      "biomeswevegone:ebony_woods": "2024-12-24 15:34:25 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-21 16:10:11 +0000",
       "biomeswevegone:dacite_ridges": "2024-12-21 21:12:21 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-21 16:55:48 +0000",
@@ -1394,7 +1401,8 @@
       "biomeswevegone:pumpkin_valley": "2024-12-21 20:44:55 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-21 16:56:04 +0000",
       "biomeswevegone:coniferous_forest": "2024-12-22 18:40:12 +0000",
-      "biomeswevegone:bayou": "2024-12-22 15:35:58 +0000"
+      "biomeswevegone:bayou": "2024-12-22 15:35:58 +0000",
+      "biomeswevegone:rainbow_beach": "2024-12-24 15:32:43 +0000"
     },
     "done": false
   },
@@ -5704,6 +5712,30 @@
   "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-24 13:33:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-24 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-24 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/inside_quicksand": {
+    "criteria": {
+      "inside_quicksand": "2024-12-24 15:29:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-24 15:33:29 +0000"
     },
     "done": true
   },

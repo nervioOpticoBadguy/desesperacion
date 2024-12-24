@@ -307,3 +307,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [24Dec2024 15:25:41.764] [Server thread/INFO] [Jade/]: Syncing config to CabezaCascoo (a4f49cc0-b26f-3ce9-b716-255117de29ae)
 [24Dec2024 15:25:44.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 3.6080124230184083,0.0,9.578915519042312
 [24Dec2024 15:25:44.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3457ms or 69 ticks behind
+[24Dec2024 15:26:32.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Dec2024 15:26:56.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9032ms or 180 ticks behind
+[24Dec2024 15:27:19.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7830ms or 156 ticks behind
+[24Dec2024 15:27:40.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6225ms or 124 ticks behind
+[24Dec2024 15:27:44.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> enrique reventao
+[24Dec2024 15:27:57.209] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/10030, l='ServerLevel[world]', x=145.54, y=70.00, z=3148.53]
+[24Dec2024 15:27:57.210] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/10031, l='ServerLevel[world]', x=148.63, y=70.00, z=3148.63]
+[24Dec2024 15:27:59.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
+[24Dec2024 15:27:59.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <henryque> que dices peruano
+[24Dec2024 15:28:05.995] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/10280, l='ServerLevel[world]', x=166.55, y=72.00, z=3160.64]
+[24Dec2024 15:29:38.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [I'm Sinking?]
+[24Dec2024 15:30:30.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[24Dec2024 15:30:43.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christorm[/127.205.204.177:59871] logged in with entity id 14001 at (26.5, 65.0, 68.5)
+[24Dec2024 15:30:43.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm joined the game
+[24Dec2024 15:30:44.077] [Server thread/INFO] [Jade/]: Syncing config to christorm (4be7e4cc-7d81-3351-90c4-06f416b89a75)
+[24Dec2024 15:30:59.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Dec2024 15:31:20.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigmayey moved too quickly! 7.117409813816266,-1.0244240882136921,7.262755544483298
+[24Dec2024 15:31:22.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7908ms or 158 ticks behind
+[24Dec2024 15:31:56.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Dec2024 15:32:16.353] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Dec2024 15:32:16.363] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Dec2024 15:32:21.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[24Dec2024 15:33:29.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Hunt and Gather]
+[24Dec2024 15:35:01.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[24Dec2024 15:35:10.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved wrongly!
+[24Dec2024 15:37:01.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved wrongly!
+[24Dec2024 15:37:22.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[24Dec2024 15:37:55.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[24Dec2024 15:38:04.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved wrongly!
