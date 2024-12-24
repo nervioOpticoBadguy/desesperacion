@@ -32,6 +32,7 @@
       "minecraft:grove": "2024-12-23 14:52:54 +0000",
       "minecraft:forest": "2024-12-24 12:37:13 +0000",
       "minecraft:lush_caves": "2024-12-23 11:59:29 +0000",
+      "minecraft:jungle": "2024-12-24 15:52:16 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-23 17:02:11 +0000"
     },
     "done": false
@@ -4031,6 +4032,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2024-12-24 15:41:56 +0000"
@@ -4040,6 +4053,18 @@
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2024-12-24 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-24 15:52:35 +0000"
     },
     "done": true
   },
@@ -4061,9 +4086,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/allium_petal_block": {
     "criteria": {
       "has_allium": "2024-12-24 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/yellow_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2024-12-24 15:54:16 +0000"
     },
     "done": true
   },
@@ -4073,9 +4116,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-24 15:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-24 15:52:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2024-12-24 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-24 15:52:17 +0000"
     },
     "done": true
   },
