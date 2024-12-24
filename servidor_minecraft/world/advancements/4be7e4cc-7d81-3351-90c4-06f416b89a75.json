@@ -1819,10 +1819,12 @@
     "criteria": {
       "biomeswevegone:temperate_grove": "2024-12-24 12:37:26 +0000",
       "biomeswevegone:lush_stacks": "2024-12-21 18:52:16 +0000",
+      "biomeswevegone:orchard": "2024-12-24 12:41:20 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-21 17:01:18 +0000",
       "biomeswevegone:prairie": "2024-12-21 19:08:38 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-21 19:21:50 +0000",
-      "biomeswevegone:aspen_boreal": "2024-12-21 18:40:47 +0000"
+      "biomeswevegone:aspen_boreal": "2024-12-21 18:40:47 +0000",
+      "biomeswevegone:allium_shrubland": "2024-12-24 12:41:47 +0000"
     },
     "done": false
   },
