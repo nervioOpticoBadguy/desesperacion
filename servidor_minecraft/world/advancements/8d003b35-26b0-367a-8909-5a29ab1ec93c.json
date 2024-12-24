@@ -5797,6 +5797,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2024-12-24 17:09:21 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smoker": {
     "criteria": {
       "has_oddion_bulb": "2024-12-24 16:11:26 +0000"
@@ -5911,6 +5917,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2024-12-24 17:12:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2024-12-24 15:33:29 +0000"
@@ -5932,6 +5944,12 @@
   "alexscaves:alexscaves/defeat_brainiac": {
     "criteria": {
       "killed": "2024-12-24 16:59:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2024-12-24 17:13:44 +0000"
     },
     "done": true
   },
