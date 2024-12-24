@@ -32,6 +32,7 @@
       "minecraft:sunflower_plains": "2024-12-21 16:13:55 +0000",
       "minecraft:birch_forest": "2024-12-21 15:55:17 +0000",
       "minecraft:windswept_hills": "2024-12-22 15:36:51 +0000",
+      "minecraft:badlands": "2024-12-24 15:21:35 +0000",
       "minecraft:beach": "2024-12-21 16:20:57 +0000",
       "minecraft:dark_forest": "2024-12-21 15:51:34 +0000",
       "minecraft:river": "2024-12-21 15:55:13 +0000",
@@ -46,11 +47,13 @@
       "minecraft:deep_cold_ocean": "2024-12-21 20:56:17 +0000",
       "minecraft:ice_spikes": "2024-12-22 14:36:05 +0000",
       "minecraft:frozen_ocean": "2024-12-21 20:27:26 +0000",
+      "minecraft:desert": "2024-12-24 15:24:13 +0000",
       "minecraft:windswept_forest": "2024-12-22 13:16:53 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-22 14:50:57 +0000",
       "minecraft:ocean": "2024-12-21 16:27:39 +0000",
       "minecraft:snowy_beach": "2024-12-21 16:56:35 +0000",
       "minecraft:windswept_savanna": "2024-12-22 15:35:17 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-24 13:38:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 16:10:55 +0000",
       "minecraft:meadow": "2024-12-21 16:09:10 +0000",
       "minecraft:savanna": "2024-12-22 15:37:52 +0000",
@@ -1370,9 +1373,11 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:cika_woods": "2024-12-22 18:41:47 +0000",
+      "biomeswevegone:windswept_desert": "2024-12-24 15:20:57 +0000",
       "biomeswevegone:temperate_grove": "2024-12-21 16:09:13 +0000",
       "biomeswevegone:zelkova_forest": "2024-12-22 15:56:53 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-21 16:50:27 +0000",
+      "biomeswevegone:lush_stacks": "2024-12-24 13:36:28 +0000",
       "biomeswevegone:maple_taiga": "2024-12-21 16:55:26 +0000",
       "biomeswevegone:orchard": "2024-12-21 21:02:22 +0000",
       "biomeswevegone:ironwood_gour": "2024-12-22 15:37:14 +0000",
@@ -1384,6 +1389,7 @@
       "biomeswevegone:shattered_glacier": "2024-12-21 17:45:32 +0000",
       "biomeswevegone:dacite_shore": "2024-12-21 21:23:21 +0000",
       "biomeswevegone:skyrise_vale": "2024-12-21 21:22:47 +0000",
+      "biomeswevegone:dead_sea": "2024-12-24 15:19:46 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-21 16:11:59 +0000",
       "biomeswevegone:pumpkin_valley": "2024-12-21 20:44:55 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-21 16:56:04 +0000",
@@ -5665,15 +5671,21 @@
     },
     "done": true
   },
-  "dungeons_arise:find_greenwood_pub": {
-    "criteria": {
-      "location0": "2024-12-24 13:29:25 +0000"
-    },
-    "done": true
-  },
   "nova_structures:root": {
     "criteria": {
       "nova_structures:adventure/find_tavern": "2024-12-24 13:18:25 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2024-12-24 13:25:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2024-12-24 13:29:25 +0000"
     },
     "done": true
   },
@@ -5683,9 +5695,21 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_pillager_outpost": {
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
     "criteria": {
-      "minecraft:pillager_outpost": "2024-12-24 13:25:02 +0000"
+      "has_tide_armor_trim_smithing_template": "2024-12-24 13:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-24 13:33:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-24 15:20:17 +0000"
     },
     "done": true
   },
