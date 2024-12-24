@@ -846,10 +846,12 @@
       "biomeswevegone:temperate_grove": "2024-12-22 10:49:32 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-22 10:52:32 +0000",
       "biomeswevegone:maple_taiga": "2024-12-22 10:57:27 +0000",
+      "biomeswevegone:orchard": "2024-12-24 13:26:55 +0000",
       "biomeswevegone:prairie": "2024-12-22 10:51:32 +0000",
       "biomeswevegone:rose_fields": "2024-12-22 10:49:35 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-22 10:49:38 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-22 10:58:00 +0000",
+      "biomeswevegone:shattered_glacier": "2024-12-24 13:13:14 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-22 10:51:00 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-22 10:58:23 +0000"
     },
@@ -1511,9 +1513,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2024-12-24 13:04:15 +0000"
+      "minecraft:pillager": "2024-12-24 13:04:15 +0000",
+      "minecraft:spider": "2024-12-24 13:24:23 +0000",
+      "minecraft:zombie": "2024-12-24 13:21:17 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-24 13:25:03 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
@@ -1527,9 +1537,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-24 13:18:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 13:27:33 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2024-12-24 13:04:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 13:27:33 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_snowy": "2024-12-24 13:18:28 +0000"
     },
     "done": true
   },
@@ -1545,9 +1579,31 @@
     },
     "done": true
   },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2024-12-24 13:29:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "red": "2024-12-24 13:11:31 +0000",
+      "pink": "2024-12-24 13:11:31 +0000",
+      "green": "2024-12-24 13:11:30 +0000",
+      "blue": "2024-12-24 13:11:30 +0000",
+      "yellow": "2024-12-24 13:11:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-24 13:04:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-24 13:27:33 +0000"
     },
     "done": true
   },
@@ -1557,9 +1613,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2024-12-24 13:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-24 13:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-24 13:25:08 +0000"
     },
     "done": true
   },
@@ -1575,6 +1643,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-24 13:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-24 13:23:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2024-12-24 13:02:47 +0000"
@@ -1587,9 +1667,27 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-12-24 13:18:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2024-12-24 13:02:47 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2024-12-24 13:27:36 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-24 13:10:43 +0000"
     },
     "done": true
   },
@@ -1602,6 +1700,18 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:pillager": "2024-12-24 13:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-24 13:18:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-24 13:27:33 +0000"
     },
     "done": true
   },

@@ -39,6 +39,7 @@
       "minecraft:forest": "2024-12-21 16:50:23 +0000",
       "minecraft:lush_caves": "2024-12-21 17:02:27 +0000",
       "minecraft:ocean": "2024-12-21 18:40:07 +0000",
+      "minecraft:jungle": "2024-12-24 13:31:02 +0000",
       "minecraft:windswept_savanna": "2024-12-21 19:16:40 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 18:51:51 +0000",
       "minecraft:flower_forest": "2024-12-21 19:29:54 +0000",
@@ -828,6 +829,7 @@
       "minecraft:pillager": "2024-12-21 18:02:53 +0000",
       "minecraft:skeleton": "2024-12-21 16:00:56 +0000",
       "minecraft:vindicator": "2024-12-21 18:31:37 +0000",
+      "minecraft:spider": "2024-12-24 13:16:34 +0000",
       "minecraft:creeper": "2024-12-21 17:05:57 +0000",
       "minecraft:phantom": "2024-12-24 13:00:18 +0000",
       "minecraft:witch": "2024-12-24 13:06:40 +0000",
@@ -3868,6 +3870,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-24 13:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-24 13:12:54 +0000"
     },
     "done": true
   },
