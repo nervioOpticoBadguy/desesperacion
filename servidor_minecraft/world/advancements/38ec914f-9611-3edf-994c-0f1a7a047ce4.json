@@ -4463,6 +4463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2024-12-24 16:46:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2024-12-24 16:10:44 +0000"

@@ -35,6 +35,7 @@
       "minecraft:sunflower_plains": "2024-12-21 19:35:12 +0000",
       "minecraft:birch_forest": "2024-12-21 16:31:18 +0000",
       "minecraft:windswept_hills": "2024-12-21 19:17:14 +0000",
+      "minecraft:badlands": "2024-12-24 16:47:00 +0000",
       "minecraft:beach": "2024-12-21 16:54:22 +0000",
       "minecraft:dark_forest": "2024-12-21 11:39:37 +0000",
       "minecraft:sparse_jungle": "2024-12-22 16:36:22 +0000",
@@ -1902,6 +1903,7 @@
     "criteria": {
       "biomeswevegone:redwood_thicket": "2024-12-22 15:03:07 +0000",
       "biomeswevegone:cika_woods": "2024-12-21 20:36:52 +0000",
+      "biomeswevegone:windswept_desert": "2024-12-24 16:45:25 +0000",
       "biomeswevegone:crag_gardens": "2024-12-22 16:36:54 +0000",
       "biomeswevegone:sakura_grove": "2024-12-21 19:58:40 +0000",
       "biomeswevegone:temperate_grove": "2024-12-21 22:00:19 +0000",

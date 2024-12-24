@@ -3939,6 +3939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2024-12-24 16:48:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2024-12-24 16:18:27 +0000"
