@@ -511,7 +511,8 @@
       "cooked_porkchop": "2024-12-23 16:58:14 +0000",
       "apple": "2024-12-24 13:06:54 +0000",
       "bread": "2024-12-23 17:12:02 +0000",
-      "glow_berries": "2024-12-23 12:00:49 +0000"
+      "glow_berries": "2024-12-23 12:00:49 +0000",
+      "cooked_salmon": "2024-12-24 17:02:34 +0000"
     },
     "done": false
   },
@@ -4139,6 +4140,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-24 16:54:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-24 16:25:14 +0000"
@@ -4301,6 +4308,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-24 16:54:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-24 16:25:14 +0000"
@@ -4394,6 +4407,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-24 16:30:20 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-24 16:54:06 +0000"
     },
     "done": true
   },
@@ -4532,6 +4551,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-24 17:00:27 +0000"
     },
     "done": true
   },

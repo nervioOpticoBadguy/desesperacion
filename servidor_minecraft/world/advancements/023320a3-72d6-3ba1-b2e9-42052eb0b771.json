@@ -46,6 +46,7 @@
       "minecraft:snowy_taiga": "2024-12-21 21:08:35 +0000",
       "minecraft:grove": "2024-12-21 18:04:13 +0000",
       "minecraft:swamp": "2024-12-22 11:11:37 +0000",
+      "minecraft:jagged_peaks": "2024-12-24 17:00:31 +0000",
       "minecraft:cold_ocean": "2024-12-21 20:06:49 +0000",
       "minecraft:forest": "2024-12-21 16:31:29 +0000",
       "minecraft:lush_caves": "2024-12-21 17:02:36 +0000",
@@ -1149,6 +1150,7 @@
       "minecraft:skeleton": "2024-12-21 16:51:25 +0000",
       "minecraft:vindicator": "2024-12-21 18:48:22 +0000",
       "minecraft:spider": "2024-12-21 17:10:19 +0000",
+      "minecraft:piglin_brute": "2024-12-24 17:03:38 +0000",
       "minecraft:creeper": "2024-12-21 17:03:04 +0000",
       "minecraft:phantom": "2024-12-22 16:14:27 +0000",
       "minecraft:witch": "2024-12-23 11:42:53 +0000",
@@ -1919,6 +1921,7 @@
       "biomeswevegone:weeping_witch_forest": "2024-12-21 17:01:21 +0000",
       "biomeswevegone:prairie": "2024-12-21 19:08:39 +0000",
       "biomeswevegone:rose_fields": "2024-12-21 22:00:23 +0000",
+      "biomeswevegone:ebony_woods": "2024-12-24 16:50:50 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-21 19:21:50 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-21 22:00:29 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-21 21:15:05 +0000",
@@ -6463,6 +6466,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-24 15:36:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2024-12-24 17:03:35 +0000"
     },
     "done": true
   },
