@@ -524,6 +524,7 @@
       "cooked_mutton": "2024-12-25 22:03:31 +0000",
       "cooked_beef": "2024-12-25 21:54:56 +0000",
       "apple": "2024-12-24 13:06:54 +0000",
+      "mutton": "2024-12-25 23:05:44 +0000",
       "bread": "2024-12-23 17:12:02 +0000",
       "glow_berries": "2024-12-23 12:00:49 +0000",
       "cooked_salmon": "2024-12-24 17:02:34 +0000"
@@ -5008,6 +5009,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-25 23:15:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_cyan_wool": "2024-12-25 21:54:36 +0000"
@@ -5053,6 +5060,12 @@
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-12-25 22:02:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-25 23:15:19 +0000"
     },
     "done": true
   },
@@ -5131,6 +5144,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-25 21:51:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-25 23:15:19 +0000"
     },
     "done": true
   },

@@ -3340,3 +3340,70 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [25Dec2024 23:02:42.237] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for henryque with unique ID travelersbackpack.standard_25.12.2024-23.02.42.dat
 [25Dec2024 23:02:47.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3412ms or 68 ticks behind
 [25Dec2024 23:03:08.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6505ms or 130 ticks behind
+[25Dec2024 23:03:32.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3466ms or 69 ticks behind
+[25Dec2024 23:03:32.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -6.1864295250830565,0.0,-8.299408809008128
+[25Dec2024 23:03:40.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -2.504320880426235,0.0,-9.777876218388428
+[25Dec2024 23:03:45.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> un poco bot de tu parte
+[25Dec2024 23:03:51.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! 0.3596541296581677,2.4959870982234804,-9.795326972849125
+[25Dec2024 23:04:00.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12963ms or 259 ticks behind
+[25Dec2024 23:04:01.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <henryque> se llama tener vida social
+[25Dec2024 23:04:10.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <henryque> no entenderias
+[25Dec2024 23:04:18.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> de hecho
+[25Dec2024 23:04:29.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2762ms or 55 ticks behind
+[25Dec2024 23:04:29.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -1.1099983208687547,0.3015347236627832,-10.256498279992229
+[25Dec2024 23:04:29.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> un creeper no tiene mucho que ver con mi vida social
+[25Dec2024 23:04:34.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -2.1465203416556733,0.3800236743955381,-9.945273246394208
+[25Dec2024 23:04:34.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> si es tu caso, es un poco raro
+[25Dec2024 23:04:41.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -1.252767001267955,1.0,-9.98633303813358
+[25Dec2024 23:04:48.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[25Dec2024 23:04:48.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -6.225549616096913,0.32486510296786264,-8.179340943889656
+[25Dec2024 23:04:52.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -1.7211760017461586,-1.130906499714527,-9.941108355979395
+[25Dec2024 23:05:00.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -1.3156203573957157,1.1661092609382138,-10.105287233356648
+[25Dec2024 23:05:14.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -1.6894583323530696,0.8338907390617862,-10.118860479917657
+[25Dec2024 23:05:20.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -2.3969927595765057,0.42355929454303975,-9.942355444418354
+[25Dec2024 23:05:21.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[25Dec2024 23:06:14.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! 8.978597536148186,-0.3693736602695097,4.750621705178219
+[25Dec2024 23:06:14.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[25Dec2024 23:07:34.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -5.936672771889334,-0.7539862017387549,-8.278510330591416
+[25Dec2024 23:07:34.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[25Dec2024 23:07:47.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -1.7530127029801008,-0.6709083839322858,-9.983638956993673
+[25Dec2024 23:07:58.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -2.3037886209257863,-0.1199608614270602,-10.104001938518195
+[25Dec2024 23:07:58.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[25Dec2024 23:08:11.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -0.9457803336857182,2.1661092609382138,-9.964584133577318
+[25Dec2024 23:08:18.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5143ms or 102 ticks behind
+[25Dec2024 23:09:37.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[25Dec2024 23:10:25.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3030ms or 60 ticks behind
+[25Dec2024 23:11:10.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2597ms or 51 ticks behind
+[25Dec2024 23:11:15.888] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/256543, l='ServerLevel[world]', x=-300.27, y=68.90, z=4378.29] died, message: 'Librarian was slain by Zombie'
+[25Dec2024 23:11:43.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[25Dec2024 23:11:43.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -2.5751521145733136,0.32422931301422153,-9.777217846847634
+[25Dec2024 23:11:47.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -2.087952860109908,-1.130906499714527,-9.869895441115204
+[25Dec2024 23:11:51.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -1.9883005544274965,-1.1767592750642422,-9.885252125824536
+[25Dec2024 23:12:03.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[25Dec2024 23:13:09.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -1.997591615656745,0.5061351021062137,-9.966915866974432
+[25Dec2024 23:13:09.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[25Dec2024 23:13:18.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -5.066878128206099,-0.8322033533667508,-8.714842640698862
+[25Dec2024 23:13:24.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -5.348531037361681,-1.7012968536522237,-8.578949152119776
+[25Dec2024 23:13:27.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[25Dec2024 23:13:32.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo fell from a high place
+[25Dec2024 23:13:32.937] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CabezaCascoo with unique ID travelersbackpack.standard_25.12.2024-23.13.32.dat
+[25Dec2024 23:13:35.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -1.3272807168650047,-0.10204848513016884,-9.995292777015266
+[25Dec2024 23:13:40.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has made the advancement [Local Brewery]
+[25Dec2024 23:13:45.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
+[25Dec2024 23:13:51.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <henryque> el tryhard:
+[25Dec2024 23:14:00.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> es que me he quedado sin comida
+[25Dec2024 23:14:08.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> y tenia pocos niveles
+[25Dec2024 23:14:14.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> me ha salido rentable
+[25Dec2024 23:15:19.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque has made the advancement [Hunt and Gather]
+[25Dec2024 23:15:36.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> puedes dormir?
+[25Dec2024 23:15:45.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <henryque> voy
+[25Dec2024 23:15:51.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> gracias
+[25Dec2024 23:18:20.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> tic tac
+[25Dec2024 23:18:25.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has reached the goal [Zombie Doctor]
+[25Dec2024 23:18:45.305] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/292161, l='ServerLevel[world]', x=-300.27, y=68.90, z=4378.29] died, message: 'Librarian was slain by Zombie'
+[25Dec2024 23:24:02.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo lost connection: Disconnected
+[25Dec2024 23:24:02.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo left the game
+[25Dec2024 23:24:13.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CabezaCascoo[/127.96.153.127:51157] logged in with entity id 294273 at (-299.96824550380745, 71.0, 4382.757634122858)
+[25Dec2024 23:24:13.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo joined the game
+[25Dec2024 23:24:13.270] [Server thread/INFO] [Jade/]: Syncing config to CabezaCascoo (a4f49cc0-b26f-3ce9-b716-255117de29ae)
+[25Dec2024 23:24:15.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
