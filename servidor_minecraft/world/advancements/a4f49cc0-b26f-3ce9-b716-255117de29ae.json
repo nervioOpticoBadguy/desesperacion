@@ -26,6 +26,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-22 12:24:22 +0000",
+      "minecraft:deep_ocean": "2024-12-25 20:04:51 +0000",
       "minecraft:frozen_river": "2024-12-21 20:14:33 +0000",
       "minecraft:cherry_grove": "2024-12-21 18:29:43 +0000",
       "minecraft:sunflower_plains": "2024-12-21 18:29:20 +0000",
@@ -33,6 +34,7 @@
       "minecraft:beach": "2024-12-21 16:01:55 +0000",
       "minecraft:dark_forest": "2024-12-21 11:41:10 +0000",
       "minecraft:river": "2024-12-21 15:52:37 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-25 20:05:24 +0000",
       "minecraft:snowy_plains": "2024-12-21 20:24:16 +0000",
       "minecraft:dripstone_caves": "2024-12-21 18:04:31 +0000",
       "minecraft:snowy_taiga": "2024-12-21 20:14:34 +0000",
@@ -43,6 +45,7 @@
       "minecraft:frozen_ocean": "2024-12-21 20:29:03 +0000",
       "minecraft:windswept_forest": "2024-12-22 14:36:38 +0000",
       "minecraft:ocean": "2024-12-21 16:25:33 +0000",
+      "minecraft:jungle": "2024-12-25 20:08:56 +0000",
       "minecraft:snowy_beach": "2024-12-21 20:25:01 +0000",
       "minecraft:flower_forest": "2024-12-21 18:29:12 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 15:52:50 +0000",
@@ -1216,10 +1219,12 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:sakura_grove": "2024-12-21 17:28:06 +0000",
+      "biomeswevegone:enchanted_tangle": "2024-12-25 20:08:46 +0000",
       "biomeswevegone:temperate_grove": "2024-12-21 16:25:22 +0000",
       "biomeswevegone:forgotten_forest": "2024-12-21 19:24:36 +0000",
       "biomeswevegone:maple_taiga": "2024-12-21 20:13:01 +0000",
       "biomeswevegone:orchard": "2024-12-21 17:10:03 +0000",
+      "biomeswevegone:ironwood_gour": "2024-12-25 20:07:18 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-21 16:59:27 +0000",
       "biomeswevegone:prairie": "2024-12-21 17:10:56 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-21 16:25:30 +0000",
@@ -1229,7 +1234,8 @@
       "biomeswevegone:shattered_glacier": "2024-12-21 20:19:45 +0000",
       "biomeswevegone:dacite_shore": "2024-12-21 20:10:54 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-21 16:25:19 +0000",
-      "biomeswevegone:crimson_tundra": "2024-12-21 20:14:32 +0000"
+      "biomeswevegone:crimson_tundra": "2024-12-21 20:14:32 +0000",
+      "biomeswevegone:bayou": "2024-12-25 20:07:43 +0000"
     },
     "done": false
   },
@@ -4503,6 +4509,12 @@
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2024-12-24 16:15:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2024-12-25 20:09:55 +0000"
     },
     "done": true
   },
