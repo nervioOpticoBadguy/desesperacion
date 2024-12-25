@@ -3287,7 +3287,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2024-12-22 20:39:45 +0000"
+      "wheat": "2024-12-22 20:39:45 +0000",
+      "carrot": "2024-12-25 21:30:10 +0000"
     },
     "done": false
   },
@@ -4307,33 +4308,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_salmon": "2024-12-23 11:52:23 +0000"
+      "has_raw_copper": "2024-12-23 11:17:57 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_candy_cavity": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "discover": "2024-12-23 12:13:57 +0000"
+      "has_raw_copper": "2024-12-23 11:17:57 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/enter_purple_soda": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "in_purple_soda": "2024-12-23 12:18:56 +0000"
+      "has_raw_copper": "2024-12-23 11:17:57 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_campfire": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_white_puffball_cap": "2024-12-23 11:23:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2024-12-23 11:23:41 +0000"
+      "has_furnace": "2024-12-23 11:19:09 +0000"
     },
     "done": true
   },
@@ -4343,75 +4338,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_caniac": {
-    "criteria": {
-      "killed": "2024-12-23 12:15:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-12-23 11:47:22 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2024-12-23 11:37:31 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/creeper": {
-    "criteria": {
-      "has_gunpowder": "2024-12-23 13:04:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_log": "2024-12-23 11:21:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2024-12-23 11:28:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-23 11:49:37 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/purple_wool_from_allium_petal_block": {
-    "criteria": {
-      "has_allium_petal_block": "2024-12-23 11:35:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2024-12-23 11:21:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2024-12-23 11:28:53 +0000"
     },
     "done": true
   },
@@ -4439,108 +4374,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2024-12-23 12:14:38 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2024-12-23 11:23:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2024-12-23 11:23:41 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2024-12-23 11:17:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2024-12-23 11:37:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2024-12-23 11:17:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2024-12-23 12:08:42 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-23 11:52:23 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2024-12-23 12:52:00 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/caramel": {
-    "criteria": {
-      "mussel": "2024-12-23 12:22:21 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gummy_rings": {
-    "criteria": {
-      "red": "2024-12-23 12:19:13 +0000",
-      "green": "2024-12-23 12:19:54 +0000",
-      "blue": "2024-12-23 12:19:05 +0000",
-      "yellow": "2024-12-23 12:19:26 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/eat_block_of_chocolate": {
-    "criteria": {
-      "eat_block_of_chocolate": "2024-12-23 12:14:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2024-12-23 12:08:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-23 13:04:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-23 13:04:48 +0000"
     },
     "done": true
   },
@@ -4556,27 +4398,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/radiant_essence": {
-    "criteria": {
-      "mussel": "2024-12-23 13:04:45 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-23 11:47:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-23 11:28:53 +0000"
     },
     "done": true
   },
@@ -4598,93 +4422,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2024-12-23 11:21:18 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2024-12-23 11:28:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-23 11:52:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-12-23 11:27:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2024-12-23 11:19:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2024-12-23 11:23:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-23 11:28:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-23 11:23:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2024-12-23 11:37:31 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/food/cooked_white_puffball_cap": {
-    "criteria": {
-      "has_white_puffball_cap": "2024-12-23 11:23:16 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/eat_candy_cane": {
-    "criteria": {
-      "eat_candy_cane": "2024-12-23 12:15:17 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2024-12-23 11:47:22 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
-    "criteria": {
-      "has_black_wool": "2024-12-23 11:37:31 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gumbeeper": {
-    "criteria": {
-      "killed": "2024-12-23 12:15:53 +0000"
     },
     "done": true
   },
@@ -4694,87 +4434,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_infested_temple": {
-    "criteria": {
-      "location0": "2024-12-23 11:36:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-12-23 11:52:23 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2024-12-23 11:49:24 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_smoker": {
-    "criteria": {
-      "has_white_puffball_cap": "2024-12-23 11:23:16 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gelatin": {
-    "criteria": {
-      "gelatin": "2024-12-23 12:26:37 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sundae": {
-    "criteria": {
-      "mussel": "2024-12-23 12:57:34 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2024-12-23 12:53:02 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2024-12-23 12:57:58 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sweetish_fish_bucket": {
-    "criteria": {
-      "bucket": "2024-12-23 12:19:43 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/black_flag": {
-    "criteria": {
-      "has_black_flag": "2024-12-23 11:37:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-23 11:47:22 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-23 11:21:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-23 13:04:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2024-12-23 12:08:42 +0000"
     },
     "done": true
   },
@@ -4784,27 +4446,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bookshelf": {
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
-      "has_book": "2024-12-23 11:28:53 +0000"
+      "has_item": "2024-12-23 11:21:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
-      "has_cod": "2024-12-23 11:47:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-12-23 13:04:52 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_town": {
-    "criteria": {
-      "gingerbread_town": "2024-12-23 12:16:05 +0000"
+      "has_item": "2024-12-23 11:21:18 +0000"
     },
     "done": true
   },
@@ -4814,9 +4464,117 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 11:21:53 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_log": "2024-12-23 11:21:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_campfire": {
+    "criteria": {
+      "has_white_puffball_cap": "2024-12-23 11:23:16 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap": {
+    "criteria": {
+      "has_white_puffball_cap": "2024-12-23 11:23:16 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_smoker": {
+    "criteria": {
+      "has_white_puffball_cap": "2024-12-23 11:23:16 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/forager": {
+    "criteria": {
+      "white_puffball_cap": "2024-12-23 11:23:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-12-23 11:23:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-23 11:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-23 11:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-23 11:23:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 11:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-23 11:27:48 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-23 11:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-23 11:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-23 11:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 11:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 11:28:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 11:28:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/purple_wool_from_allium_petal_block": {
+    "criteria": {
+      "has_allium_petal_block": "2024-12-23 11:35:13 +0000"
     },
     "done": true
   },
@@ -4826,21 +4584,474 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-12-23 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-23 11:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-23 11:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-23 11:37:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2024-12-23 11:37:31 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2024-12-23 11:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-23 11:47:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 11:47:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2024-12-23 11:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-23 11:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-23 11:47:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-23 11:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-23 11:49:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-23 11:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-23 11:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-23 11:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-23 11:52:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-23 12:08:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-23 12:08:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-23 12:08:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2024-12-23 12:13:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2024-12-23 12:14:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2024-12-23 12:14:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2024-12-23 12:15:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2024-12-23 12:15:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2024-12-23 12:15:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2024-12-23 12:16:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2024-12-23 12:18:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "red": "2024-12-23 12:19:13 +0000",
+      "green": "2024-12-23 12:19:54 +0000",
+      "blue": "2024-12-23 12:19:05 +0000",
+      "yellow": "2024-12-23 12:19:26 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/sweetish_fish_bucket": {
+    "criteria": {
+      "bucket": "2024-12-23 12:19:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2024-12-23 12:22:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2024-12-23 12:26:37 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/candy_cane_hook": {
     "criteria": {
       "candy_cane_hook": "2024-12-23 12:28:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "has_raw_copper": "2024-12-23 11:17:57 +0000"
+      "cave_codex": "2024-12-23 12:52:00 +0000"
     },
     "done": true
   },
-  "biomeswevegone:biomeswevegone/husbandry/forager": {
+  "alexscaves:alexscaves/cave_book": {
     "criteria": {
-      "white_puffball_cap": "2024-12-23 11:23:16 +0000"
+      "cave_book": "2024-12-23 12:53:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sundae": {
+    "criteria": {
+      "mussel": "2024-12-23 12:57:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-23 12:57:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2024-12-23 13:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-23 13:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-23 13:04:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 13:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 13:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-23 13:04:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-25 21:53:16 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-25 21:47:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-25 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-25 21:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-25 21:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/white_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_white_dye]": "2024-12-25 21:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-25 21:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-25 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-25 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-25 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-25 21:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-25 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-25 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-25 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-12-25 21:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-25 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-25 21:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-25 21:53:16 +0000"
     },
     "done": true
   },

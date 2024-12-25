@@ -5965,6 +5965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-12-25 21:37:31 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_raycat": {
     "criteria": {
       "killed": "2024-12-25 20:40:06 +0000"

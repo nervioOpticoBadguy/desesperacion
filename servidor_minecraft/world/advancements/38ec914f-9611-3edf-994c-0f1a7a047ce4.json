@@ -25,10 +25,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2024-12-25 21:55:01 +0000",
       "minecraft:birch_forest": "2024-12-24 13:25:01 +0000",
       "minecraft:beach": "2024-12-24 12:37:18 +0000",
       "minecraft:dark_forest": "2024-12-23 11:50:31 +0000",
       "minecraft:river": "2024-12-23 12:30:55 +0000",
+      "minecraft:stony_shore": "2024-12-25 21:56:54 +0000",
       "minecraft:grove": "2024-12-23 14:52:54 +0000",
       "minecraft:forest": "2024-12-24 12:37:13 +0000",
       "minecraft:lush_caves": "2024-12-23 11:59:29 +0000",
@@ -509,6 +511,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-23 16:58:14 +0000",
+      "cooked_mutton": "2024-12-25 22:03:31 +0000",
+      "cooked_beef": "2024-12-25 21:54:56 +0000",
       "apple": "2024-12-24 13:06:54 +0000",
       "bread": "2024-12-23 17:12:02 +0000",
       "glow_berries": "2024-12-23 12:00:49 +0000",
@@ -2100,8 +2104,14 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:temperate_grove": "2024-12-24 16:19:59 +0000",
+      "biomeswevegone:coconino_meadow": "2024-12-25 21:55:05 +0000",
+      "biomeswevegone:maple_taiga": "2024-12-25 21:58:09 +0000",
+      "biomeswevegone:orchard": "2024-12-25 22:04:09 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-23 12:36:20 +0000",
-      "biomeswevegone:basalt_barrera": "2024-12-24 16:19:01 +0000"
+      "biomeswevegone:prairie": "2024-12-25 21:49:38 +0000",
+      "biomeswevegone:basalt_barrera": "2024-12-24 16:19:01 +0000",
+      "biomeswevegone:aspen_boreal": "2024-12-25 21:47:31 +0000",
+      "biomeswevegone:allium_shrubland": "2024-12-25 21:49:12 +0000"
     },
     "done": false
   },
@@ -4038,15 +4048,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
+      "onion": "2024-12-24 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-24 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-24 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/allium_petal_block": {
+    "criteria": {
+      "has_allium": "2024-12-24 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-24 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-24 15:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-24 15:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-24 15:52:17 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2024-12-24 15:52:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/yellow_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2024-12-24 15:54:16 +0000"
     },
     "done": true
   },
@@ -4062,87 +4168,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/food/blueberry_pie": {
-    "criteria": {
-      "has_blueberries": "2024-12-24 17:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2024-12-24 16:26:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_popsicle": {
-    "criteria": {
-      "has_melon": "2024-12-24 15:52:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-24 16:13:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
   "create:copper": {
     "criteria": {
       "0": "2024-12-24 16:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_shovel": "2024-12-24 16:17:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2024-12-24 15:41:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-24 16:13:33 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/aspen_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/witch_hazel_sign": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:14:21 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:14:21 +0000"
     },
     "done": true
   },
@@ -4152,69 +4180,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-24 16:08:35 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/aspen_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2024-12-24 16:54:06 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/aspen_bookshelf": {
-    "criteria": {
-      "has_aspen_planks": "2024-12-24 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2024-12-24 16:26:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/witch_hazel_door": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:14:21 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/witch_hazel_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2024-12-24 16:10:43 +0000"
     },
     "done": true
   },
@@ -4224,21 +4192,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2024-12-24 16:10:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2024-12-24 16:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2024-12-24 16:18:13 +0000"
     },
     "done": true
   },
@@ -4260,24 +4216,6 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/aspen_slab": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2024-12-24 16:13:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-24 17:04:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-24 16:08:35 +0000"
@@ -4290,81 +4228,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-24 16:13:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-24 15:41:56 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/aspen_wood": {
-    "criteria": {
-      "has_log": "2024-12-24 17:13:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-24 16:13:33 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/aspen_button": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-24 16:13:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-24 16:13:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2024-12-24 16:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2024-12-24 15:52:35 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/aspen_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/witch_hazel_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:14:21 +0000"
     },
     "done": true
   },
@@ -4380,195 +4246,15 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/aspen_planks": {
-    "criteria": {
-      "has_log": "2024-12-24 17:13:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2024-12-24 16:10:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-24 16:08:35 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
-    "criteria": {
-      "has_witch_hazel_planks": "2024-12-24 17:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-24 17:04:39 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2024-12-24 16:54:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/hay": {
-    "criteria": {
-      "has_wheat": "2024-12-24 16:10:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2024-12-24 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2024-12-24 15:52:35 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/aspen_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2024-12-24 16:13:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-24 15:41:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
-    "criteria": {
-      "blue_berry": "2024-12-24 17:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-12-24 16:10:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_shovel": "2024-12-24 16:17:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2024-12-24 16:10:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-24 16:13:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2024-12-24 16:08:35 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-24 16:13:33 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_slab": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:14:21 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/aspen_sign": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
-    "criteria": {
-      "has_witch_hazel_planks": "2024-12-24 17:14:21 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_planks": {
-    "criteria": {
-      "has_log": "2024-12-24 17:14:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2024-12-24 16:30:20 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/witch_hazel_fence": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:14:21 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/root": {
-    "criteria": {
-      "inscription_table": "2024-12-24 16:54:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2024-12-24 16:10:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2024-12-24 16:10:44 +0000"
     },
     "done": true
   },
@@ -4584,75 +4270,81 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-12-24 16:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-24 16:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-24 16:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-12-24 16:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-24 16:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-24 16:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-24 16:10:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-24 16:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-24 16:10:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-24 16:10:43 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/witch_hazel_button": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_planks": "2024-12-24 17:14:21 +0000"
+      "has_paper": "2024-12-24 16:10:44 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_wood": {
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
-      "has_log": "2024-12-24 17:14:14 +0000"
+      "has_item": "2024-12-24 16:10:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
-      "has_log": "2024-12-24 17:14:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-24 16:13:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2024-12-24 15:41:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2024-12-24 16:18:09 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/aspen_fence": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2024-12-24 16:46:50 +0000"
+      "has_item": "2024-12-24 16:10:44 +0000"
     },
     "done": true
   },
@@ -4668,159 +4360,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-12-24 15:41:56 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/aspen_door": {
-    "criteria": {
-      "has_planks": "2024-12-24 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_valve": {
-    "criteria": {
-      "has_item": "2024-12-24 16:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2024-12-24 16:26:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2024-12-24 16:08:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2024-12-24 16:10:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-12-24 17:14:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2024-12-24 15:52:35 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
-    "criteria": {
-      "requirement": "2024-12-24 17:00:27 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2024-12-24 16:20:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/allium_petal_block": {
-    "criteria": {
-      "has_allium": "2024-12-24 15:41:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2024-12-24 16:22:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2024-12-24 16:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2024-12-24 16:26:14 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon": {
-    "criteria": {
-      "has_melon_slice": "2024-12-24 15:52:35 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
-    "criteria": {
-      "requirement": "2024-12-24 17:22:22 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/misc/yellow_dye_from_bwg_tag": {
-    "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2024-12-24 15:54:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-24 16:25:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/hose_pulley": {
-    "criteria": {
-      "has_item": "2024-12-24 16:08:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-24 15:41:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-12-24 17:04:39 +0000"
     },
     "done": true
   },
@@ -4830,21 +4372,69 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/witch_hazel_pressure_plate": {
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
-      "has_planks": "2024-12-24 17:14:21 +0000"
+      "has_sandstone": "2024-12-24 16:13:33 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/decorations/aspen_crafting_table": {
+  "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
-      "has_aspen_planks": "2024-12-24 17:13:52 +0000"
+      "has_sandstone": "2024-12-24 16:13:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
-      "has_bamboo": "2024-12-24 15:52:17 +0000"
+      "has_sandstone": "2024-12-24 16:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:13:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:13:33 +0000"
     },
     "done": true
   },
@@ -4854,21 +4444,645 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_bamboo": "2024-12-24 15:52:17 +0000"
+      "has_golden_shovel": "2024-12-24 16:17:02 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_onion": "2024-12-24 15:41:56 +0000"
+      "has_golden_shovel": "2024-12-24 16:17:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "has_bamboo": "2024-12-24 15:52:17 +0000"
+      "cave_tablet": "2024-12-24 16:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-24 16:18:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-24 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-24 16:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-24 16:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-24 16:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-24 16:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-24 16:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-24 16:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-24 16:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 16:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2024-12-24 16:46:50 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-24 16:54:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-24 16:54:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-24 16:54:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-24 17:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-24 17:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-24 17:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-24 17:04:39 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 17:13:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_planks": {
+    "criteria": {
+      "has_log": "2024-12-24 17:13:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_bookshelf": {
+    "criteria": {
+      "has_aspen_planks": "2024-12-24 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_slab": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_button": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/aspen_sign": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/aspen_fence": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_door": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/aspen_crafting_table": {
+    "criteria": {
+      "has_aspen_planks": "2024-12-24 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/blueberry_pie": {
+    "criteria": {
+      "has_blueberries": "2024-12-24 17:14:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2024-12-24 17:14:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_planks": {
+    "criteria": {
+      "has_log": "2024-12-24 17:14:14 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 17:14:14 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_sign": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:14:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:14:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_door": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:14:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:14:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:14:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
+    "criteria": {
+      "has_witch_hazel_planks": "2024-12-24 17:14:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_slab": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:14:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
+    "criteria": {
+      "has_witch_hazel_planks": "2024-12-24 17:14:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_fence": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:14:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_button": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:14:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-24 17:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 17:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-24 17:14:27 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-24 17:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-25 21:48:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-25 21:54:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-25 21:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-25 22:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-25 22:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 22:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-25 22:00:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/cyan_flag": {
+    "criteria": {
+      "has_cyan_flag": "2024-12-25 21:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-25 21:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 22:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 22:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-25 21:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-25 21:55:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-25 22:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-25 21:54:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-25 21:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-25 21:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-12-25 21:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-25 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-25 22:00:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-25 22:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-25 21:47:43 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-25 22:00:30 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
+    "criteria": {
+      "prairie_house": "2024-12-25 21:53:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2024-12-25 21:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-25 21:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-25 21:51:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-25 22:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-25 22:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 22:10:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-25 22:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-25 21:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-25 22:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-25 21:55:13 +0000"
     },
     "done": true
   },
