@@ -232,3 +232,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [25Dec2024 19:54:42.419] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CabezaCascoo with unique ID travelersbackpack.standard_25.12.2024-19.54.42.dat
 [25Dec2024 20:12:55.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
 [25Dec2024 20:13:08.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 3.1173217130572084,1.1661092609382138,-9.787944606766814
+[25Dec2024 20:21:21.656] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[25Dec2024 20:21:21.661] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[25Dec2024 20:21:21.666] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[25Dec2024 20:21:21.668] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[25Dec2024 20:21:21.669] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[25Dec2024 20:21:24.186] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[25Dec2024 20:21:24.187] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[25Dec2024 20:21:29.426] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[25Dec2024 20:21:29.427] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[25Dec2024 20:21:29.624] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[25Dec2024 20:29:59.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has completed the challenge [Premium!]
+[25Dec2024 20:37:16.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigmayey[/127.235.116.149:53457] logged in with entity id 32519 at (5776.252786090865, 64.0, 9705.236918321443)
+[25Dec2024 20:37:16.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey joined the game
+[25Dec2024 20:37:16.653] [Server thread/INFO] [Jade/]: Syncing config to sigmayey (8d003b35-26b0-367a-8909-5a29ab1ec93c)
+[25Dec2024 20:37:18.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[25Dec2024 20:40:06.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Best Friends Forever]
+[25Dec2024 20:40:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has reached the goal [The Ray Cat Solution]
+[25Dec2024 20:43:37.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 8.449797118944616,-0.18309117671588382,-5.85883141901877

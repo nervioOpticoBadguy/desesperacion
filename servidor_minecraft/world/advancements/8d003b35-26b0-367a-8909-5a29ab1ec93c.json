@@ -5719,51 +5719,39 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/florus_slab": {
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
     "criteria": {
-      "has_planks": "2024-12-24 16:09:18 +0000"
+      "requirement": "2024-12-24 15:20:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "biomeswevegone:biomeswevegone/adventure/inside_quicksand": {
     "criteria": {
-      "has_flint": "2024-12-24 16:30:38 +0000"
+      "inside_quicksand": "2024-12-24 15:29:38 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/florus_button": {
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
-      "has_planks": "2024-12-24 16:09:18 +0000"
+      "has_golden_knife": "2024-12-24 15:33:29 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_campfire": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "has_oddion_bulb": "2024-12-24 16:11:26 +0000"
+      "golden_knife": "2024-12-24 15:33:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_allium_petal_block": {
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
-      "has_white_allium": "2024-12-24 15:54:40 +0000"
+      "has_golden_knife": "2024-12-24 15:33:29 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smelting": {
+  "biomeswevegone:recipes/misc/white_dye_from_bwg_tag": {
     "criteria": {
-      "has_oddion_bulb": "2024-12-24 16:11:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/florus_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-24 16:09:18 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/florus_wood": {
-    "criteria": {
-      "has_log": "2024-12-24 16:09:08 +0000"
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_white_dye]": "2024-12-24 15:50:20 +0000"
     },
     "done": true
   },
@@ -5773,15 +5761,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/uranium": {
+  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
     "criteria": {
-      "uranium": "2024-12-24 16:42:08 +0000"
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2024-12-24 15:50:33 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/florus_pressure_plate": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_planks": "2024-12-24 16:09:18 +0000"
+      "has_allium": "2024-12-24 15:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/allium_petal_block": {
+    "criteria": {
+      "has_allium": "2024-12-24 15:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_allium_petal_block": {
+    "criteria": {
+      "has_white_allium": "2024-12-24 15:54:40 +0000"
     },
     "done": true
   },
@@ -5791,27 +5791,45 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/decorations/florus_fence": {
+  "biomeswevegone:recipes/building_blocks/florus_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 16:09:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_planks": {
+    "criteria": {
+      "has_log": "2024-12-24 16:09:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_slab": {
     "criteria": {
       "has_planks": "2024-12-24 16:09:18 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/radon_bottle": {
+  "biomeswevegone:recipes/redstone/florus_button": {
     "criteria": {
-      "radon_bottle": "2024-12-24 17:09:21 +0000"
+      "has_planks": "2024-12-24 16:09:18 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smoker": {
+  "biomeswevegone:recipes/building_blocks/florus_stairs": {
     "criteria": {
-      "has_oddion_bulb": "2024-12-24 16:11:26 +0000"
+      "has_planks": "2024-12-24 16:09:18 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+  "biomeswevegone:recipes/redstone/florus_pressure_plate": {
     "criteria": {
-      "has_golden_knife": "2024-12-24 15:33:29 +0000"
+      "has_planks": "2024-12-24 16:09:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/florus_fence": {
+    "criteria": {
+      "has_planks": "2024-12-24 16:09:18 +0000"
     },
     "done": true
   },
@@ -5827,63 +5845,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "golden_knife": "2024-12-24 15:33:29 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/misc/white_dye_from_bwg_tag": {
-    "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_white_dye]": "2024-12-24 15:50:20 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
-    "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2024-12-24 15:50:33 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/adventure/inside_quicksand": {
-    "criteria": {
-      "inside_quicksand": "2024-12-24 15:29:38 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/redstone/florus_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-24 16:09:18 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/florus_planks": {
-    "criteria": {
-      "has_log": "2024-12-24 16:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2024-12-24 16:56:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2024-12-24 16:56:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_cut_copper_stairs": "2024-12-24 16:57:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-12-24 15:53:32 +0000"
     },
     "done": true
   },
@@ -5899,33 +5863,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/allium_petal_block": {
-    "criteria": {
-      "has_allium": "2024-12-24 15:53:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2024-12-24 16:56:38 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/building_blocks/florus_bookshelf": {
     "criteria": {
       "has_florus_planks": "2024-12-24 16:09:18 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/sulfur_dust": {
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_campfire": {
     "criteria": {
-      "sulfur_dust": "2024-12-24 17:12:22 +0000"
+      "has_oddion_bulb": "2024-12-24 16:11:26 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smelting": {
     "criteria": {
-      "has_golden_knife": "2024-12-24 15:33:29 +0000"
+      "has_oddion_bulb": "2024-12-24 16:11:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smoker": {
+    "criteria": {
+      "has_oddion_bulb": "2024-12-24 16:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-24 16:30:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2024-12-24 16:42:08 +0000"
     },
     "done": true
   },
@@ -5935,21 +5905,21 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
     "criteria": {
-      "requirement": "2024-12-24 15:20:17 +0000"
+      "has_oxidized_cut_copper": "2024-12-24 16:56:38 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_brainiac": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
     "criteria": {
-      "killed": "2024-12-24 16:59:01 +0000"
+      "has_oxidized_cut_copper": "2024-12-24 16:56:38 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/toxic_paste": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
     "criteria": {
-      "toxic_paste": "2024-12-24 17:13:44 +0000"
+      "has_oxidized_cut_copper": "2024-12-24 16:56:38 +0000"
     },
     "done": true
   },
@@ -5962,6 +5932,48 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
     "criteria": {
       "has_oxidized_cut_copper": "2024-12-24 16:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_stairs": "2024-12-24 16:57:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2024-12-24 16:59:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2024-12-24 17:09:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2024-12-24 17:12:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2024-12-24 17:13:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2024-12-25 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-25 20:40:06 +0000"
     },
     "done": true
   },
