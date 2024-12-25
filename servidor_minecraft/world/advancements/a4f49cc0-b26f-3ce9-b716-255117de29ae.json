@@ -4580,12 +4580,6 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2024-12-25 23:13:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-25 23:12:31 +0000"
@@ -4595,6 +4589,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-12-25 23:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-25 23:13:40 +0000"
     },
     "done": true
   },

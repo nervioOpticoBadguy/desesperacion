@@ -11812,3 +11812,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [25Dec2024 23:24:13.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo joined the game
 [25Dec2024 23:24:13.270] [Server thread/INFO] [Jade/]: Syncing config to CabezaCascoo (a4f49cc0-b26f-3ce9-b716-255117de29ae)
 [25Dec2024 23:24:15.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
+[25Dec2024 23:24:38.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7743ms or 154 ticks behind
+[25Dec2024 23:25:40.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2758ms or 55 ticks behind
+[25Dec2024 23:25:55.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:25:55.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:28:53.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> ahora vuelvo
+[25Dec2024 23:28:55.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo lost connection: Disconnected
+[25Dec2024 23:28:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo left the game
+[25Dec2024 23:30:55.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:30:55.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
