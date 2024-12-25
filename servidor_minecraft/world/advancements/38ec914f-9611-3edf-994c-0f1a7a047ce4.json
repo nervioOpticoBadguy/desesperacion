@@ -41,6 +41,7 @@
       "minecraft:forest": "2024-12-24 12:37:13 +0000",
       "minecraft:lush_caves": "2024-12-23 11:59:29 +0000",
       "minecraft:ice_spikes": "2024-12-25 22:38:24 +0000",
+      "minecraft:frozen_ocean": "2024-12-25 22:47:52 +0000",
       "minecraft:jungle": "2024-12-24 15:52:16 +0000",
       "minecraft:ocean": "2024-12-24 16:09:34 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-25 22:28:10 +0000",
@@ -5084,6 +5085,12 @@
       "prairie_house": "2024-12-25 21:53:55 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-12-25 22:46:40 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
