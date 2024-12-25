@@ -26,9 +26,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-23 12:11:38 +0000",
+      "minecraft:deep_ocean": "2024-12-25 22:29:34 +0000",
       "minecraft:frozen_river": "2024-12-22 21:26:01 +0000",
       "minecraft:sunflower_plains": "2024-12-21 22:40:53 +0000",
       "minecraft:birch_forest": "2024-12-21 22:31:48 +0000",
+      "minecraft:wooded_badlands": "2024-12-25 22:43:59 +0000",
+      "minecraft:badlands": "2024-12-25 22:45:23 +0000",
       "minecraft:beach": "2024-12-21 15:59:32 +0000",
       "minecraft:dark_forest": "2024-12-21 15:51:35 +0000",
       "minecraft:river": "2024-12-21 16:22:47 +0000",
@@ -42,11 +45,14 @@
       "minecraft:lush_caves": "2024-12-21 16:24:24 +0000",
       "minecraft:ice_spikes": "2024-12-23 12:44:16 +0000",
       "minecraft:frozen_ocean": "2024-12-21 22:47:16 +0000",
+      "minecraft:desert": "2024-12-25 22:43:22 +0000",
       "minecraft:ocean": "2024-12-21 16:01:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-23 11:41:04 +0000",
       "minecraft:snowy_beach": "2024-12-21 22:46:55 +0000",
+      "minecraft:warm_ocean": "2024-12-25 22:42:20 +0000",
       "minecraft:frozen_peaks": "2024-12-21 16:27:10 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-21 15:53:52 +0000"
+      "minecraft:old_growth_birch_forest": "2024-12-21 15:53:52 +0000",
+      "minecraft:plains": "2024-12-25 22:45:37 +0000"
     },
     "done": false
   },
@@ -1628,12 +1634,18 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:atacama_outback": "2024-12-25 22:43:32 +0000",
+      "biomeswevegone:redwood_thicket": "2024-12-25 22:47:04 +0000",
       "biomeswevegone:cika_woods": "2024-12-23 11:41:11 +0000",
       "biomeswevegone:temperate_grove": "2024-12-21 22:36:54 +0000",
       "biomeswevegone:zelkova_forest": "2024-12-22 21:27:18 +0000",
+      "biomeswevegone:red_rock_valley": "2024-12-25 22:44:42 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-21 22:41:03 +0000",
+      "biomeswevegone:lush_stacks": "2024-12-25 22:30:58 +0000",
+      "biomeswevegone:sierra_badlands": "2024-12-25 22:45:07 +0000",
       "biomeswevegone:maple_taiga": "2024-12-22 21:27:16 +0000",
       "biomeswevegone:orchard": "2024-12-21 22:39:08 +0000",
+      "biomeswevegone:amaranth_grassland": "2024-12-25 22:45:59 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-21 16:04:13 +0000",
       "biomeswevegone:prairie": "2024-12-21 22:39:50 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-23 11:46:05 +0000",
@@ -1641,10 +1653,13 @@
       "biomeswevegone:dacite_ridges": "2024-12-23 11:59:14 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-22 21:26:16 +0000",
       "biomeswevegone:shattered_glacier": "2024-12-23 12:44:58 +0000",
+      "biomeswevegone:howling_peaks": "2024-12-25 22:48:31 +0000",
       "biomeswevegone:skyrise_vale": "2024-12-22 21:26:17 +0000",
+      "biomeswevegone:dead_sea": "2024-12-25 22:40:49 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-23 11:35:11 +0000",
       "biomeswevegone:pumpkin_valley": "2024-12-22 21:43:51 +0000",
-      "biomeswevegone:crimson_tundra": "2024-12-21 22:47:48 +0000"
+      "biomeswevegone:crimson_tundra": "2024-12-21 22:47:48 +0000",
+      "biomeswevegone:coniferous_forest": "2024-12-25 22:19:05 +0000"
     },
     "done": false
   },
@@ -4851,6 +4866,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-25 22:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
@@ -4863,15 +4884,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-25 22:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-25 22:47:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-25 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-25 22:35:53 +0000"
     },
     "done": true
   },
@@ -4887,9 +4926,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_rock_bricks_from_red_rock_stonecutting": {
+    "criteria": {
+      "has_red_rock": "2024-12-25 22:44:45 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2024-12-25 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 22:35:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 22:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-25 22:47:36 +0000"
     },
     "done": true
   },
@@ -4905,9 +4968,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_rock_slab_from_red_rock_stonecutting": {
+    "criteria": {
+      "has_red_rock": "2024-12-25 22:44:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2024-12-25 22:47:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-25 21:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-25 22:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-25 22:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_allium": {
+    "criteria": {
+      "has_white_allium_petal_block": "2024-12-25 22:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-25 22:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-12-25 22:48:11 +0000"
     },
     "done": true
   },
@@ -4941,6 +5046,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-25 22:35:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-25 22:35:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-25 21:29:58 +0000"
@@ -4971,15 +5088,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-25 22:47:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2024-12-25 21:53:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-25 22:47:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/white_wool_from_white_allium_petal_block": {
+    "criteria": {
+      "has_white_allium_petal_block": "2024-12-25 22:26:10 +0000"
     },
     "done": true
   },
@@ -5001,9 +5136,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-25 22:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-25 22:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-25 22:27:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/red_rock_slab": {
+    "criteria": {
+      "has_red_rock": "2024-12-25 22:44:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/red_rock_bricks": {
+    "criteria": {
+      "has_red_rock": "2024-12-25 22:44:45 +0000"
     },
     "done": true
   },
@@ -5025,9 +5190,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2024-12-25 22:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-25 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/red_rock_wall": {
+    "criteria": {
+      "has_red_rock": "2024-12-25 22:44:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/red_rock_stairs": {
+    "criteria": {
+      "has_red_rock": "2024-12-25 22:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_rock_wall_from_red_rock_stonecutting": {
+    "criteria": {
+      "has_red_rock": "2024-12-25 22:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_rock_stairs_from_red_rock_stonecutting": {
+    "criteria": {
+      "has_red_rock": "2024-12-25 22:44:45 +0000"
     },
     "done": true
   },
@@ -5037,9 +5232,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-25 22:35:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-25 21:47:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-25 22:27:52 +0000"
     },
     "done": true
   },

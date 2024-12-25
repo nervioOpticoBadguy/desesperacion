@@ -25,17 +25,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-25 22:25:43 +0000",
+      "minecraft:taiga": "2024-12-25 22:28:39 +0000",
+      "minecraft:frozen_river": "2024-12-25 22:30:09 +0000",
       "minecraft:sunflower_plains": "2024-12-25 21:55:01 +0000",
       "minecraft:birch_forest": "2024-12-24 13:25:01 +0000",
       "minecraft:beach": "2024-12-24 12:37:18 +0000",
       "minecraft:dark_forest": "2024-12-23 11:50:31 +0000",
       "minecraft:river": "2024-12-23 12:30:55 +0000",
+      "minecraft:snowy_plains": "2024-12-25 22:39:44 +0000",
       "minecraft:stony_shore": "2024-12-25 21:56:54 +0000",
+      "minecraft:snowy_taiga": "2024-12-25 22:29:39 +0000",
       "minecraft:grove": "2024-12-23 14:52:54 +0000",
+      "minecraft:cold_ocean": "2024-12-25 22:18:00 +0000",
       "minecraft:forest": "2024-12-24 12:37:13 +0000",
       "minecraft:lush_caves": "2024-12-23 11:59:29 +0000",
+      "minecraft:ice_spikes": "2024-12-25 22:38:24 +0000",
       "minecraft:jungle": "2024-12-24 15:52:16 +0000",
       "minecraft:ocean": "2024-12-24 16:09:34 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-25 22:28:10 +0000",
+      "minecraft:snowy_beach": "2024-12-25 22:29:42 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-23 17:02:11 +0000"
     },
     "done": false
@@ -2103,15 +2112,23 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cika_woods": "2024-12-25 22:26:35 +0000",
       "biomeswevegone:temperate_grove": "2024-12-24 16:19:59 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-25 21:55:05 +0000",
       "biomeswevegone:maple_taiga": "2024-12-25 21:58:09 +0000",
+      "biomeswevegone:frosted_taiga": "2024-12-25 22:35:22 +0000",
       "biomeswevegone:orchard": "2024-12-25 22:04:09 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-23 12:36:20 +0000",
       "biomeswevegone:prairie": "2024-12-25 21:49:38 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-24 16:19:01 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-25 21:47:31 +0000",
-      "biomeswevegone:allium_shrubland": "2024-12-25 21:49:12 +0000"
+      "biomeswevegone:dacite_ridges": "2024-12-25 22:27:05 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2024-12-25 22:33:11 +0000",
+      "biomeswevegone:shattered_glacier": "2024-12-25 22:37:45 +0000",
+      "biomeswevegone:dacite_shore": "2024-12-25 22:25:54 +0000",
+      "biomeswevegone:allium_shrubland": "2024-12-25 21:49:12 +0000",
+      "biomeswevegone:crimson_tundra": "2024-12-25 22:37:34 +0000",
+      "biomeswevegone:coniferous_forest": "2024-12-25 22:31:38 +0000"
     },
     "done": false
   },
@@ -4882,6 +4899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 22:44:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-25 21:48:00 +0000"
@@ -4906,6 +4929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 22:44:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-25 22:00:26 +0000"
@@ -4918,9 +4947,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 22:44:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-25 22:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dacite_cobblestone_slab_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-25 22:26:01 +0000"
     },
     "done": true
   },
@@ -4978,6 +5019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dacite_cobblestone_wall_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-25 22:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-25 21:47:41 +0000"
@@ -5005,6 +5052,18 @@
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2024-12-25 22:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dacite_cobblestone_stairs_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-25 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/dacite_cobblestone_slab": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-25 22:26:01 +0000"
     },
     "done": true
   },
@@ -5038,9 +5097,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/dacite_cobblestone_stairs": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-25 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 22:44:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-25 21:51:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/dacite_cobblestone_wall": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-25 22:26:01 +0000"
     },
     "done": true
   },
@@ -5062,9 +5151,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-25 22:44:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-12-25 22:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-25 22:42:03 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/dacite": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-25 22:26:01 +0000"
     },
     "done": true
   },
