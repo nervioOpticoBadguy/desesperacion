@@ -5977,6 +5977,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2024-12-25 21:09:43 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/eat_radiation_foods": {
     "criteria": {
       "slam": "2024-12-25 20:48:30 +0000"

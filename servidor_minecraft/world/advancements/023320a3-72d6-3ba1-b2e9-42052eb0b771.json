@@ -6506,5 +6506,95 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/florus_slab": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/florus_button": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_wood": {
+    "criteria": {
+      "has_log": "2024-12-25 21:05:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2024-12-25 21:08:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/florus_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/florus_fence": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/florus_crafting_table": {
+    "criteria": {
+      "has_florus_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/florus_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2024-12-25 21:07:14 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/florus_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_planks": {
+    "criteria": {
+      "has_log": "2024-12-25 21:05:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/florus_sign": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/florus_door": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_bookshelf": {
+    "criteria": {
+      "has_florus_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

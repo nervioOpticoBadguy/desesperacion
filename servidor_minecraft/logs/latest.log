@@ -334,3 +334,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [25Dec2024 21:05:14.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 6.044588676719769,-1.6815583980583142,-7.835906735574099
 [25Dec2024 21:05:16.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo lost connection: Disconnected
 [25Dec2024 21:05:16.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo left the game
+[25Dec2024 21:07:14.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has made the advancement [Bath Bomb]
+[25Dec2024 21:08:23.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico has reached the goal [The Ray Cat Solution]
+[25Dec2024 21:09:29.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElZipote69[/127.94.94.133:43471] logged in with entity id 50596 at (573.0966983836332, 91.25220334025373, 3444.6018301260297)
+[25Dec2024 21:09:29.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElZipote69 joined the game
+[25Dec2024 21:09:29.317] [Server thread/INFO] [Jade/]: Syncing config to ElZipote69 (83056aca-0c8d-3908-971c-32689b2b7ba8)
+[25Dec2024 21:09:31.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico moved too quickly! -10.131486138360742,-0.7684762024129839,0.44099444225867046
+[25Dec2024 21:09:31.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
+[25Dec2024 21:09:43.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Bath Bomb]
+[25Dec2024 21:10:08.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nervio_optico> [name:"cueva toxica", x:5788, y:95, z:9727, dim:minecraft:overworld]
+[25Dec2024 21:10:15.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nervio_optico lost connection: Disconnected
+[25Dec2024 21:10:15.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nervio_optico left the game
+[25Dec2024 21:10:40.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! -9.142509272312623,-0.5870907195829886,-4.079698809180172
+[25Dec2024 21:11:00.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! -10.039085466708059,1.0,2.001149026476469
+[25Dec2024 21:11:24.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2494ms or 49 ticks behind
+[25Dec2024 21:12:12.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! -7.593704897651264,1.8787031594607981,-6.506065902102819
+[25Dec2024 21:12:12.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[25Dec2024 21:12:18.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! -9.839875900035224,-0.49520087700592796,-3.020185609095279
+[25Dec2024 21:12:22.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! -8.690309071598023,-1.1661092609382138,-5.047587356235454
+[25Dec2024 21:12:30.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[25Dec2024 21:12:52.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[25Dec2024 21:12:52.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! -7.776879320697688,0.22768848754498094,-6.904555335496752
+[25Dec2024 21:12:59.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! -7.660147175166514,-0.08609407931551516,-6.636892165946847
+[25Dec2024 21:13:11.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! -8.495057716772772,1.087045657717681,-5.672462427655773
+[25Dec2024 21:13:17.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! -7.373222493801834,1.7521489003674589,-7.058556723276979
+[25Dec2024 21:13:22.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3237ms or 64 ticks behind
+[25Dec2024 21:13:22.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElZipote69 moved too quickly! -6.841847325528114,1.0013359791121417,-7.588200964792577
