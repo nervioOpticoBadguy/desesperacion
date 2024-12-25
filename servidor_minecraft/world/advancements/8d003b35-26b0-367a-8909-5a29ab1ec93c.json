@@ -5977,5 +5977,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "slam": "2024-12-25 20:48:30 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

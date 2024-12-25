@@ -250,3 +250,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [25Dec2024 20:40:06.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has made the advancement [Best Friends Forever]
 [25Dec2024 20:40:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigmayey has reached the goal [The Ray Cat Solution]
 [25Dec2024 20:43:37.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 8.449797118944616,-0.18309117671588382,-5.85883141901877
+[25Dec2024 20:51:12.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo lost connection: Disconnected
+[25Dec2024 20:51:12.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo left the game
+[25Dec2024 20:51:25.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CabezaCascoo[/127.96.153.127:39483] logged in with entity id 39717 at (495.94449965958233, 80.02442408821369, 3012.2932346857497)
+[25Dec2024 20:51:25.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo joined the game
+[25Dec2024 20:51:25.957] [Server thread/INFO] [Jade/]: Syncing config to CabezaCascoo (a4f49cc0-b26f-3ce9-b716-255117de29ae)
+[25Dec2024 20:51:34.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[25Dec2024 20:54:22.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[25Dec2024 20:54:36.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 1.2471211496879278,0.49520087700592796,10.279917847027718
+[25Dec2024 20:54:39.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[25Dec2024 20:54:49.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 1.8065994366834843,-2.768476202412984,9.722514226133626
+[25Dec2024 20:54:53.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! -6.693162959885569,-0.5764407054569602,7.44803841492876
+[25Dec2024 20:54:59.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! -5.019318669298002,-4.746109274051236,7.340842137551135
+[25Dec2024 20:55:00.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5582ms or 111 ticks behind
+[25Dec2024 20:55:05.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 0.8887772790662325,-1.7521489003674589,9.95805983847913
+[25Dec2024 20:55:11.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! -0.8023246839206308,-1.1416851727245216,10.192842660047972
+[25Dec2024 20:55:23.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[25Dec2024 20:55:40.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[25Dec2024 20:55:51.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 9.767493334789208,-0.798586743452617,3.011571279985219
+[25Dec2024 20:56:00.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[25Dec2024 20:56:00.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 8.800949925417683,1.3693736602695097,4.650537233847899
