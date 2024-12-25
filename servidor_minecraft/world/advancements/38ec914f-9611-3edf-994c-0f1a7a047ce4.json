@@ -4919,6 +4919,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_white_industrial_lamp": {
+    "criteria": {
+      "has_small_white_industrial_lamp": "2024-12-25 23:36:24 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
       "has_ghast_tear": "2024-12-25 21:59:45 +0000"
@@ -4934,6 +4940,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-25 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-25 23:36:21 +0000"
     },
     "done": true
   },
@@ -4961,6 +4973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-25 23:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dacite_cobblestone_slab_from_dacite_cobblestone_stonecutting": {
     "criteria": {
       "has_dacite_cobblestone": "2024-12-25 22:26:01 +0000"
@@ -4985,15 +5003,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-25 23:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-25 22:10:17 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-25 23:36:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-25 21:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-25 23:36:24 +0000"
     },
     "done": true
   },
@@ -5018,6 +5054,12 @@
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_cyan_wool": "2024-12-25 21:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-25 23:36:24 +0000"
     },
     "done": true
   },
@@ -5063,9 +5105,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-25 23:36:24 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_industrial_lamp": {
+    "criteria": {
+      "has_white_industrial_lamp": "2024-12-25 23:36:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2024-12-25 23:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-25 23:36:24 +0000"
     },
     "done": true
   },
@@ -5087,9 +5147,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-25 23:36:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-25 23:36:21 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2024-12-25 22:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-12-25 23:36:24 +0000"
     },
     "done": true
   },
@@ -5117,6 +5195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2024-12-25 23:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-25 22:44:36 +0000"
@@ -5132,6 +5216,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-25 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-25 23:36:24 +0000"
     },
     "done": true
   },
@@ -5153,6 +5243,24 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2024-12-25 23:35:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2024-12-25 23:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-25 23:36:24 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/dacite_cobblestone_wall": {
     "criteria": {
       "has_dacite_cobblestone": "2024-12-25 22:26:01 +0000"
@@ -5162,6 +5270,12 @@
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2024-12-25 22:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-25 23:36:24 +0000"
     },
     "done": true
   },
@@ -5186,6 +5300,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-12-25 22:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-25 23:36:24 +0000"
     },
     "done": true
   },

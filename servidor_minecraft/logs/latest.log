@@ -3412,3 +3412,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [25Dec2024 23:28:53.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> ahora vuelvo
 [25Dec2024 23:28:55.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo lost connection: Disconnected
 [25Dec2024 23:28:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo left the game
+[25Dec2024 23:42:41.655] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6810d959[id=<null>,name=CabezaCascoo,properties={},legacy=false] (/127.96.153.127:54359) lost connection: Disconnected
+[25Dec2024 23:43:13.054] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19c63e1e[id=<null>,name=CabezaCascoo,properties={},legacy=false] (/127.96.153.127:55295) lost connection: Disconnected
+[25Dec2024 23:43:22.004] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b48c67b[id=<null>,name=CabezaCascoo,properties={},legacy=false] (/127.96.153.127:60061) lost connection: Disconnected
