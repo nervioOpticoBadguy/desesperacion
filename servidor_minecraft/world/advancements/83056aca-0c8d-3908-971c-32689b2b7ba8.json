@@ -32,6 +32,7 @@
       "minecraft:beach": "2024-12-22 10:55:06 +0000",
       "minecraft:dark_forest": "2024-12-22 10:42:17 +0000",
       "minecraft:river": "2024-12-22 10:45:01 +0000",
+      "minecraft:snowy_plains": "2024-12-25 21:19:09 +0000",
       "minecraft:snowy_taiga": "2024-12-22 10:57:55 +0000",
       "minecraft:cold_ocean": "2024-12-22 10:55:12 +0000",
       "minecraft:forest": "2024-12-22 10:45:05 +0000",
@@ -856,7 +857,8 @@
       "biomeswevegone:frosted_coniferous_forest": "2024-12-22 10:58:00 +0000",
       "biomeswevegone:shattered_glacier": "2024-12-24 13:13:14 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-22 10:51:00 +0000",
-      "biomeswevegone:crimson_tundra": "2024-12-22 10:58:23 +0000"
+      "biomeswevegone:crimson_tundra": "2024-12-22 10:58:23 +0000",
+      "biomeswevegone:coniferous_forest": "2024-12-25 21:25:29 +0000"
     },
     "done": false
   },
@@ -1781,6 +1783,84 @@
   "minecraft:recipes/decorations/rose_petal_block": {
     "criteria": {
       "has_rose": "2024-12-24 13:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:19:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-25 21:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:19:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-25 21:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-25 21:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-25 21:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-25 21:19:21 +0000"
     },
     "done": true
   },

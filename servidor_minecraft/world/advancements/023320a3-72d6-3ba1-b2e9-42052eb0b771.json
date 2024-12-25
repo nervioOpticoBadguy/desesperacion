@@ -6506,6 +6506,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/florus_wood": {
+    "criteria": {
+      "has_log": "2024-12-25 21:05:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/florus_planks": {
+    "criteria": {
+      "has_log": "2024-12-25 21:05:21 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/florus_slab": {
     "criteria": {
       "has_planks": "2024-12-25 21:05:46 +0000"
@@ -6521,18 +6533,6 @@
   "biomeswevegone:recipes/building_blocks/florus_stairs": {
     "criteria": {
       "has_planks": "2024-12-25 21:05:46 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/florus_wood": {
-    "criteria": {
-      "has_log": "2024-12-25 21:05:21 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tame_raycat": {
-    "criteria": {
-      "killed": "2024-12-25 21:08:23 +0000"
     },
     "done": true
   },
@@ -6560,21 +6560,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/enter_acid_with_armor": {
-    "criteria": {
-      "enter_acid_with_armor": "2024-12-25 21:07:14 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/redstone/florus_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-25 21:05:46 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/florus_planks": {
-    "criteria": {
-      "has_log": "2024-12-25 21:05:21 +0000"
     },
     "done": true
   },
@@ -6593,6 +6581,30 @@
   "biomeswevegone:recipes/building_blocks/florus_bookshelf": {
     "criteria": {
       "has_florus_planks": "2024-12-25 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2024-12-25 21:07:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2024-12-25 21:08:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "spelunkie": "2024-12-25 21:26:49 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2024-12-25 21:24:46 +0000"
     },
     "done": true
   },

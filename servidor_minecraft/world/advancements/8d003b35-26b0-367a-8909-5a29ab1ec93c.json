@@ -5985,7 +5985,8 @@
   },
   "alexscaves:alexscaves/eat_radiation_foods": {
     "criteria": {
-      "slam": "2024-12-25 20:48:30 +0000"
+      "slam": "2024-12-25 20:48:30 +0000",
+      "spelunkie": "2024-12-25 21:26:37 +0000"
     },
     "done": false
   },
