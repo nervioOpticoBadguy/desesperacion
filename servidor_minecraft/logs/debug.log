@@ -6617,3 +6617,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [25Dec2024 19:51:47.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 19:51:59.928] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [25Dec2024 19:53:04.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to CabezaCascoo: skill issue
+[25Dec2024 19:54:42.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo was killed by Licowitch using magic
+[25Dec2024 19:54:42.419] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CabezaCascoo with unique ID travelersbackpack.standard_25.12.2024-19.54.42.dat
+[25Dec2024 19:56:47.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 19:56:47.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 20:01:47.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 20:01:47.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 20:03:33.561] [Worker-Main-19/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier

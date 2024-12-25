@@ -228,3 +228,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [25Dec2024 19:49:44.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92, l='ServerLevel[world]', x=-293.30, y=70.00, z=4383.91] died, message: 'Unemployed was slain by Zombie Villager'
 [25Dec2024 19:50:48.058] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/88, l='ServerLevel[world]', x=-297.60, y=70.00, z=4300.51] died, message: 'Armorer was slain by Zombie'
 [25Dec2024 19:53:04.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to CabezaCascoo: skill issue
+[25Dec2024 19:54:42.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo was killed by Licowitch using magic
+[25Dec2024 19:54:42.419] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CabezaCascoo with unique ID travelersbackpack.standard_25.12.2024-19.54.42.dat
