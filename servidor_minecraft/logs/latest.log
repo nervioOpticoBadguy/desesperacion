@@ -638,3 +638,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [26Dec2024 12:55:21.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque left the game
 [26Dec2024 12:55:54.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
 [26Dec2024 12:56:01.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] negros
+[26Dec2024 14:19:47.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: henryque[/127.32.226.92:41979] logged in with entity id 51764 at (2345.9148246591253, 80.0, 1161.0244303082516)
+[26Dec2024 14:19:47.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque joined the game
+[26Dec2024 14:19:47.234] [Server thread/INFO] [Jade/]: Syncing config to henryque (38ec914f-9611-3edf-994c-0f1a7a047ce4)
+[26Dec2024 14:25:50.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christorm[/127.205.204.177:59069] logged in with entity id 53058 at (-1.8990281990981885, 75.0, -0.9178845081598878)
+[26Dec2024 14:25:50.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm joined the game
+[26Dec2024 14:25:50.366] [Server thread/INFO] [Jade/]: Syncing config to christorm (4be7e4cc-7d81-3351-90c4-06f416b89a75)
+[26Dec2024 14:27:48.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[26Dec2024 14:29:06.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: henryque, christorm
+[26Dec2024 14:29:25.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[26Dec2024 14:30:11.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] /say Enrique Maricón
+[26Dec2024 14:30:38.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <henryque> soy franquista
+[26Dec2024 14:30:56.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y no se puede ser maricon siendo franquista?
+[26Dec2024 14:31:31.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <henryque> pero tu sabes lo que es el franquismo?
+[26Dec2024 14:32:43.485] [Worker-Main-149/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[26Dec2024 14:32:43.506] [Worker-Main-149/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[26Dec2024 14:37:37.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Ice Bucket Challenge]
+[26Dec2024 14:39:13.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was slain by Husk
+[26Dec2024 14:39:13.375] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_26.12.2024-14.39.13.dat
+[26Dec2024 14:39:15.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was slain by Husk
+[26Dec2024 14:39:15.731] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for henryque with unique ID travelersbackpack.standard_26.12.2024-14.39.15.dat
