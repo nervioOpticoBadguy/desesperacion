@@ -8880,3 +8880,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [26Dec2024 12:55:21.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque left the game
 [26Dec2024 12:55:54.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
 [26Dec2024 12:56:01.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] negros
+[26Dec2024 13:00:03.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 13:00:03.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 13:05:03.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 13:05:03.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
