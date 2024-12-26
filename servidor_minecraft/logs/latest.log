@@ -302,3 +302,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [26Dec2024 12:13:03.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 10.17025744960688,0.0,-3.054261023685285
 [26Dec2024 12:13:49.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque has made the advancement [You Are A Pirate]
 [26Dec2024 12:14:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Who's the Pillager Now?]
+[26Dec2024 12:16:39.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CabezaCascoo[/127.96.153.127:58227] logged in with entity id 17997 at (-284.36204581519064, 79.0, 4395.300000011921)
+[26Dec2024 12:16:39.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo joined the game
+[26Dec2024 12:16:39.097] [Server thread/INFO] [Jade/]: Syncing config to CabezaCascoo (a4f49cc0-b26f-3ce9-b716-255117de29ae)
+[26Dec2024 12:16:41.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[26Dec2024 12:16:45.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -3.6074466267521075,-7.29351213953057,-6.3168500879010026
+[26Dec2024 12:16:48.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> nico
+[26Dec2024 12:16:52.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> la de ir?
+[26Dec2024 12:17:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <henryque> duermeeee
+[26Dec2024 12:18:06.859] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[26Dec2024 12:18:06.875] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[26Dec2024 12:18:06.876] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[26Dec2024 12:18:12.217] [Worker-Main-16/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[26Dec2024 12:18:12.240] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[26Dec2024 12:19:52.821] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[26Dec2024 12:21:06.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luc0090[/127.247.6.202:51385] logged in with entity id 20188 at (94.24772919625016, 71.0, 88.55647613516204)
+[26Dec2024 12:21:06.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luc0090 joined the game
+[26Dec2024 12:21:07.008] [Server thread/INFO] [Jade/]: Syncing config to Luc0090 (6d4cebde-ec16-392f-b4b9-7f54e333e049)
+[26Dec2024 12:21:24.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CabezaCascoo> lucas comio
+[26Dec2024 12:22:16.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[26Dec2024 12:24:43.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[26Dec2024 12:24:43.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 4.7133413056959625,-0.33319999363422426,9.143013716243331
+[26Dec2024 12:25:01.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 0.37688864812457723,-0.33319999363422426,10.096929637186804
+[26Dec2024 12:25:02.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3843ms or 76 ticks behind
+[26Dec2024 12:25:06.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! 4.245277576928288,2.1661092609382138,9.16628439778924
+[26Dec2024 12:25:07.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luc0090 lost connection: Timed out
+[26Dec2024 12:25:07.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luc0090 left the game
+[26Dec2024 12:25:07.491] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 12:25:46.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! -2.3291923068306346,-0.5040129017765196,9.874106004073838

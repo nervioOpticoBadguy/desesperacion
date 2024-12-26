@@ -48,7 +48,8 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-25 22:28:10 +0000",
       "minecraft:snowy_beach": "2024-12-25 22:29:42 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-23 17:02:11 +0000",
-      "minecraft:meadow": "2024-12-26 11:53:14 +0000"
+      "minecraft:meadow": "2024-12-26 11:53:14 +0000",
+      "minecraft:plains": "2024-12-26 12:23:11 +0000"
     },
     "done": false
   },
@@ -1600,6 +1601,8 @@
       "minecraft:pillager": "2024-12-24 16:05:34 +0000",
       "minecraft:skeleton": "2024-12-23 12:21:48 +0000",
       "minecraft:vindicator": "2024-12-24 16:05:49 +0000",
+      "minecraft:creeper": "2024-12-26 12:15:39 +0000",
+      "minecraft:evoker": "2024-12-26 12:16:32 +0000",
       "minecraft:enderman": "2024-12-26 11:59:39 +0000",
       "minecraft:zombie": "2024-12-23 12:18:26 +0000",
       "minecraft:drowned": "2024-12-26 12:11:55 +0000"
@@ -5340,6 +5343,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-25 23:36:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2024-12-26 12:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2024-12-26 12:14:34 +0000"
     },
     "done": true
   },
