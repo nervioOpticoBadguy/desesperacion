@@ -9272,3 +9272,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [26Dec2024 14:39:13.375] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_26.12.2024-14.39.13.dat
 [26Dec2024 14:39:15.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was slain by Husk
 [26Dec2024 14:39:15.731] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for henryque with unique ID travelersbackpack.standard_26.12.2024-14.39.15.dat
+[26Dec2024 14:40:07.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 14:40:07.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 14:42:37.120] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26Dec2024 14:42:37.120] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26Dec2024 14:42:37.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26Dec2024 14:42:37.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[26Dec2024 14:42:42.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was slain by Husk
+[26Dec2024 14:42:42.626] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for henryque with unique ID travelersbackpack.standard_26.12.2024-14.42.42.dat
+[26Dec2024 14:44:11.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was slain by Husk
+[26Dec2024 14:44:11.297] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for henryque with unique ID travelersbackpack.standard_26.12.2024-14.44.11.dat
+[26Dec2024 14:45:07.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 14:45:07.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 14:45:16.969] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [028b8d6e-5d70-4ff6-9e5d-62f3213e6cbd]
