@@ -29,6 +29,7 @@
       "minecraft:taiga": "2024-12-25 22:28:39 +0000",
       "minecraft:frozen_river": "2024-12-25 22:30:09 +0000",
       "minecraft:sunflower_plains": "2024-12-25 21:55:01 +0000",
+      "minecraft:cherry_grove": "2024-12-26 12:23:52 +0000",
       "minecraft:birch_forest": "2024-12-24 13:25:01 +0000",
       "minecraft:beach": "2024-12-24 12:37:18 +0000",
       "minecraft:dark_forest": "2024-12-23 11:50:31 +0000",
@@ -5406,6 +5407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 12:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-26 11:54:34 +0000"
@@ -5463,6 +5470,12 @@
   "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-26 12:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-26 12:33:12 +0000"
     },
     "done": true
   },

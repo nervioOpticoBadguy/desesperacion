@@ -330,3 +330,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [26Dec2024 12:25:07.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luc0090 left the game
 [26Dec2024 12:25:07.491] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [26Dec2024 12:25:46.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! -2.3291923068306346,-0.5040129017765196,9.874106004073838
+[26Dec2024 12:27:16.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[26Dec2024 12:28:56.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm went off with a bang thanks to Archevoker
+[26Dec2024 12:28:56.281] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_26.12.2024-12.28.56.dat
+[26Dec2024 12:29:26.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was doomed to fall by Archevoker
+[26Dec2024 12:29:26.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for henryque with unique ID travelersbackpack.standard_26.12.2024-12.29.26.dat
+[26Dec2024 12:31:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was eviscerated by Archevoker's vexes
+[26Dec2024 12:31:09.012] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for henryque with unique ID travelersbackpack.standard_26.12.2024-12.31.08.dat
+[26Dec2024 12:31:17.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was eviscerated by Archevoker's vexes
+[26Dec2024 12:31:17.265] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_26.12.2024-12.31.17.dat
+[26Dec2024 12:32:15.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was eviscerated by Archevoker's vexes
+[26Dec2024 12:32:22.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was doomed to fall by Archevoker
+[26Dec2024 12:32:22.431] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_26.12.2024-12.32.22.dat
+[26Dec2024 12:32:37.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo moved too quickly! -8.227538953079375,-0.08307781780646906,-5.740032745320605
+[26Dec2024 12:32:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was eviscerated by Archevoker's vexes
+[26Dec2024 12:33:32.950] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[26Dec2024 12:33:58.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[26Dec2024 12:34:01.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was eviscerated by Archevoker's vexes
+[26Dec2024 12:34:01.869] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_26.12.2024-12.34.01.dat
+[26Dec2024 12:34:15.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[26Dec2024 12:34:35.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was eviscerated by Archevoker's vexes
+[26Dec2024 12:34:46.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[26Dec2024 12:34:58.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has made the advancement [Iron Maiden]
+[26Dec2024 12:35:43.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was eviscerated by Archevoker's vexes
+[26Dec2024 12:35:43.283] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_26.12.2024-12.35.43.dat
+[26Dec2024 12:35:50.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was eviscerated by Archevoker's vexes
+[26Dec2024 12:35:50.980] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for henryque with unique ID travelersbackpack.standard_26.12.2024-12.35.50.dat
+[26Dec2024 12:36:29.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/30073, l='ServerLevel[world]', x=-946.57, y=26.00, z=4793.72] died: Debris Miner was slain by CabezaCascoo
+[26Dec2024 12:36:50.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luc0090[/127.247.6.202:46123] logged in with entity id 30819 at (212.817445515942, 70.0, 95.08150529472088)
+[26Dec2024 12:36:50.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luc0090 joined the game
+[26Dec2024 12:36:50.775] [Server thread/INFO] [Jade/]: Syncing config to Luc0090 (6d4cebde-ec16-392f-b4b9-7f54e333e049)
+[26Dec2024 12:36:55.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3447ms or 68 ticks behind
+[26Dec2024 12:36:58.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque was eviscerated by Archevoker's vexes
+[26Dec2024 12:36:58.550] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for henryque with unique ID travelersbackpack.standard_26.12.2024-12.36.58.dat
+[26Dec2024 12:37:03.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/30688, l='ServerLevel[world]', x=-946.63, y=26.00, z=4794.39] died: Debris Miner was slain by CabezaCascoo
+[26Dec2024 12:37:03.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/30687, l='ServerLevel[world]', x=-946.14, y=26.00, z=4794.86] died: Debris Miner was slain by CabezaCascoo
