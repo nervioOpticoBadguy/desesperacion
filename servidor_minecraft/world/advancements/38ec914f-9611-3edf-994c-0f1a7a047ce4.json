@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-25 22:25:43 +0000",
       "minecraft:taiga": "2024-12-25 22:28:39 +0000",
+      "minecraft:deep_ocean": "2024-12-26 14:55:27 +0000",
       "minecraft:frozen_river": "2024-12-25 22:30:09 +0000",
       "minecraft:sunflower_plains": "2024-12-25 21:55:01 +0000",
       "minecraft:cherry_grove": "2024-12-26 12:23:52 +0000",
@@ -531,6 +532,7 @@
       "cooked_cod": "2024-12-26 14:20:08 +0000",
       "mutton": "2024-12-25 23:05:44 +0000",
       "bread": "2024-12-23 17:12:02 +0000",
+      "rotten_flesh": "2024-12-26 14:45:08 +0000",
       "glow_berries": "2024-12-23 12:00:49 +0000",
       "cooked_salmon": "2024-12-24 17:02:34 +0000"
     },
@@ -5661,9 +5663,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-26 14:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 14:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-26 14:20:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-26 14:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-26 14:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-26 14:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-26 14:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-26 14:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-26 14:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-26 14:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-26 14:59:31 +0000"
     },
     "done": true
   },
