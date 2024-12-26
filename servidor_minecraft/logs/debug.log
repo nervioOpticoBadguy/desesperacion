@@ -10231,3 +10231,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [26Dec2024 15:28:22.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -9.45980034382248,-1.252203340253729,-3.819194729781202
 [26Dec2024 15:28:29.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -9.125018732488797,-1.2491870787446828,4.43078626131296
 [26Dec2024 15:28:29.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[26Dec2024 15:31:03.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 15:31:03.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 15:36:03.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 15:36:03.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 15:41:03.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 15:41:03.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
