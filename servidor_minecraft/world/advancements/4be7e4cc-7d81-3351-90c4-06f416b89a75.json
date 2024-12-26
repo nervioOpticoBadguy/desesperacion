@@ -907,6 +907,7 @@
       "mutton": "2024-12-21 17:26:22 +0000",
       "bread": "2024-12-21 16:01:14 +0000",
       "cooked_chicken": "2024-12-21 17:34:32 +0000",
+      "mushroom_stew": "2024-12-26 15:06:36 +0000",
       "cod": "2024-12-26 12:24:34 +0000",
       "cooked_salmon": "2024-12-21 16:55:02 +0000",
       "carrot": "2024-12-26 14:47:44 +0000"
@@ -4539,6 +4540,24 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2024-12-26 14:53:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-26 15:06:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-26 15:06:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-26 15:06:36 +0000"
     },
     "done": true
   },

@@ -49,6 +49,7 @@
       "minecraft:ocean": "2024-12-24 16:09:34 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-25 22:28:10 +0000",
       "minecraft:snowy_beach": "2024-12-25 22:29:42 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-26 15:09:38 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-23 17:02:11 +0000",
       "minecraft:meadow": "2024-12-26 11:53:14 +0000",
       "minecraft:plains": "2024-12-26 12:23:11 +0000"
@@ -2129,6 +2130,7 @@
       "biomeswevegone:cika_woods": "2024-12-25 22:26:35 +0000",
       "biomeswevegone:temperate_grove": "2024-12-24 16:19:59 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-25 21:55:05 +0000",
+      "biomeswevegone:lush_stacks": "2024-12-26 15:09:00 +0000",
       "biomeswevegone:maple_taiga": "2024-12-25 21:58:09 +0000",
       "biomeswevegone:frosted_taiga": "2024-12-25 22:35:22 +0000",
       "biomeswevegone:orchard": "2024-12-25 22:04:09 +0000",
@@ -5687,9 +5689,45 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/palm_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 15:24:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/palm_bookshelf": {
+    "criteria": {
+      "has_palm_planks": "2024-12-26 15:24:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/palm_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 15:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-26 14:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-26 15:18:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/palm_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 15:24:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/palm_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 15:24:11 +0000"
     },
     "done": true
   },
@@ -5699,15 +5737,69 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_log": "2024-12-26 15:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-26 15:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-26 15:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-26 15:18:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-26 14:49:37 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/palm_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 15:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2024-12-26 14:59:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 15:24:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/palm_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 15:24:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/palm_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 15:24:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/palm_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 15:24:11 +0000"
     },
     "done": true
   },
@@ -5720,6 +5812,30 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-26 14:49:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/palm_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 15:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 15:25:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-26 15:11:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/palm_crafting_table": {
+    "criteria": {
+      "has_palm_planks": "2024-12-26 15:24:11 +0000"
     },
     "done": true
   },
