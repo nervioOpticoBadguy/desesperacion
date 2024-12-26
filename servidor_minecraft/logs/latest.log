@@ -1272,3 +1272,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [26Dec2024 15:28:22.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -9.45980034382248,-1.252203340253729,-3.819194729781202
 [26Dec2024 15:28:29.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! -9.125018732488797,-1.2491870787446828,4.43078626131296
 [26Dec2024 15:28:29.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[26Dec2024 15:45:03.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque has reached the goal [New Age Librarian]
