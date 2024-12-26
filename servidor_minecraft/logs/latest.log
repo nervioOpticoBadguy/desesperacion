@@ -243,3 +243,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [26Dec2024 11:33:35.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque lost connection: Timed out
 [26Dec2024 11:33:35.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque left the game
 [26Dec2024 11:33:35.855] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 11:38:11.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: henryque[/127.32.226.92:46029] logged in with entity id 813 at (-495.89761054189427, 79.0, 1251.9038427711741)
+[26Dec2024 11:38:11.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque joined the game
+[26Dec2024 11:38:11.208] [Server thread/INFO] [Jade/]: Syncing config to henryque (38ec914f-9611-3edf-994c-0f1a7a047ce4)
+[26Dec2024 11:38:13.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[26Dec2024 11:42:07.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christorm[/127.205.204.177:53269] logged in with entity id 2067 at (-494.42849800390957, 79.0, 1252.2150817640907)
+[26Dec2024 11:42:07.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm joined the game
+[26Dec2024 11:42:07.508] [Server thread/INFO] [Jade/]: Syncing config to christorm (4be7e4cc-7d81-3351-90c4-06f416b89a75)
+[26Dec2024 11:56:55.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque has made the advancement [Ocean Cleanup]
+[26Dec2024 12:05:49.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
+[26Dec2024 12:05:49.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm moved too quickly! 5.0586542823731975,-0.08307781780646906,-9.044234978386157
+[26Dec2024 12:05:49.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: henryque moved too quickly! 8.485596083058681,0.2277792520400368,-5.3533937361289645
+[26Dec2024 12:10:15.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Once Upon a Cave]
+[26Dec2024 12:11:15.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of henryque) moved wrongly! 0.2970617158255209
+[26Dec2024 12:11:15.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of henryque) moved wrongly! 0.4308897012012949
+[26Dec2024 12:12:30.048] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[26Dec2024 12:12:53.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 9.960550045131413,0.0,-2.991193786165695
+[26Dec2024 12:12:53.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 10.343647537123616,0.0,-3.1062423447515357
+[26Dec2024 12:12:53.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 10.726745016273526,0.0,-3.2212909612098883
+[26Dec2024 12:12:53.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 11.109842483865123,0.0,-3.3363396297536383
+[26Dec2024 12:12:53.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 11.492939941054374,0.0,-3.4513883451741094
+[26Dec2024 12:12:53.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 11.876037388881514,0.0,-3.566437102783766
+[26Dec2024 12:12:53.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 12.259134828282868,0.0,-3.681485898363917
+[26Dec2024 12:12:53.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 12.642232260100855,0.0,-3.7965347281174218
+[26Dec2024 12:12:53.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 13.025329685093766,0.0,-3.911583588626854
+[26Dec2024 12:12:53.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 13.408427103944177,0.0,-4.026632476816303
+[26Dec2024 12:12:53.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
+[26Dec2024 12:12:53.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 9.960532787509237,0.0,-2.9912715552927693
+[26Dec2024 12:12:53.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 10.343630160296698,0.0,-3.1063206510584678
+[26Dec2024 12:12:53.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 10.726727532162386,0.0,-3.221369750978738
+[26Dec2024 12:13:03.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 9.898984920798739,0.0,-2.9727943434504596
+[26Dec2024 12:13:03.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 10.277511090065673,0.0,-3.0864706914649105
+[26Dec2024 12:13:03.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 10.656494378871685,0.0,-3.2002843184418452
+[26Dec2024 12:13:03.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 11.035889075252044,0.0,-3.3142214964818777
+[26Dec2024 12:13:03.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 11.41565403843947,0.0,-3.4282698704755603
+[26Dec2024 12:13:03.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 11.795752241744367,0.0,-3.5424183208247086
+[26Dec2024 12:13:03.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 12.176150361147165,0.0,-3.656656839891639
+[26Dec2024 12:13:03.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 12.556818405030754,0.0,-3.7709764208025263
+[26Dec2024 12:13:03.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 12.93772938094071,0.0,-3.8853689573711563
+[26Dec2024 12:13:03.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 13.318858995668506,0.0,-3.9998271540298447
+[26Dec2024 12:13:03.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 13.700185385327359,0.0,-4.114344444767994
+[26Dec2024 12:13:03.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 14.081688872419363,0.0,-4.2289149201760665
+[26Dec2024 12:13:03.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 14.463351747196839,0.0,-4.3435332617859785
+[26Dec2024 12:13:03.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 14.845158070887692,0.0,-4.458194682976682
+[26Dec2024 12:13:03.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 15.227093498597014,0.0,-4.572894875788734
+[26Dec2024 12:13:03.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 15.609145119919958,0.0,-4.687629963058953
+[26Dec2024 12:13:03.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 15.991301315492365,0.0,-4.8023964553408405
+[26Dec2024 12:13:03.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 16.373551627886627,0.0,-4.9171912121328205
+[26Dec2024 12:13:03.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 16.755886645418514,0.0,-5.032011406982747
+[26Dec2024 12:13:03.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 17.1382978975721,0.0,-5.146854496084416
+[26Dec2024 12:13:03.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 17.520777760883448,0.0,-5.261718190011834
+[26Dec2024 12:13:03.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 17.903319374235252,0.0,-5.376600428282472
+[26Dec2024 12:13:03.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 18.28591656262188,0.0,-5.4914993564611905
+[26Dec2024 12:13:03.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 18.63025402304811,0.0,-5.594908389082775
+[26Dec2024 12:13:03.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 18.940157729221937,0.0,-5.687976515976516
+[26Dec2024 12:13:03.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 19.219071057389783,0.0,-5.77173782796217
+[26Dec2024 12:13:03.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 19.47009304609105,0.0,-5.847123006752099
+[26Dec2024 12:13:03.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christorm) moved too quickly! 10.17025744960688,0.0,-3.054261023685285
+[26Dec2024 12:13:49.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: henryque has made the advancement [You Are A Pirate]
+[26Dec2024 12:14:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Who's the Pillager Now?]
