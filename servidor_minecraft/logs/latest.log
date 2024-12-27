@@ -4099,3 +4099,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [27Dec2024 18:55:58.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 lost connection: Disconnected
 [27Dec2024 18:55:58.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 left the game
 [27Dec2024 18:58:36.223] [Worker-Main-128/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[27Dec2024 19:03:02.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has made the advancement [Bring Forth The Mollusk]
+[27Dec2024 19:04:48.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo has made the advancement [The Shadow Over Mine's Craft]
+[27Dec2024 19:06:32.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo drowned
+[27Dec2024 19:06:32.082] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for CabezaCascoo with unique ID travelersbackpack.blaze_27.12.2024-19.06.32.dat
+[27Dec2024 19:06:37.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo lost connection: Disconnected
+[27Dec2024 19:06:37.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo left the game
+[27Dec2024 19:06:37.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
