@@ -1838,3 +1838,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [27Dec2024 17:23:28.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Skeleton
 [27Dec2024 17:26:05.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was doomed to fall
 [27Dec2024 17:26:05.827] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_27.12.2024-17.26.05.dat
+[27Dec2024 17:28:38.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was slain by Hoglin
+[27Dec2024 17:28:38.175] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_27.12.2024-17.28.38.dat
+[27Dec2024 17:28:58.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Skeleton
+[27Dec2024 17:29:20.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was burnt to a crisp whilst fighting Wither Skeleton
+[27Dec2024 17:29:54.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was slain by Hoglin
+[27Dec2024 17:30:30.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 withered away whilst fighting Wither Skeleton
+[27Dec2024 17:30:41.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Wither Skeleton
+[27Dec2024 17:30:46.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 fell from a high place
+[27Dec2024 17:30:49.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was slain by Wither Skeleton
+[27Dec2024 17:30:58.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Skeleton
+[27Dec2024 17:31:17.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Wither Skeleton
+[27Dec2024 17:31:38.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Skeleton
+[27Dec2024 17:32:27.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Wither Skeleton
+[27Dec2024 17:33:35.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was slain by Hoglin
+[27Dec2024 17:33:59.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was doomed to fall by Hoglin
+[27Dec2024 17:34:01.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CabezaCascoo[/127.96.153.127:37499] logged in with entity id 72426 at (46.535360516481624, 76.0, 4220.0598907898475)
+[27Dec2024 17:34:01.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo joined the game
+[27Dec2024 17:34:01.796] [Server thread/INFO] [Jade/]: Syncing config to CabezaCascoo (a4f49cc0-b26f-3ce9-b716-255117de29ae)
+[27Dec2024 17:34:04.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm moved too quickly! -9.209527993237117,1.752148900367473,-4.257245255833595
+[27Dec2024 17:34:04.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
+[27Dec2024 17:34:09.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 moved too quickly! -1.8680292383817942,-10.867409983895072,0.10324671300827504
+[27Dec2024 17:34:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 fell from a high place
+[27Dec2024 17:34:25.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3041ms or 60 ticks behind
+[27Dec2024 17:34:35.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was burnt to a crisp whilst fighting Wither Skeleton
+[27Dec2024 17:34:41.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Wither Skeleton
+[27Dec2024 17:34:42.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Wither Skeleton
+[27Dec2024 17:34:43.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[27Dec2024 17:34:59.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was slain by Hoglin
+[27Dec2024 17:35:00.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Wither Skeleton
+[27Dec2024 17:35:01.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[27Dec2024 17:35:18.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was slain by Hoglin
+[27Dec2024 17:35:34.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was slain by Hoglin
+[27Dec2024 17:35:37.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 fell from a high place
+[27Dec2024 17:35:46.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm fell from a high place
+[27Dec2024 17:36:04.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Wither Skeleton
+[27Dec2024 17:36:07.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was slain by Wither Skeleton
+[27Dec2024 17:36:14.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was slain by Wither Skeleton
+[27Dec2024 17:36:36.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 withered away whilst fighting Wither Skeleton
+[27Dec2024 17:36:40.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was slain by Hoglin
+[27Dec2024 17:36:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Wither Skeleton
+[27Dec2024 17:37:01.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Wither Skeleton
+[27Dec2024 17:37:18.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was burnt to a crisp whilst fighting Hoglin
+[27Dec2024 17:37:35.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was doomed to fall by Hoglin
+[27Dec2024 17:37:39.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Wither Skeleton
+[27Dec2024 17:37:54.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was doomed to fall
