@@ -835,11 +835,13 @@
     "criteria": {
       "minecraft:pillager": "2024-12-21 18:02:53 +0000",
       "minecraft:skeleton": "2024-12-21 16:00:56 +0000",
+      "minecraft:hoglin": "2024-12-27 17:10:18 +0000",
       "minecraft:vindicator": "2024-12-21 18:31:37 +0000",
       "minecraft:spider": "2024-12-24 13:16:34 +0000",
       "minecraft:creeper": "2024-12-21 17:05:57 +0000",
       "minecraft:phantom": "2024-12-24 13:00:18 +0000",
       "minecraft:witch": "2024-12-24 13:06:40 +0000",
+      "minecraft:wither_skeleton": "2024-12-27 17:09:16 +0000",
       "minecraft:husk": "2024-12-26 14:42:21 +0000",
       "minecraft:enderman": "2024-12-27 16:17:21 +0000",
       "minecraft:vex": "2024-12-26 12:27:03 +0000",
@@ -4562,6 +4564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-27 17:10:51 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
       "scroll_forge": "2024-12-27 16:25:01 +0000"
@@ -4604,6 +4612,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-27 17:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-27 17:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2024-12-27 16:45:48 +0000"
@@ -4622,6 +4642,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-27 17:07:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-12-27 17:06:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-27 16:44:49 +0000"
@@ -4631,6 +4663,18 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2024-12-27 16:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-27 17:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-27 17:07:33 +0000"
     },
     "done": true
   },
@@ -4649,6 +4693,12 @@
   "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-27 16:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-27 17:10:51 +0000"
     },
     "done": true
   },
@@ -4706,6 +4756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-27 17:10:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-27 16:44:49 +0000"
@@ -4724,6 +4780,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-27 17:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-27 17:10:51 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2024-12-27 17:07:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-27 16:44:49 +0000"
@@ -4736,9 +4810,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-27 17:07:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-27 16:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-27 17:09:39 +0000"
     },
     "done": true
   },

@@ -871,6 +871,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-27 16:19:38 +0000",
       "minecraft:spider": "2024-12-21 17:35:15 +0000",
+      "minecraft:wither_skeleton": "2024-12-27 17:13:16 +0000",
       "minecraft:zombie": "2024-12-21 16:07:38 +0000"
     },
     "done": false
@@ -3382,6 +3383,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-27 17:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-27 16:58:12 +0000"
@@ -3394,15 +3401,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-27 17:09:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-27 16:58:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-27 17:09:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2024-12-27 16:58:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-12-27 17:07:18 +0000"
     },
     "done": true
   },
@@ -3487,6 +3512,12 @@
   "biomeswevegone:recipes/food/cooked_white_puffball_cap": {
     "criteria": {
       "has_white_puffball_cap": "2024-12-27 16:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-27 17:09:00 +0000"
     },
     "done": true
   },

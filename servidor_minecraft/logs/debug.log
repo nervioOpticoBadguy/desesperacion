@@ -8744,3 +8744,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [27Dec2024 17:05:57.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CabezaCascoo lost connection: Disconnected
 [27Dec2024 17:05:57.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo left the game
 [27Dec2024 17:06:11.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has made the advancement [Ghost Riders In The Sky]
+[27Dec2024 17:07:18.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [Ghost Riders In The Sky]
+[27Dec2024 17:09:46.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 17:09:47.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 17:10:18.664] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Dec2024 17:11:36.522] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Dec2024 17:13:24.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [Not Today, Thank You]
+[27Dec2024 17:14:36.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was slain by Wither Skeleton
+[27Dec2024 17:14:36.774] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for pablitobanana07 with unique ID travelersbackpack.standard_27.12.2024-17.14.36.dat
+[27Dec2024 17:14:47.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 17:14:47.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 17:15:18.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was burnt to a crisp whilst fighting Wither Skeleton
+[27Dec2024 17:15:18.521] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_27.12.2024-17.15.18.dat
+[27Dec2024 17:15:29.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Wither Skeleton
+[27Dec2024 17:16:41.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 moved too quickly! 0.9981782015874927,-14.505656546277834,0.49583196290404885
+[27Dec2024 17:17:03.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was burnt to a crisp whilst fighting Zombie
+[27Dec2024 17:17:18.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Wither Skeleton
+[27Dec2024 17:17:18.285] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_27.12.2024-17.17.18.dat
