@@ -237,3 +237,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [27Dec2024 15:45:52.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 moved too quickly! 5.649431660873731,0.0,8.373533390624857
 [27Dec2024 15:49:29.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 lost connection: Disconnected
 [27Dec2024 15:49:29.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 left the game
+[27Dec2024 16:12:02.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablitobanana07[/127.230.193.219:38805] logged in with entity id 35610 at (126.8267904979191, 102.0, 1142.2733965629682)
+[27Dec2024 16:12:02.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 joined the game
+[27Dec2024 16:12:02.469] [Server thread/INFO] [Jade/]: Syncing config to pablitobanana07 (abb3857f-cdde-37ea-8850-a7df92aaa81e)
+[27Dec2024 16:13:20.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [Forager]
+[27Dec2024 16:14:07.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christorm[/127.205.204.177:60667] logged in with entity id 36116 at (-497.01581010385434, 79.0, 1253.7997757658432)
+[27Dec2024 16:14:07.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm joined the game
+[27Dec2024 16:14:07.868] [Server thread/INFO] [Jade/]: Syncing config to christorm (4be7e4cc-7d81-3351-90c4-06f416b89a75)
