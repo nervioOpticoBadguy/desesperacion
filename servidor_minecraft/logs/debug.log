@@ -7003,3 +7003,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [27Dec2024 16:14:07.792] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@6026c884 into net.minecraft.network.Connection@31e9292c
 [27Dec2024 16:14:07.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm joined the game
 [27Dec2024 16:14:07.868] [Server thread/INFO] [Jade/]: Syncing config to christorm (4be7e4cc-7d81-3351-90c4-06f416b89a75)
+[27Dec2024 16:16:00.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 16:16:00.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 16:21:00.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 16:21:00.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 16:23:44.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablitobanana07) moved wrongly! 0.4619178889290083
+[27Dec2024 16:23:45.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablitobanana07) moved wrongly! 0.8350735119772139
+[27Dec2024 16:23:45.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablitobanana07) moved wrongly! 1.1833349049007893
+[27Dec2024 16:23:45.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablitobanana07) moved wrongly! 1.5327456735218448
+[27Dec2024 16:23:45.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablitobanana07) moved wrongly! 1.898483794800768
+[27Dec2024 16:23:45.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablitobanana07) moved wrongly! 2.255838332317751
+[27Dec2024 16:25:01.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm has reached the goal [New Age Librarian]
