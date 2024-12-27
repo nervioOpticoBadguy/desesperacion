@@ -1081,6 +1081,7 @@
       "biomeswevegone:weeping_witch_forest": "2024-12-21 17:01:24 +0000",
       "biomeswevegone:prairie": "2024-12-27 15:37:03 +0000",
       "biomeswevegone:rose_fields": "2024-12-27 15:40:45 +0000",
+      "biomeswevegone:basalt_barrera": "2024-12-27 16:23:29 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-21 18:41:05 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-27 14:42:41 +0000"
     },
@@ -3384,15 +3385,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 16:39:36 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_white_puffball_cap": {
     "criteria": {
       "has_white_puffball_cap": "2024-12-27 16:13:20 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2024-12-27 16:26:39 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_smoker": {
     "criteria": {
       "has_white_puffball_cap": "2024-12-27 16:13:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2024-12-27 16:26:39 +0000"
     },
     "done": true
   },
