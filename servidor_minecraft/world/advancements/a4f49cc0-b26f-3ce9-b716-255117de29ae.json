@@ -48,6 +48,7 @@
       "minecraft:ice_spikes": "2024-12-27 18:19:21 +0000",
       "minecraft:frozen_ocean": "2024-12-21 20:29:03 +0000",
       "minecraft:windswept_forest": "2024-12-22 14:36:38 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-27 18:26:24 +0000",
       "minecraft:ocean": "2024-12-21 16:25:33 +0000",
       "minecraft:jungle": "2024-12-25 20:08:56 +0000",
       "minecraft:snowy_beach": "2024-12-21 20:25:01 +0000",
@@ -4684,6 +4685,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2024-12-27 17:36:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-27 18:28:37 +0000"
     },
     "done": true
   },
