@@ -907,6 +907,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-27 16:49:55 +0000",
       "chicken": "2024-12-27 15:47:47 +0000",
       "cooked_mutton": "2024-12-21 18:14:59 +0000",
       "cooked_beef": "2024-12-21 17:12:56 +0000",
@@ -1078,6 +1079,8 @@
     "criteria": {
       "biomeswevegone:temperate_grove": "2024-12-27 14:42:51 +0000",
       "biomeswevegone:lush_stacks": "2024-12-21 18:52:15 +0000",
+      "biomeswevegone:coconino_meadow": "2024-12-27 16:44:28 +0000",
+      "biomeswevegone:orchard": "2024-12-27 16:43:00 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-21 17:01:24 +0000",
       "biomeswevegone:prairie": "2024-12-27 15:37:03 +0000",
       "biomeswevegone:rose_fields": "2024-12-27 15:40:45 +0000",
@@ -3379,9 +3382,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-27 16:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-27 16:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-27 16:58:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-27 16:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-27 16:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-27 16:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-27 16:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-27 16:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-27 16:58:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-27 16:58:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2024-12-27 16:53:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-27 16:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-27 16:58:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-27 16:58:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-27 16:58:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-27 16:58:12 +0000"
     },
     "done": true
   },
@@ -3394,6 +3487,18 @@
   "biomeswevegone:recipes/food/cooked_white_puffball_cap": {
     "criteria": {
       "has_white_puffball_cap": "2024-12-27 16:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-27 16:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-27 16:58:31 +0000"
     },
     "done": true
   },
@@ -3412,6 +3517,12 @@
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_chest": "2024-12-27 16:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-27 16:58:31 +0000"
     },
     "done": true
   },
