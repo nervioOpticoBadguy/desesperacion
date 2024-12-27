@@ -6661,3 +6661,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [27Dec2024 15:40:55.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Dec2024 15:41:21.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Skeleton
 [27Dec2024 15:41:28.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[27Dec2024 15:45:10.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Skeleton
+[27Dec2024 15:45:16.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
+[27Dec2024 15:45:52.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 moved too quickly! 5.649431660873731,0.0,8.373533390624857
+[27Dec2024 15:46:00.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 15:46:00.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 15:49:29.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 lost connection: Disconnected
+[27Dec2024 15:49:29.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 left the game
+[27Dec2024 15:51:00.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 15:51:00.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -905,6 +905,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2024-12-27 15:47:47 +0000",
       "cooked_mutton": "2024-12-21 18:14:59 +0000",
       "cooked_beef": "2024-12-21 17:12:56 +0000",
       "porkchop": "2024-12-21 16:10:03 +0000",
@@ -2850,6 +2851,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 15:27:30 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/red_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_red_dye]": "2024-12-27 15:48:53 +0000"
     },
     "done": true
   },

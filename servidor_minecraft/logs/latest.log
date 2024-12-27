@@ -232,3 +232,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [27Dec2024 15:22:58.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [Sweet Dreams]
 [27Dec2024 15:41:21.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Skeleton
 [27Dec2024 15:41:28.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[27Dec2024 15:45:10.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Skeleton
+[27Dec2024 15:45:16.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
+[27Dec2024 15:45:52.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 moved too quickly! 5.649431660873731,0.0,8.373533390624857
+[27Dec2024 15:49:29.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 lost connection: Disconnected
+[27Dec2024 15:49:29.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 left the game
