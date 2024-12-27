@@ -3210,7 +3210,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2024-12-21 18:24:45 +0000"
+      "apple": "2024-12-21 18:24:45 +0000",
+      "golden_apple": "2024-12-27 17:19:51 +0000"
     },
     "done": false
   },
@@ -4633,6 +4634,12 @@
   "create:recipes/building_blocks/crimson_window": {
     "criteria": {
       "has_ingredient": "2024-12-27 16:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-27 17:19:51 +0000"
     },
     "done": true
   },

@@ -915,6 +915,7 @@
       "porkchop": "2024-12-21 16:10:03 +0000",
       "tropical_fish": "2024-12-21 17:42:34 +0000",
       "mutton": "2024-12-21 16:10:24 +0000",
+      "cooked_chicken": "2024-12-27 17:24:17 +0000",
       "cod": "2024-12-21 18:48:45 +0000",
       "carrot": "2024-12-27 14:43:14 +0000"
     },
@@ -3386,6 +3387,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-27 17:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-27 17:18:45 +0000"
     },
     "done": true
   },

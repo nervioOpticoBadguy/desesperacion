@@ -1816,3 +1816,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [27Dec2024 17:17:03.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was burnt to a crisp whilst fighting Zombie
 [27Dec2024 17:17:18.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Wither Skeleton
 [27Dec2024 17:17:18.285] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_27.12.2024-17.17.18.dat
+[27Dec2024 17:18:45.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [Take Aim]
+[27Dec2024 17:19:03.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was slain by Hoglin
+[27Dec2024 17:19:03.368] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_27.12.2024-17.19.03.dat
+[27Dec2024 17:19:05.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Wither Skeleton
+[27Dec2024 17:20:04.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Skeleton
+[27Dec2024 17:20:21.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Wither Skeleton
+[27Dec2024 17:20:21.922] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_27.12.2024-17.20.21.dat
+[27Dec2024 17:20:42.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Wither Skeleton
+[27Dec2024 17:20:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was burnt to a crisp whilst fighting Wither Skeleton
+[27Dec2024 17:20:54.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was slain by Wither Skeleton
+[27Dec2024 17:21:09.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Wither Skeleton
+[27Dec2024 17:21:10.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Wither Skeleton
+[27Dec2024 17:21:33.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was slain by Hoglin
+[27Dec2024 17:21:35.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was blown up by Creeper
+[27Dec2024 17:21:44.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was shot by Wither Skeleton
+[27Dec2024 17:21:56.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was doomed to fall by Skeleton
+[27Dec2024 17:22:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was doomed to fall by Hoglin
+[27Dec2024 17:22:16.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 was slain by Hoglin
+[27Dec2024 17:23:03.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Skeleton
+[27Dec2024 17:23:28.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was shot by Skeleton
+[27Dec2024 17:26:05.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm was doomed to fall
+[27Dec2024 17:26:05.827] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for christorm with unique ID travelersbackpack.standard_27.12.2024-17.26.05.dat
