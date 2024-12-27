@@ -4087,3 +4087,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [27Dec2024 18:49:06.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 moved too quickly! -0.07392032555713968,2.191352907900608,-9.772149820900268
 [27Dec2024 18:49:06.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2887ms or 57 ticks behind
 [27Dec2024 18:49:16.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm moved too quickly! 1.7289274631671674,-2.0,9.671435943453162
+[27Dec2024 18:53:35.284] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ac9bc51[id=<null>,name=CabezaCascoo,properties={},legacy=false] (/127.96.153.127:40009) lost connection: Disconnected
+[27Dec2024 18:53:43.585] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79beafb8[id=<null>,name=CabezaCascoo,properties={},legacy=false] (/127.96.153.127:58181) lost connection: Disconnected
+[27Dec2024 18:54:16.073] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40c6571b[id=<null>,name=CabezaCascoo,properties={},legacy=false] (/127.96.153.127:50223) lost connection: Disconnected
+[27Dec2024 18:54:22.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CabezaCascoo[/127.96.153.127:55445] logged in with entity id 113543 at (-7291.423196496719, 65.0, 4936.493466041214)
+[27Dec2024 18:54:22.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CabezaCascoo joined the game
+[27Dec2024 18:54:23.044] [Server thread/INFO] [Jade/]: Syncing config to CabezaCascoo (a4f49cc0-b26f-3ce9-b716-255117de29ae)
+[27Dec2024 18:54:25.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[27Dec2024 18:55:28.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christorm lost connection: Disconnected
+[27Dec2024 18:55:28.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christorm left the game
+[27Dec2024 18:55:58.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 lost connection: Disconnected
+[27Dec2024 18:55:58.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 left the game
+[27Dec2024 18:58:36.223] [Worker-Main-128/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
