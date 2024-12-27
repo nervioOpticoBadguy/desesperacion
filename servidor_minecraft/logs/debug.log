@@ -6635,3 +6635,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [27Dec2024 14:50:55.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 14:50:55.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Dec2024 14:52:29.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [The Lighthouse]
+[27Dec2024 14:55:55.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 14:55:55.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 14:57:49.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 moved too quickly! 0.8976786270211861,0.0,10.157626124426542
+[27Dec2024 15:00:55.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 15:00:55.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -38,7 +38,8 @@
       "minecraft:ocean": "2024-12-21 18:40:09 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 18:52:33 +0000",
       "minecraft:frozen_peaks": "2024-12-21 18:04:44 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-21 15:52:23 +0000"
+      "minecraft:old_growth_birch_forest": "2024-12-21 15:52:23 +0000",
+      "minecraft:plains": "2024-12-27 14:52:07 +0000"
     },
     "done": false
   },
@@ -2858,6 +2859,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-27 14:39:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-27 14:52:29 +0000"
     },
     "done": true
   },

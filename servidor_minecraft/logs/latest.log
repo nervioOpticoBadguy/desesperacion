@@ -228,3 +228,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [27Dec2024 14:44:51.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablitobanana07) moved too quickly! -1.3260416370975463,0.0,12.631950957383438
 [27Dec2024 14:44:51.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
 [27Dec2024 14:52:29.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablitobanana07 has made the advancement [The Lighthouse]
+[27Dec2024 14:57:49.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablitobanana07 moved too quickly! 0.8976786270211861,0.0,10.157626124426542
